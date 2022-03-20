@@ -1,0 +1,688 @@
+{
+  "note": "data-update script overwrites values in this file",
+  "name": "Nikita Savchenko",
+  "email": "me@nikita.tk",
+  "website": "https://nikita.tk",
+  "telegram": "nikitaeverywhere",
+  "websitePersistentTitle": "Nikita Savchenko",
+  "currentLocation": "Kyiv, Ukraine",
+  "galleryMaxFeatured": 55,
+  "pages": {
+    "0": {
+      "keepAtPos0": "PLEASE",
+      "path": "/",
+      "title": null
+    },
+    "1": {
+      "path": "/developer",
+      "title": "as Developer",
+      "timelineFilter": {
+        "tags": ["projects", "career", "open source"]
+      }
+    },
+    "2": {
+      "path": "/photographer",
+      "title": "as Photographer",
+      "timelineFilter": {
+        "tags": ["photography"]
+      }
+    },
+    "3": {
+      "path": "/teacher",
+      "title": "as Teacher and Speaker",
+      "timelineFilter": {
+        "tags": ["teaching", "public speaking"]
+      }
+    },
+    "4": {
+      "path": "/traveler",
+      "title": "as Traveler",
+      "timelineFilter": {
+        "tags": ["travel"]
+      }
+    }
+  },
+  "socialNetworks": {
+    "instagram": 2800,
+    "medium": 501,
+    "facebook": 409,
+    "vk": 284,
+    "twitter": 96,
+    "linkedin": 307,
+    "github": 90,
+    "youtube": 53,
+    "tiktok": 35,
+    "habr": 7,
+    "stackoverflow": 815,
+    "npm": 13
+  },
+  "socialNetworkAccounts": {
+    "instagram": "nikitaeverywhere",
+    "tiktok": "nikitaeverywhere",
+    "medium": "zitro",
+    "twitter": "nikitaeveryday",
+    "github": "zitros",
+    "linkedin": "zitros",
+    "facebook": "zitros"
+  },
+  "languages": ["English", "Ukrainian", "Russian"],
+  "career": [
+    {
+      "icon": "decash",
+      "caption": "DeCash",
+      "subtitle": "CTO & Product Owner (crypto)",
+      "year": 2021
+    },
+    {
+      "icon": "google",
+      "caption": "Google",
+      "subtitle": "Software Engineer (Google Cloud)",
+      "year": 2020
+    },
+    {
+      "icon": "dreamteam",
+      "caption": "DreamTeam Startup",
+      "subtitle": "Blockchain Developer, Product Owner",
+      "year": 2018
+    },
+    {
+      "icon": "intersystems",
+      "caption": "InterSystems Corporation",
+      "subtitle": "Software Engineer, Teacher",
+      "year": 2013
+    }
+  ],
+  "developerOffers": [
+    {
+      "icon": "gcloud",
+      "caption": "System design and architecture",
+      "description": "Building things from ground up in cloud or hybrid infrastructure"
+    },
+    {
+      "icon": "solidity",
+      "caption": "Blockchain development",
+      "description": "Designing and developing for Ethereum and other decentralized platforms"
+    },
+    {
+      "icon": "ethereum",
+      "caption": "Smart contracts and blockchain solutions auditing",
+      "description": "Bullet-proofing smart contracts with the help of my experience"
+    },
+    {
+      "icon": "git",
+      "caption": "Full stack software development",
+      "description": "Full stack web, desktop or mobile development"
+    },
+    {
+      "icon": "teacher",
+      "caption": "Teaching or consulting",
+      "description": "Experience sharing with a cup of tea somewhere around the world or online"
+    }
+  ],
+  "photographerOffers": [
+    {
+      "icon": "prolog",
+      "caption": "Drone photography and videography",
+      "description": "Capturing shots, videos and panoramas of our planet from (almost) any point"
+    },
+    {
+      "icon": "adobePhotoshop",
+      "caption": "Advanced editing and processing",
+      "description": "Making wounderful things by combining captures together. Check it below!"
+    },
+    {
+      "icon": "panorama",
+      "caption": "Prints of my panoramas and photos",
+      "description": "Found something in my library you want to materialize or use? Contact me!"
+    }
+  ],
+  "teacherOffers": [
+    {
+      "icon": "teacher",
+      "caption": "International technical trainings",
+      "description": "Primarily onsite trainings organized all around the world!"
+    },
+    {
+      "icon": "intersystems",
+      "caption": "InterSystems technology trainings",
+      "description": "Many of my international trainings happened for InterSystems Trainings"
+    },
+    {
+      "icon": "fullscreenEnter",
+      "caption": "Knowledge sharing",
+      "description": "Blockchain, Software and everything else, according to my experience"
+    }
+  ],
+  "techByCategory": [
+    {
+      "categoryName": "Technology",
+      "items": [
+        {
+          "icon": "ethereum",
+          "name": "Blockchain",
+          "link": "https://ethereum.org",
+          "progress": 0.95
+        },
+        {
+          "icon": "gcloud",
+          "name": "Google Cloud",
+          "link": "https://cloud.google.com",
+          "progress": 0.88
+        },
+        {
+          "icon": "intersystems",
+          "name": "InterSystems",
+          "link": "https://www.intersystems.com/",
+          "progress": 0.83
+        },
+        {
+          "icon": "linux",
+          "name": "Linux",
+          "link": "https://www.linux.org/",
+          "progress": 0.81
+        },
+        {
+          "icon": "windows",
+          "name": "Windows",
+          "link": "https://www.microsoft.com/en-us/windows",
+          "progress": 0.81
+        },
+        {
+          "icon": "android",
+          "name": "Android",
+          "link": "https://www.android.com",
+          "progress": 0.73
+        }
+      ]
+    },
+    {
+      "categoryName": "Software",
+      "items": [
+        {
+          "icon": "adobePhotoshop",
+          "name": "Photoshop",
+          "link": "https://www.adobe.com/products/photoshop.html",
+          "progress": 0.97
+        },
+        {
+          "icon": "adobePremiere",
+          "name": "Premiere Pro",
+          "link": "https://www.adobe.com/products/premiere.html",
+          "progress": 0.95
+        },
+        {
+          "icon": "adobeLightroom",
+          "name": "Lightroom",
+          "link": "https://www.adobe.com/products/photoshop-lightroom.html",
+          "progress": 0.93
+        },
+        {
+          "icon": "figma",
+          "name": "Figma",
+          "link": "https://www.figma.com/",
+          "progress": 0.82
+        },
+        {
+          "icon": "adobeIllustrator",
+          "name": "Illustrator",
+          "link": "https://www.adobe.com/products/illustrator.html",
+          "progress": 0.8
+        },
+        {
+          "icon": "blender",
+          "name": "Blender",
+          "link": "https://www.blender.org/",
+          "progress": 0.72
+        },
+        {
+          "icon": "flstudio",
+          "name": "FL Studio",
+          "link": "https://www.image-line.com/flstudio/",
+          "progress": 0.55
+        },
+        {
+          "icon": "unity",
+          "name": "Unity",
+          "link": "https://unity.com",
+          "progress": 0.5
+        }
+      ]
+    },
+    {
+      "categoryName": "Back End",
+      "items": [
+        {
+          "icon": "kubernetes",
+          "name": "Kubernetes",
+          "link": "https://kubernetes.io",
+          "progress": 0.97
+        },
+        {
+          "icon": "nodejs",
+          "name": "NodeJS",
+          "link": "https://nodejs.org",
+          "progress": 0.97
+        },
+        {
+          "icon": "mongodb",
+          "name": "MongoDB",
+          "link": "https://www.mongodb.com",
+          "progress": 0.96
+        },
+        {
+          "icon": "rabbitmq",
+          "name": "RabbitMQ",
+          "link": "https://www.rabbitmq.com",
+          "progress": 0.9
+        },
+        {
+          "icon": "mysql",
+          "name": "MySQL",
+          "link": "https://www.mysql.com",
+          "progress": 0.8
+        },
+        {
+          "icon": "redis",
+          "name": "Redis",
+          "link": "https://redis.io",
+          "progress": 0.75
+        }
+      ]
+    },
+    {
+      "categoryName": "Front End",
+      "items": [
+        {
+          "icon": "react",
+          "name": "React",
+          "link": "https://reactjs.org",
+          "progress": 1
+        },
+        {
+          "icon": "webpack",
+          "name": "Webpack",
+          "link": "https://webpack.js.org",
+          "progress": 0.85
+        },
+        {
+          "icon": "mobx",
+          "name": "MobX",
+          "link": "https://mobx.js.org",
+          "progress": 0.85
+        },
+        {
+          "icon": "d3js",
+          "name": "D3.js",
+          "link": "https://d3js.org",
+          "progress": 0.75
+        },
+        {
+          "icon": "angular",
+          "name": "Angular",
+          "link": "https://angular.io",
+          "progress": 0.85
+        }
+      ]
+    },
+    {
+      "categoryName": "Tooling",
+      "items": [
+        {
+          "icon": "git",
+          "name": "Git",
+          "link": "https://git-scm.com",
+          "progress": 0.95
+        },
+        {
+          "icon": "npm",
+          "name": "NPM",
+          "link": "https://www.npmjs.com/~zitro",
+          "progress": 0.93
+        },
+        {
+          "icon": "github",
+          "name": "GitHub",
+          "link": "https://github.com",
+          "progress": 0.93
+        },
+        {
+          "icon": "docker",
+          "name": "Docker",
+          "link": "https://www.docker.com",
+          "progress": 0.9
+        },
+        {
+          "icon": "gitlab",
+          "name": "GitLab",
+          "link": "https://gitlab.com",
+          "progress": 0.86
+        },
+        {
+          "icon": "adobePhonegap",
+          "name": "PhoneGap",
+          "link": "https://phonegap.com/",
+          "progress": 0.7
+        }
+      ]
+    },
+    {
+      "categoryName": "Programming\nLanguages",
+      "items": [
+        {
+          "icon": "javascript",
+          "name": "JavaScript",
+          "link": "https://en.wikipedia.org/wiki/JavaScript",
+          "progress": 0.99
+        },
+        {
+          "icon": "css3",
+          "name": "CSS",
+          "link": "https://en.wikipedia.org/wiki/Cascading_Style_Sheets",
+          "progress": 0.99
+        },
+        {
+          "icon": "html5",
+          "name": "HTML",
+          "link": "https://en.wikipedia.org/wiki/HTML",
+          "progress": 0.99
+        },
+        {
+          "icon": "solidity",
+          "name": "Solidity",
+          "link": "https://docs.soliditylang.org/en/v0.8.10",
+          "progress": 0.93
+        },
+        {
+          "icon": "intersystems",
+          "name": "ObjectScript",
+          "link": "https://en.wikipedia.org/wiki/Cach%C3%A9_ObjectScript",
+          "progress": 0.9
+        },
+        {
+          "icon": "java",
+          "name": "Java",
+          "link": "https://en.wikipedia.org/wiki/Java_(programming_language)",
+          "progress": 0.89
+        },
+        {
+          "icon": "bash",
+          "name": "Shell Script",
+          "link": "https://en.wikipedia.org/wiki/Shell_script",
+          "progress": 0.87
+        },
+        {
+          "icon": "python",
+          "name": "Python",
+          "link": "https://en.wikipedia.org/wiki/Python_(programming_language)",
+          "progress": 0.7
+        },
+        {
+          "icon": "php",
+          "name": "PHP",
+          "link": "https://www.php.net/",
+          "progress": 0.68
+        },
+        {
+          "icon": "csharp",
+          "name": "C#",
+          "link": "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)",
+          "progress": 0.67
+        },
+        {
+          "icon": "golang",
+          "name": "Go",
+          "link": "https://golang.org/",
+          "progress": 0.65
+        },
+        {
+          "icon": "cplusplus",
+          "name": "C++",
+          "link": "https://en.wikipedia.org/wiki/C%2B%2B",
+          "progress": 0.6
+        },
+        {
+          "icon": "prolog",
+          "name": "Prolog",
+          "link": "https://www.swi-prolog.org/",
+          "progress": 0.46
+        }
+      ]
+    }
+  ],
+  "visitedAreas": [
+    {
+      "code": "UA",
+      "name": "Ukraine"
+    },
+    {
+      "code": "SC",
+      "name": "Seychelles"
+    },
+    {
+      "code": "AL",
+      "name": "Albania"
+    },
+    {
+      "code": "BA",
+      "name": "Bosnia & Herzegovina"
+    },
+    {
+      "code": "ME",
+      "name": "Montenegro"
+    },
+    {
+      "code": "HR",
+      "name": "Croatia"
+    },
+    {
+      "code": "RU",
+      "name": "Russia"
+    },
+    {
+      "code": "PL",
+      "name": "Poland"
+    },
+    {
+      "code": "CY",
+      "name": "Cyprus"
+    },
+    {
+      "code": "GE",
+      "name": "Georgia"
+    },
+    {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    {
+      "code": "BY",
+      "name": "Belarus"
+    },
+    {
+      "code": "CH",
+      "name": "Switzerland"
+    },
+    {
+      "code": "LI",
+      "name": "Liechtenstein"
+    },
+    {
+      "code": "ZA",
+      "name": "South Africa"
+    },
+    {
+      "code": "TR",
+      "name": "Turkey"
+    },
+    {
+      "code": "AE",
+      "name": "United Arab Emirates"
+    },
+    {
+      "code": "OM",
+      "name": "Oman"
+    },
+    {
+      "code": "QA",
+      "name": "Qatar"
+    },
+    {
+      "code": "EG",
+      "name": "Egypt"
+    },
+    {
+      "code": "US",
+      "name": "United States"
+    },
+    {
+      "code": "CO",
+      "name": "Colombia"
+    },
+    {
+      "code": "IN",
+      "name": "India"
+    },
+    {
+      "code": "MT",
+      "name": "Malta"
+    },
+    {
+      "code": "ID",
+      "name": "Indonesia"
+    },
+    {
+      "code": "MD",
+      "name": "Moldova"
+    },
+    {
+      "code": "CZ",
+      "name": "Czechia"
+    },
+    {
+      "code": "SK",
+      "name": "Slovakia"
+    },
+    {
+      "code": "DE",
+      "name": "Germany"
+    },
+    {
+      "code": "ES",
+      "name": "Spain"
+    },
+    {
+      "code": "IT",
+      "name": "Italy"
+    },
+    {
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    {
+      "code": "MC",
+      "name": "Monaco"
+    },
+    {
+      "code": "VA",
+      "name": "Vatican"
+    },
+    {
+      "code": "IC",
+      "name": "Canary Islands",
+      "part": "ES"
+    },
+    {
+      "code": "TZ",
+      "name": "Tanzania"
+    },
+    {
+      "code": "GB",
+      "name": "Great Britain"
+    },
+    {
+      "code": "DK",
+      "name": "Denmark"
+    },
+    {
+      "code": "SE",
+      "name": "Sweden"
+    },
+    {
+      "code": "AT",
+      "name": "Austria"
+    },
+    {
+      "code": "GR",
+      "name": "Greece"
+    },
+    {
+      "code": "TH",
+      "name": "Thailand"
+    }
+  ],
+  "timeline": [
+    {
+      "location": {
+        "name": "Poland",
+        "code": "PL"
+      },
+      "date-start": 1633996800000,
+      "title": "My Carbon Footprint project at Google Cloud Next",
+      "importance": 5,
+      "tags": ["career"],
+      "media": [
+        {
+          "caption": "The Carbon Footprint Dashboard UI I've built at Google",
+          "src": "/img/auto/8e1d885a95e5eb87.png",
+          "type": "image",
+          "thumbnail": "/img/auto/8e1d885a95e5eb87.thumbnail.png",
+          "w": 1492,
+          "h": 1134
+        },
+        {
+          "src": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/co2_est.gif",
+          "caption": "An animation of the Carbon Footprint UI",
+          "type": "image"
+        },
+        {
+          "src": "https://www.youtube-nocookie.com/embed/6QbKkDibKXg",
+          "caption": "Google Cloud Carbon Footprint - Sundar announces the product",
+          "type": "youtube",
+          "thumbnail": "https://img.youtube.com/vi/6QbKkDibKXg/mqdefault.jpg",
+          "link": "https://www.youtube.com/watch?v=6QbKkDibKXg",
+          "w": 320,
+          "h": 180
+        }
+      ],
+      "html": "<p>In the past year at Google I&#39;ve been working on one of the most anticipated Google Cloud\nproducts - the carbon footprint. Specifically, I&#39;ve been leading its UI development. As you\ncan imagine, this product was not only about the UI: we had a team at Google of around 40\namazing people working together to make Carbon Footprint live and announced on October 12.</p>\n<ul>\n<li><em>«It allows companies to measure, track and report on the gross carbon emissions associated with the electricity of your cloud usage, allowing them to disclose their energy-related emissions data for internal carbon inventories and external carbon disclosures. It is available for free to all GCP users now.»</em> (<a target=\"_blank\" href=\"https://www.datacenterdynamics.com/en/news/next-21-google-announces-edge-and-on-premise-cloud-offerings/\">source</a>)</li>\n<li><em>«Customers can monitor their cloud emissions over time by project, by product, and by region, empowering IT teams and developers with metrics that help them reduce their carbon footprint»</em> (<a target=\"_blank\" href=\"https://www.theregister.com/2021/10/12/google_next_roundup/\">source</a>)</li>\n<li><em>«Using Carbon Footprint, you have access to the gross energy-related emissions data you need for internal carbon inventories and external carbon disclosures, with one click.»</em> (<a target=\"_blank\" href=\"https://www.computerweekly.com/news/252508088/Google-Cloud-renews-commitment-to-helping-enterprises-decarbonise-their-IT-infrastructure\">source</a>)</li>\n</ul>\n<p>Here are the top resources and announcements of this new product:</p>\n<ul>\n<li><a target=\"_blank\" href=\"https://youtu.be/6QbKkDibKXg?t=2472\">Sundar&#39;s announcement</a></li>\n<li><a target=\"_blank\" href=\"https://cloud.google.com/blog/topics/sustainability/new-tools-to-measure-and-reduce-your-environmental-impact\">Google&#39;s Blog post</a></li>\n<li><a target=\"_blank\" href=\"https://www.linkedin.com/posts/zitros_googlecloudnext-activity-6853991110709190656-S4Wz\">My LinkedIn post</a></li>\n</ul>\n<p>Press:</p>\n<ul>\n<li>Bloomberg: <a target=\"_blank\" href=\"https://www.bloomberg.com/news/articles/2021-10-12/google-will-show-its-cloud-customers-their-carbon-footprint?sref=CY7BpvSE\">Google Will Show Its Cloud Customers Their Carbon Footprint</a></li>\n<li>CRN: <a target=\"_blank\" href=\"https://www.crn.com/slide-shows/cloud/google-cloud-next-21-the-10-biggest-announcements/8\">Google Cloud Next ’21: The 10 Biggest Announcements</a></li>\n<li>Fast Company: <a target=\"_blank\" href=\"https://www.fastcompany.com/90685146/google-cloud-wants-to-help-your-company-go-green\">Google Cloud wants to help other companies go green</a></li>\n<li>The Register: <a target=\"_blank\" href=\"https://www.theregister.com/2021/10/12/google_next_roundup/\">Google Cloud will let you know how your workloads are damaging the environment</a></li>\n<li>Reuters: <a target=\"_blank\" href=\"https://www.reuters.com/technology/google-cloud-unveils-carbon-footprint-tracker-satellite-imagery-suite-2021-10-12/\">Google Cloud unveils carbon footprint tracker, satellite imagery suite</a></li>\n<li>SDxCentral: <a target=\"_blank\" href=\"https://www.sdxcentral.com/articles/news/google-cloud-targets-customers-carbon-footprints/2021/10/\">Google Cloud Targets Customers&#39; Carbon Footprints</a></li>\n<li>SiliconANGLE: <a target=\"_blank\" href=\"https://siliconangle.com/2021/10/12/googes-carbon-footprint-tool-lets-cloud-customers-track-emissions/\">Google cloud customers can now track their carbon emissions</a></li>\n<li>TechCrunch: <a target=\"_blank\" href=\"https://techcrunch.com/2021/10/12/google-cloud-will-now-show-its-users-their-carbon-footprint-in-the-cloud/\">Google Cloud will now show its users their carbon footprint in the cloud</a></li>\n<li>TechRadar: <a target=\"_blank\" href=\"https://www.techradar.com/news/google-says-it-has-the-industrys-cleanest-cloud\">Google says it has the &#39;industry&#39;s cleanest cloud&#39;</a></li>\n<li>ZDNet: <a target=\"_blank\" href=\"https://www.zdnet.com/article/google-creates-tools-to-track-carbon-footprint-emissions-data/\">Google creates tools to track carbon footprint, emissions data</a></li>\n</ul>\n<p>Some customer&#39;s feedback:</p>\n<ul>\n<li><em>«We are expanding our portfolio of solutions and partnerships to help reduce your carbon footprint»</em> - Sundar Pichai, Google&#39;s CEO</li>\n<li><em>«What we can now do through this tool is see what is happening within our applications within specific types of code or particular toolsets that we are using within our applications on the cloud. It’s that granularity that enables better decision-making.»</em> - Stephen Bayly, the HSBC bank’s CIO for markets and securities services</li>\n<li><em>«Co-designed with customers like HSBC, Atos, Salesforce, and L’Oreal, Google Cloud’s Carbon Footprint product will provide customers with an accurate and actionable repofi of the carbon footprint associated with the Cloud usage.»</em> - Google</li>\n<li><em>«Google is partnering with Salesforce to make its GCP emissions data available in Salesforce&#39;s carbon account platform»</em> - Jen Bennett, technical director in the Office of the CTO at Google Cloud</li>\n</ul>\n"
+    },
+    {
+      "location": {
+        "name": "Moldova",
+        "code": "MD"
+      },
+      "date-start": 1634169600000,
+      "date-end": 1634428800000,
+      "title": "Traveling to Moldova",
+      "importance": 1,
+      "tags": ["travel", "photography"],
+      "media": [
+        {
+          "src": "https://www.youtube-nocookie.com/embed/WzOpHIaNOvg",
+          "caption": "Somewhere close to Ukraine-Moldova border",
+          "type": "youtube",
+          "thumbnail": "https://img.youtube.com/vi/WzOpHIaNOvg/mqdefault.jpg",
+          "link": "https://www.youtube.com/watch?v=WzOpHIaNOvg",
+          "w": 320,
+          "h": 180
+        }
+      ],
+      "html": "<p>Photos and panoramas of Moldova by Nikita Savchenko</p>\n"
+    }
+  ],
+  "lastUpdateAt": 1647769137238
+}

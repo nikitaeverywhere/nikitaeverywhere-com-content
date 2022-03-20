@@ -1,0 +1,31 @@
+name: Build and update static content
+
+on:
+  push:
+    branches:
+      - main
+
+env:
+  GITHUB_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN }}
+  ENV: prod
+
+jobs:
+
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    if: "!startsWith(github.event.head_commit.message, 'Update static content')"
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: '16.x'
+      - run: npm install
+      - run: npm run build
+      - name: Update docs
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: 'docs'
+          message: 'Update static content'

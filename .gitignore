@@ -1,0 +1,5 @@
+/content
+/temp
+/ops/env/local.env
+/build
+node_modules

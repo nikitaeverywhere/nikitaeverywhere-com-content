@@ -1,0 +1,41 @@
+{
+  "name": "nikita-tk-timeline",
+  "version": "1.0.0",
+  "description": "Compressed timeline",
+  "main": "scripts/build.js",
+  "scripts": {
+    "test": "exit 0",
+    "build": "ENV=\"${ENV:=local}\" node -r esm ./scripts/build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZitRos/nikita-tk-timeline.git"
+  },
+  "keywords": [
+    "timeline"
+  ],
+  "author": "ZitRo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZitRos/nikita-tk-timeline/issues"
+  },
+  "homepage": "https://github.com/ZitRos/nikita-tk-timeline#readme",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "execa": "^5.1.1",
+    "node-fetch": "^2.6.7"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.0",
+    "exif-reader": "^1.0.3",
+    "front-matter": "^4.0.2",
+    "fs-extra": "^10.0.1",
+    "jimp": "^0.16.1",
+    "marked": "^4.0.12",
+    "mkdirp": "^1.0.4",
+    "node-html-parser": "^5.3.3",
+    "sharp": "^0.30.3",
+    "url-parse": "^1.5.10",
+    "xmlbuilder": "^15.1.1"
+  }
+}
