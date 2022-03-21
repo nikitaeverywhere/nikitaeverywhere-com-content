@@ -44,7 +44,7 @@ marked.setOptions({
 export const processMedia = async ({
   directory = "content/timeline",
   destDir = "build/img/auto", // Where files will go
-  destDirClient = "/img/auto", // Where links on a client side will point
+  destDirClient = "/content/img/auto", // Where links on a client side will point
   referencedOnly = true, // Process only files which are referenced in index.md. Otherwise all files
   previousMedia = [], // Used for caching purposes
 } = {}) => {
