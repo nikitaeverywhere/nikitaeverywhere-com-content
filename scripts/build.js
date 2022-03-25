@@ -46,21 +46,8 @@ const exec = async (cmd) => {
     socialNetworks: await updateSocialNetworksState(dataObject),
   });
 
-  const repos = await getGitHubRepos();
-  console.log(`Repositories to download:\n + ${repos.join("\n + ")}`);
-
   let timelineArray = [];
-  for (const repo of repos) {
-    console.log(`Unpacking ${repo}...`);
-    await exec(`rm -rf ${TEMP_DIR}`);
-    await exec(
-      `git clone '${repo.replace(
-        "https://",
-        // It will be hidden in GitHub workflow output.
-        `https://zitros-bot:${GITHUB_TOKEN}@`
-      )}' ${TEMP_DIR}`
-    );
-
+  const processTimeline = async () => {
     const srcDir = `${TEMP_DIR}/content/timeline`;
     console.log(`Processing ${srcDir}...`);
     const { result, outputFiles } = await processMedia({
@@ -70,8 +57,28 @@ const exec = async (cmd) => {
       previousMedia: dataObject.timeline,
     });
     outputFiles.map(generatedFilesSet.add.bind(generatedFilesSet));
-
     timelineArray = timelineArray.concat(result);
+  };
+
+  if (GITHUB_TOKEN) {
+    // For GitHub pipeline
+    const repos = await getGitHubRepos();
+    console.log(`Repositories to download:\n + ${repos.join("\n + ")}`);
+    for (const repo of repos) {
+      console.log(`Unpacking ${repo}...`);
+      await exec(`rm -rf ${TEMP_DIR}`);
+      await exec(
+        `git clone '${repo.replace(
+          "https://",
+          // It will be hidden in GitHub workflow output.
+          `https://zitros-bot:${GITHUB_TOKEN}@`
+        )}' ${TEMP_DIR}`
+      );
+      await processTimeline();
+    }
+  } else {
+    // For local testing
+    await processTimeline();
   }
 
   // Update timeline array

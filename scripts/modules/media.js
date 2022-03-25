@@ -64,13 +64,13 @@ export const processMedia = async ({
 
   let totalMediaProcessed = 0;
   let totalMediaToProcess = 0;
-  const logStatus = (relativeFileName, status = "processing") =>
+  const logStatus = (relativeFileName, status = "") =>
     console.log(
       `[${
         totalMediaProcessed + 1
       }/${totalMediaToProcess} ~ ${getElapsedTimeStringFromMillis(
         Date.now() - startTime
-      )}] ${status} ${relativeFileName}`
+      )}]${status ? ` ${status}` : ""} ${relativeFileName}`
     );
   const createdImages = [];
   const allTags = new Set();
@@ -103,6 +103,13 @@ export const processMedia = async ({
         return;
       }
 
+      logStatus(
+        `parsing ${
+          mdFileName
+            ? `markdown file ${mdFileName}`
+            : `directory ${filesPrefix}`
+        }...`
+      );
       const mdFileContent = mdFileName
         ? await readFile(mdFileName, "utf8")
         : "";
@@ -172,7 +179,7 @@ export const processMedia = async ({
                   const relativeFileName = `${filesPrefix}/${data.src}`; // Support only relative file names
                   let dataToReturn = null;
 
-                  c: if (imageFiles.has(relativeFileName)) {
+                  if (imageFiles.has(relativeFileName)) {
                     // Process local media files
                     // image processing
                     const fileBuffer = await readFile(relativeFileName);
@@ -204,119 +211,131 @@ export const processMedia = async ({
                     createdImages.push(imageDestination);
                     createdImages.push(thumbnailDestination);
 
-                    const lstats = await Promise.all(
-                      [imageDestination, thumbnailDestination].map(exists)
+                    const isCachedArray = await Promise.all(
+                      [imageDestination, thumbnailDestination]
+                        .map(exists)
+                        .concat([!!prev.w, !!prev.h])
                     );
-                    if (lstats.reduce((exists, acc) => acc && exists, true)) {
-                      logStatus(relativeFileName, "cached");
-                      break c; // Cache - do not build it again if both file and thumbnail exist
-                    }
-                    logStatus(relativeFileName);
-
-                    let image = sharp(fileBuffer);
-                    let exifMeta;
-                    const imgMeta = await image.metadata();
-                    try {
-                      exifMeta = parseExif(imgMeta.exif);
-                    } catch (e) {
-                      console.info(
-                        `[i] No exif metadata for ${dataToReturn.src}`,
-                        e.message || e
-                      );
-                    }
-                    let { width, height } = imgMeta;
-                    const isPanorama = width >= height * 2.73;
-                    const maxSize = isPanorama
-                      ? MAX_PANORAMA_SIZE_PX
-                      : MAX_PICTURE_SIZE_PX;
-
-                    dataToReturn.w = width;
-                    dataToReturn.h = height;
-                    if (exifMeta && exifMeta.exif) {
-                      const exifData = exifMeta.exif;
-                      const dateTaken =
-                        exifData.DateTimeOriginal || exifData.DateTimeDigitized;
-                      if (dateTaken) {
-                        dataToReturn.d = new Date(dateTaken).getTime();
-                      }
-                    }
-
-                    const horizontalThumbnail = width < height;
-                    await image
-                      .clone()
-                      .resize({
-                        width: horizontalThumbnail
-                          ? Math.min(MAX_THUMBNAIL_SIZE_PX, width)
-                          : undefined,
-                        height: horizontalThumbnail
-                          ? undefined
-                          : Math.min(MAX_THUMBNAIL_SIZE_PX, height),
-                      })
-                      .toFile(thumbnailDestination);
                     if (
-                      (isPanorama && height > maxSize) ||
-                      (!isPanorama && width > maxSize)
+                      isCachedArray.reduce((exists, acc) => acc && exists, true)
                     ) {
-                      const ratio =
-                        width > height ? maxSize / height : maxSize / width;
-                      image = image.resize({
-                        width: width > height ? undefined : maxSize,
-                        height: width > height ? maxSize : undefined,
+                      logStatus(relativeFileName, "cached");
+                      // Cache - do not build it again if both file and thumbnail exist
+                    } else {
+                      logStatus(relativeFileName, "processing");
+
+                      let image = sharp(fileBuffer);
+                      let exifMeta;
+                      const imgMeta = await image.metadata();
+                      try {
+                        exifMeta = parseExif(imgMeta.exif);
+                      } catch (e) {
+                        console.info(
+                          `[i] No exif metadata for ${dataToReturn.src}`,
+                          e.message || e
+                        );
+                      }
+                      let { width, height } = imgMeta;
+                      if (!width || !height) {
+                        logStatus(
+                          `${relativeFileName}: unable to extract width/height of an image from its exif metadata. Meta=${JSON.stringify(
+                            imgMeta
+                          )}`,
+                          "WARNING"
+                        );
+                      }
+                      const isPanorama = width >= height * 2.73;
+                      const maxSize = isPanorama
+                        ? MAX_PANORAMA_SIZE_PX
+                        : MAX_PICTURE_SIZE_PX;
+
+                      dataToReturn.w = width;
+                      dataToReturn.h = height;
+                      if (exifMeta && exifMeta.exif) {
+                        const exifData = exifMeta.exif;
+                        const dateTaken =
+                          exifData.DateTimeOriginal ||
+                          exifData.DateTimeDigitized;
+                        if (dateTaken) {
+                          dataToReturn.d = new Date(dateTaken).getTime();
+                        }
+                      }
+
+                      const horizontalThumbnail = width < height;
+                      await image
+                        .clone()
+                        .resize({
+                          width: horizontalThumbnail
+                            ? Math.min(MAX_THUMBNAIL_SIZE_PX, width)
+                            : undefined,
+                          height: horizontalThumbnail
+                            ? undefined
+                            : Math.min(MAX_THUMBNAIL_SIZE_PX, height),
+                        })
+                        .toFile(thumbnailDestination);
+                      if (
+                        (isPanorama && height > maxSize) ||
+                        (!isPanorama && width > maxSize)
+                      ) {
+                        const ratio =
+                          width > height ? maxSize / height : maxSize / width;
+                        image = image.resize({
+                          width: width > height ? undefined : maxSize,
+                          height: width > height ? maxSize : undefined,
+                        });
+                        width = Math.floor(width * ratio);
+                        height = Math.floor(height * ratio);
+                      }
+                      const composite = [];
+                      composite.push({
+                        input: watermarkBuffer,
+                        left: Math.max(0, width - watermarkWidth - 5),
+                        top: Math.max(
+                          0,
+                          Math.floor(height / 2 - watermarkHeight / 2)
+                        ),
                       });
-                      width = Math.floor(width * ratio);
-                      height = Math.floor(height * ratio);
+                      await image.composite(composite).toFile(imageDestination);
                     }
-                    const composite = [];
-                    composite.push({
-                      input: watermarkBuffer,
-                      left: Math.max(0, width - watermarkWidth - 5),
-                      top: Math.max(
-                        0,
-                        Math.floor(height / 2 - watermarkHeight / 2)
-                      ),
-                    });
-                    await image.composite(composite).toFile(imageDestination);
                   } else if (/youtu(?:be\.com|\.be)\//.test(data.src)) {
                     // Process YouTube media
 
                     const videoId = (data.src.match(
                       /youtu(?:be\.com|\.be)\/(?:embed\/|watch\?v=)?([^\/\&\?]+)/
                     ) || [])[1];
-                    if (!videoId) {
-                      break c;
-                    }
-                    const src = `https://www.youtube-nocookie.com/embed/${videoId}`;
-                    const prev = findMedia(previousMedia, src);
+                    if (videoId) {
+                      const src = `https://www.youtube-nocookie.com/embed/${videoId}`;
+                      const prev = findMedia(previousMedia, src);
 
-                    dataToReturn = {
-                      ...prev,
-                      ...data,
-                      src,
-                      type: "youtube",
-                      thumbnail: `https://img.youtube.com/vi/${videoId}/mqdefault.jpg`,
-                      link: `https://www.youtube.com/watch?v=${videoId}`,
-                    };
+                      dataToReturn = {
+                        ...prev,
+                        ...data,
+                        src,
+                        type: "youtube",
+                        thumbnail: `https://img.youtube.com/vi/${videoId}/mqdefault.jpg`,
+                        link: `https://www.youtube.com/watch?v=${videoId}`,
+                      };
 
-                    if (prev) {
-                      // Cache
-                      logStatus(src, "cached");
-                      break c;
-                    }
-                    logStatus(src);
+                      if (prev && !!prev.w && !!prev.h) {
+                        // Cache
+                        logStatus(src, "cached");
+                      } else {
+                        logStatus(src, "processing");
 
-                    try {
-                      const image = await Jimp.read(dataToReturn.thumbnail);
-                      const [w, h] = [image.getWidth(), image.getHeight()];
+                        try {
+                          const image = await Jimp.read(dataToReturn.thumbnail);
+                          const [w, h] = [image.getWidth(), image.getHeight()];
 
-                      dataToReturn.w = w;
-                      dataToReturn.h = h;
-                    } catch (e) {
-                      console.error(
-                        `Error when processing ${dataToReturn.thumbnail}`,
-                        e
-                      );
-                      dataToReturn = null;
-                      break c;
+                          dataToReturn.w = w;
+                          dataToReturn.h = h;
+                        } catch (e) {
+                          console.error(
+                            `Error when processing ${dataToReturn.thumbnail}`,
+                            e
+                          );
+                          dataToReturn = null;
+                        }
+                      }
                     }
                   } else if (
                     /^https\:\/\/.*\.(?:jpe?g|png|gif)(?:\?.*)?$/.test(data.src)
@@ -332,26 +351,25 @@ export const processMedia = async ({
                       // todo: add a local thumbnail/sizes and possibly copy?
                     };
 
-                    if (prev) {
+                    if (prev && !!prev.w && !!prev.h) {
                       // Cache
                       logStatus(dataToReturn.src, "cached");
-                      break c;
-                    }
-                    logStatus(dataToReturn.src);
+                    } else {
+                      logStatus(dataToReturn.src, "processing");
 
-                    try {
-                      const image = await Jimp.read(dataToReturn.src);
-                      const [w, h] = [image.getWidth(), image.getHeight()];
+                      try {
+                        const image = await Jimp.read(dataToReturn.src);
+                        const [w, h] = [image.getWidth(), image.getHeight()];
 
-                      dataToReturn.w = w;
-                      dataToReturn.h = h;
-                    } catch (e) {
-                      console.error(
-                        `Error when processing ${dataToReturn.src}`,
-                        e
-                      );
-                      dataToReturn = null;
-                      break c;
+                        dataToReturn.w = w;
+                        dataToReturn.h = h;
+                      } catch (e) {
+                        console.error(
+                          `Error when processing ${dataToReturn.src}`,
+                          e
+                        );
+                        dataToReturn = null;
+                      }
                     }
                   }
                   if (!dataToReturn) {
