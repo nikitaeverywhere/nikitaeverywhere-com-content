@@ -85,7 +85,7 @@ const exec = async (cmd) => {
         `https://zitros-bot:${GITHUB_TOKEN}@`
       );
       const { stdout: currentRef } = await exec(
-        `git ls-remote '${fullRepoName}' | grep -E -o -m 1 '[a-f0-9]+'`
+        `git ls-remote "${fullRepoName}" | grep -E -o -m 1 "[a-f0-9]+"`
       );
       const repoRef = await (async () => {
         try {
