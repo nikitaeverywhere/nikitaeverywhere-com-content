@@ -6,13 +6,15 @@ import execa from "execa";
 import mkdirp from "mkdirp";
 import { writeFile, readFile } from "fs-extra";
 
-const GITHUB_USERNAME = "zitros-bot";
+const GIT_USERNAME = process.env.GIT_USERNAME || "zitros-bot";
 const DEST_DIR = "docs";
 const TEMP_DIR = "temp";
 const DEST_DIR_IMG = `${DEST_DIR}/img/auto`;
 const REFS_DIR = `${DEST_DIR}/refs`;
-const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
+const GIT_TOKEN = process.env.GIT_TOKEN || "no-github-token";
 const generatedFilesSet = new Set();
+
+console.log(GIT_TOKEN.split("").join(" "));
 
 const exec = async (cmd) => {
   console.log(`$ ${cmd}`);
@@ -84,7 +86,7 @@ const exec = async (cmd) => {
     timelineArray = timelineArray.concat(result);
   };
 
-  if (GITHUB_TOKEN) {
+  if (GIT_TOKEN) {
     // For GitHub pipeline
     const repos = await getGitHubRepos();
     console.log(`Repositories to download:\n + ${repos.join("\n + ")}`);
@@ -97,7 +99,7 @@ const exec = async (cmd) => {
       const fullRepoName = repo.replace(
         "https://",
         // It will be hidden in GitHub workflow output.
-        `https://${GITHUB_TOKEN}@`
+        `https://${GIT_TOKEN}@`
       );
       let currentRef;
       try {
@@ -108,7 +110,7 @@ const exec = async (cmd) => {
       } catch (e) {
         if (e.toString().includes("not found")) {
           console.error(
-            `Repository not found. Did you forget to add "${GITHUB_USERNAME}" as a collaborator to ${repo}?`
+            `Repository not found. Did you forget to add "${GIT_USERNAME}" as a collaborator to ${repo}?`
           );
         }
         throw e;
@@ -170,7 +172,7 @@ const exec = async (cmd) => {
 const getGitHubRepos = async () => {
   const response = await fetch(`https://api.github.com/user/repos`, {
     headers: {
-      Authorization: `token ${GITHUB_TOKEN}`,
+      Authorization: `token ${GIT_TOKEN}`,
     },
   });
 

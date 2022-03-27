@@ -6,8 +6,8 @@ on:
       - main
 
 env:
-  GITHUB_USERNAME: zitros-bot
-  GITHUB_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN }}
+  GIT_USERNAME: zitros-bot
+  GIT_TOKEN: ${{ secrets.BOT_GIT_TOKEN }}
   ENV: prod
 
 jobs:
@@ -29,5 +29,5 @@ jobs:
         uses: EndBug/add-and-commit@v9
         with:
           add: 'docs'
-          committer_name: ${{ env.GITHUB_USERNAME }}
+          committer_name: ${{ env.GIT_USERNAME }}
           message: 'Update static content'
