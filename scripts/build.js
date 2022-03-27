@@ -97,12 +97,12 @@ const exec = async (cmd) => {
       const fullRepoName = repo.replace(
         "https://",
         // It will be hidden in GitHub workflow output.
-        `https://${GITHUB_USERNAME}:${GITHUB_TOKEN}@`
+        `https://${GITHUB_TOKEN}@`
       );
       let currentRef;
       try {
         let x = await exec(
-          `git ls-remote "${fullRepoName}" | grep -E -o -m 1 "[a-f0-9]+"`
+          `git ls-remote '${fullRepoName}' | grep -E -o -m 1 "[a-f0-9]+"`
         );
         currentRef = x.stdout;
       } catch (e) {
