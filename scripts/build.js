@@ -6,6 +6,7 @@ import execa from "execa";
 import mkdirp from "mkdirp";
 import { writeFile, readFile } from "fs-extra";
 
+const GITHUB_USERNAME = "zitros-bot";
 const DEST_DIR = "docs";
 const TEMP_DIR = "temp";
 const DEST_DIR_IMG = `${DEST_DIR}/img/auto`;
@@ -22,27 +23,34 @@ const exec = async (cmd) => {
     shell: true,
     buffer: false,
   });
-  const chunks = [];
+  const stdoutChunks = [];
+  const stderrChunks = [];
   execResult.stdout.on("data", (data) => {
     const string = data.toString();
-    chunks.push(string);
+    stdoutChunks.push(string);
     console.log(string);
   });
-  execResult.stderr.on("data", (data) => console.error(data.toString()));
+  execResult.stderr.on("data", (data) => {
+    const string = data.toString();
+    stderrChunks.push(string);
+    console.log(string);
+  });
 
   let result;
   try {
     result = await execResult;
   } catch (e) {
-    console.error(`Error when executing $ ${cmd}`, e);
-    throw e;
+    const err = stderrChunks.join("");
+    console.error(`Error when executing $ ${cmd}`, err || e);
+    throw new Error(err || e.message || e);
   }
 
   console.log(`[✔︎ ${Math.floor((Date.now() - start) / 100) / 10}s] ${cmd}`);
 
   return {
     ...result,
-    stdout: chunks.join("").replace(/\n?$/, ""),
+    stdout: stdoutChunks.join("").replace(/\n?$/, ""),
+    stderr: stderrChunks.join("").replace(/\n?$/, ""),
   };
 };
 
@@ -89,11 +97,22 @@ const exec = async (cmd) => {
       const fullRepoName = repo.replace(
         "https://",
         // It will be hidden in GitHub workflow output.
-        `https://zitros-bot:${GITHUB_TOKEN}@`
+        `https://${GITHUB_USERNAME}:${GITHUB_TOKEN}@`
       );
-      const { stdout: currentRef } = await exec(
-        `git ls-remote "${fullRepoName}" | grep -E -o -m 1 "[a-f0-9]+"`
-      );
+      let currentRef;
+      try {
+        let x = await exec(
+          `git ls-remote "${fullRepoName}" | grep -E -o -m 1 "[a-f0-9]+"`
+        );
+        currentRef = x.stdout;
+      } catch (e) {
+        if (e.toString().includes("not found")) {
+          console.error(
+            `Repository not found. Did you forget to add "${GITHUB_USERNAME}" as a collaborator to ${repo}?`
+          );
+        }
+        throw e;
+      }
       const repoRef = await (async () => {
         try {
           return (
