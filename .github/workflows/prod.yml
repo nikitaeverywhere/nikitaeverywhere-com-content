@@ -7,7 +7,7 @@ on:
 
 env:
   GIT_USERNAME: zitros-bot
-  GIT_TOKEN: ${{ secrets.BOT_GIT_TOKEN }}
+  GIT_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN }}
   ENV: prod
 
 jobs:
