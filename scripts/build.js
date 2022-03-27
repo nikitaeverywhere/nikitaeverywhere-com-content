@@ -14,8 +14,6 @@ const REFS_DIR = `${DEST_DIR}/refs`;
 const GIT_TOKEN = process.env.GIT_TOKEN || "no-github-token";
 const generatedFilesSet = new Set();
 
-console.log(GIT_TOKEN.split("").join(" "));
-
 const exec = async (cmd) => {
   console.log(`$ ${cmd}`);
 
@@ -101,51 +99,51 @@ const exec = async (cmd) => {
         // It will be hidden in GitHub workflow output.
         `https://${GIT_TOKEN}@`
       );
-      let currentRef;
-      try {
-        let x = await exec(
-          `git ls-remote '${fullRepoName}' | grep -E -o -m 1 "[a-f0-9]+"`
-        );
-        currentRef = x.stdout;
-      } catch (e) {
-        if (e.toString().includes("not found")) {
-          console.error(
-            `Repository not found. Did you forget to add "${GIT_USERNAME}" as a collaborator to ${repo}?`
-          );
-        }
-        throw e;
-      }
-      const repoRef = await (async () => {
-        try {
-          return (
-            (await readFile(refFileName)).toString().match(/^\w+/) || []
-          ).join("");
-        } catch (e) {
-          return "<no ref>";
-        }
-      })();
+      // let currentRef;
+      // try {
+      //   let x = await exec(
+      //     `git ls-remote '${fullRepoName}' | grep -E -o -m 1 "[a-f0-9]+"`
+      //   );
+      //   currentRef = x.stdout;
+      // } catch (e) {
+      //   if (e.toString().includes("not found")) {
+      //     console.error(
+      //       `Repository not found. Did you forget to add "${GIT_USERNAME}" as a collaborator to ${repo}?`
+      //     );
+      //   }
+      //   throw e;
+      // }
+      // const repoRef = await (async () => {
+      //   try {
+      //     return (
+      //       (await readFile(refFileName)).toString().match(/^\w+/) || []
+      //     ).join("");
+      //   } catch (e) {
+      //     return "<no ref>";
+      //   }
+      // })();
 
-      if (currentRef === repoRef) {
-        console.log(
-          `Repository ${repoName} is up-to-date with ref=${currentRef}.`
-        );
-      } else {
-        console.log(
-          `Building repository ${repoName}, as its ref (${currentRef}) does not match ref in the current repo (${repoRef}).`
-        );
+      // if (currentRef === repoRef) {
+      //   console.log(
+      //     `Repository ${repoName} is up-to-date with ref=${currentRef}.`
+      //   );
+      // } else {
+        // console.log(
+        //   `Building repository ${repoName}, as its ref (${currentRef}) does not match ref in the current repo (${repoRef}).`
+        // );
         await exec(`rm -rf ${TEMP_DIR}`);
         await exec(`git clone '${fullRepoName}' ${TEMP_DIR}`);
         await processTimeline();
-        console.log(
-          `Updating local ref of ${repoName} in ${refFileName} to be ${currentRef}...`
-        );
-        await exec(
-          `mkdir -p ${refFileName.replace(
-            /\/[^\/]+$/,
-            ""
-          )} && echo '${repoRef}' > ${refFileName}`
-        );
-      }
+        // console.log(
+        //   `Updating local ref of ${repoName} in ${refFileName} to be ${currentRef}...`
+        // );
+        // await exec(
+        //   `mkdir -p ${refFileName.replace(
+        //     /\/[^\/]+$/,
+        //     ""
+        //   )} && echo '${repoRef}' > ${refFileName}`
+        // );
+      // }
     }
   } else {
     // For local testing
