@@ -28,8 +28,15 @@ const exec = async (cmd) => {
     chunks.push(string);
     console.log(string);
   });
+  execResult.stderr.on("data", (data) => console.error(data.toString()));
 
-  const result = await execResult;
+  let result;
+  try {
+    result = await execResult;
+  } catch (e) {
+    console.error(`Error when executing $ ${cmd}`, e);
+    throw e;
+  }
 
   console.log(`[✔︎ ${Math.floor((Date.now() - start) / 100) / 10}s] ${cmd}`);
 
