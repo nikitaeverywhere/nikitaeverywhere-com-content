@@ -214,7 +214,7 @@ export const processMedia = async ({
                     const isCachedArray = await Promise.all(
                       [imageDestination, thumbnailDestination]
                         .map(exists)
-                        .concat([!!prev.w, !!prev.h])
+                        .concat([!!prev?.w, !!prev?.h])
                     );
                     if (
                       isCachedArray.reduce((exists, acc) => acc && exists, true)
