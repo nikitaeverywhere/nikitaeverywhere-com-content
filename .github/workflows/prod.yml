@@ -27,6 +27,8 @@ jobs:
           node-version: '16.x'
       - run: npm install
       - run: npm run build
+
+      - run: git remote set-url origin https://${{ env.GIT_USERNAME }}:${{ env.GIT_TOKEN }}@github.com/ZitRos/nikita-tk-timeline.git
       - name: Update docs
         uses: EndBug/add-and-commit@v9
         with:
