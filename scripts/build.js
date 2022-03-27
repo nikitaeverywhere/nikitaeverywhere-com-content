@@ -9,6 +9,7 @@ import { writeFile, readFile } from "fs-extra";
 const DEST_DIR = "docs";
 const TEMP_DIR = "temp";
 const DEST_DIR_IMG = `${DEST_DIR}/img/auto`;
+const REFS_DIR = `${DEST_DIR}/refs`;
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
 const generatedFilesSet = new Set();
 
@@ -21,13 +22,21 @@ const exec = async (cmd) => {
     shell: true,
     buffer: false,
   });
-  execResult.stdout.on("data", (data) => console.log(data));
+  const chunks = [];
+  execResult.stdout.on("data", (data) => {
+    const string = data.toString();
+    chunks.push(string);
+    console.log(string);
+  });
 
   const result = await execResult;
 
   console.log(`[✔︎ ${Math.floor((Date.now() - start) / 100) / 10}s] ${cmd}`);
 
-  return result;
+  return {
+    ...result,
+    stdout: chunks.join("").replace(/\n?$/, ""),
+  };
 };
 
 (async () => {
@@ -36,7 +45,7 @@ const exec = async (cmd) => {
     `Original data.json: ${Object.entries(dataObject).length} properties`
   );
 
-  for (const dir of [DEST_DIR, DEST_DIR_IMG, TEMP_DIR, DEST_DIR_IMG]) {
+  for (const dir of [DEST_DIR, DEST_DIR_IMG, TEMP_DIR]) {
     console.log(`Creating ${dir}...`);
     await mkdirp(dir);
   }
@@ -65,16 +74,50 @@ const exec = async (cmd) => {
     const repos = await getGitHubRepos();
     console.log(`Repositories to download:\n + ${repos.join("\n + ")}`);
     for (const repo of repos) {
-      console.log(`Unpacking ${repo}...`);
-      await exec(`rm -rf ${TEMP_DIR}`);
-      await exec(
-        `git clone '${repo.replace(
-          "https://",
-          // It will be hidden in GitHub workflow output.
-          `https://zitros-bot:${GITHUB_TOKEN}@`
-        )}' ${TEMP_DIR}`
+      const repoName = repo
+        .replace(/^.*github.com\//, "")
+        .replace(/\.git$/, "");
+      const refFileName = `${REFS_DIR}/${repoName}`;
+      console.log(`Checking whether we need to build ${repoName}...`);
+      const fullRepoName = repo.replace(
+        "https://",
+        // It will be hidden in GitHub workflow output.
+        `https://zitros-bot:${GITHUB_TOKEN}@`
       );
-      await processTimeline();
+      const { stdout: currentRef } = await exec(
+        `git ls-remote '${fullRepoName}' | grep -E -o -m 1 '[a-f0-9]+'`
+      );
+      const repoRef = await (async () => {
+        try {
+          return (
+            (await readFile(refFileName)).toString().match(/^\w+/) || []
+          ).join("");
+        } catch (e) {
+          return "<no ref>";
+        }
+      })();
+
+      if (currentRef === repoRef) {
+        console.log(
+          `Repository ${repoName} is up-to-date with ref=${currentRef}.`
+        );
+      } else {
+        console.log(
+          `Building repository ${repoName}, as its ref (${currentRef}) does not match ref in the current repo (${repoRef}).`
+        );
+        await exec(`rm -rf ${TEMP_DIR}`);
+        await exec(`git clone '${fullRepoName}' ${TEMP_DIR}`);
+        await processTimeline();
+        console.log(
+          `Updating local ref of ${repoName} in ${refFileName} to be ${currentRef}...`
+        );
+        await exec(
+          `mkdir -p ${refFileName.replace(
+            /\/[^\/]+$/,
+            ""
+          )} && echo '${repoRef}' > ${refFileName}`
+        );
+      }
     }
   } else {
     // For local testing
