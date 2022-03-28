@@ -1211,16 +1211,12 @@
         {
           "caption": "Working program demo 1 (function run)",
           "src": "https://github.com/ZitRos/archive/blob/master/media/gif/2012-score-project-1.gif?raw=true",
-          "type": "image",
-          "w": 520,
-          "h": 332
+          "type": "image"
         },
         {
           "caption": "Working program demo 2 (just random circuit)",
           "src": "https://github.com/ZitRos/archive/blob/master/media/gif/2012-score-project-2.gif?raw=true",
-          "type": "image",
-          "w": 412,
-          "h": 428
+          "type": "image"
         }
       ],
       "html": "<p>My first, self-assigned coursework, written on C++ using Qt library. The\nmain idea behind this project was to make a concept of a programming\nlanguage that will be 100% visual. The program language that will remain\nthe same on touchscreens or desktops, with the high-understandable and\nwell-debuggable &quot;visual code&quot;.</p>\n<h3 id=\"links\">Links</h3>\n<ol>\n<li><a href=\"/downloads/ScoreProject-by-nikita.tk.zip\" download>Download for Windows</a> (note: exctract the archive before opening; use Help -&gt; Tips for manual).</li>\n</ol>\n"
@@ -1562,9 +1558,7 @@
         {
           "caption": "The Space King online game - our final project!",
           "src": "https://github.com/ZitRos/NodeJS-spaceKingGame/raw/master/media/space-king-demo.gif?raw=true",
-          "type": "image",
-          "w": 280,
-          "h": 255
+          "type": "image"
         }
       ],
       "html": "<p>It was an open self-organized web courses for the students of the\nNational Technical University of Ukraine &quot;Kiev Polytechnic Institute&quot;.\nStarted from scratch, me and my friends\n<a target=\"_blank\" href=\"https://vk.com/id17799711\">Andriy</a>, <a target=\"_blank\" href=\"https://vk.com/id36131360\">Kolya</a>,\n<a target=\"_blank\" href=\"https://vk.com/id13898307\">Misha</a> and <a target=\"_blank\" href=\"https://vk.com/id36755254\">Dima</a>\ngathered around 120 motivated students and divided them into 4 groups\n(<a target=\"_blank\" href=\"https://vk.com/kpiwebschool\">1</a>, <a target=\"_blank\" href=\"https://vk.com/kpiwebschool2\">2</a>,\n<a target=\"_blank\" href=\"https://vk.com/kpiwebschool3\">3</a>, <a target=\"_blank\" href=\"https://vk.com/kpiwebschool4\">4</a>).</p>\n<p>Our goal was to organize a free, non-profit courses to share our\nexperience. Once we opened a registration for the course, we received\na huge amount of applications (around 400). Because we were able to\nhandle 120 students at max (30 students per group), we asked students to\ncompose a motivation letter to us, and we were choosing from the most\nmotivated students.</p>\n<p>I was the teacher of the <a target=\"_blank\" href=\"https://vk.com/kpiwebschool\">first</a> group, and\nI also introduced the course to all the listeners during the first\nmeeting.\nEach group had its own training program, developed by the group leaders.\nMy program was covering mainly HTML, CSS, JavaScript, NodeJS and MongoDB\ntechnologies. See the <a target=\"_blank\" href=\"https://docs.google.com/spreadsheets/d/1AeKpP-X5EQqZ2WBj4wXtkPJ7qDfZFlK3nyr21SPGawc/edit?usp=sharing\">detailed program and schedule</a>\nof the courses if you are interested.</p>\n<p>The course went excellent, and it was an exciting experience both for me\nand my students.</p>\n<h3 id=\"links\">Links</h3>\n<ol>\n<li><a target=\"_blank\" href=\"https://github.com/ZitRos/NodeJS-spaceKingGame\">Space king game source code!</a></li>\n</ol>\n"
@@ -6081,5 +6075,5 @@
       "html": "<p>Photos, panoramas and videos taken in Ukraine by Nikita Savchenko</p>\n"
     }
   ],
-  "lastUpdateAt": 1648409193895
+  "lastUpdateAt": 1648440335743
 }
