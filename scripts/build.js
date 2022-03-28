@@ -173,7 +173,9 @@ const exec = async (cmd) => {
   const usedFiles = new Set(
     dataObject.timeline
       .reduce((acc, obj) => {
-        for (const { src, thumbnail } of obj.media) {
+        for (const { src, thumbnail } of obj.media instanceof Array
+          ? obj.media
+          : []) {
           if (src) {
             acc.push(src);
           }
