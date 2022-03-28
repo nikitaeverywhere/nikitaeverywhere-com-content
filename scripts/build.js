@@ -83,7 +83,9 @@ const exec = async (cmd) => {
       fromRepo,
     });
     timelineArray = timelineArray
-      .filter((r) => r.fromRepo === fromRepo)
+      // Remove all media generated from {fromRepo}
+      .filter((r) => r.fromRepo !== fromRepo)
+      // Add newly generated media from {fromRepo}
       .concat(result);
   };
 
