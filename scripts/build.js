@@ -141,7 +141,7 @@ const exec = async (cmd) => {
           `mkdir -p ${refFileName.replace(
             /\/[^\/]+$/,
             ""
-          )} && echo '${repoRef}' > ${refFileName}`
+          )} && echo '${currentRef}' > ${refFileName}`
         );
       }
     }
