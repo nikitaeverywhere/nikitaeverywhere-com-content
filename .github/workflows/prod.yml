@@ -28,7 +28,11 @@ jobs:
       - run: npm install
       - run: npm run build
 
-      - run: git remote set-url origin https://${{ env.GIT_USERNAME }}:${{ env.GIT_TOKEN }}@github.com/ZitRos/nikita-tk-timeline.git
+      - name: Configure git
+        run: |
+          git remote set-url origin https://${{ env.GIT_USERNAME }}:${{ env.GIT_TOKEN }}@github.com/ZitRos/nikita-tk-timeline.git
+          git config user.name "${{ env.GIT_USERNAME }}"
+          git config user.email "${{ env.GIT_USERNAME }}@users.noreply.github.com"
       - name: Update docs
         uses: EndBug/add-and-commit@v9
         with:
