@@ -47,6 +47,7 @@ export const processMedia = async ({
   destDirClient = "/content/img/auto", // Where links on a client side will point
   referencedOnly = true, // Process only files which are referenced in index.md. Otherwise all files
   previousMedia = [], // Used for caching purposes
+  fromRepo = "unknown", // A repository holding files
 } = {}) => {
   const startTime = Date.now();
   const timelineFiles = await readdir(directory);
@@ -157,6 +158,7 @@ export const processMedia = async ({
 
       const processedData = {
         ...Object.assign(attributes, {
+          fromRepo,
           tags: parsedTags,
           media:
             ((media && media.length) || undefined) &&

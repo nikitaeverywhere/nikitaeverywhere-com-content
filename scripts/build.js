@@ -4,15 +4,15 @@ import fetch from "node-fetch";
 import execa from "execa";
 
 import mkdirp from "mkdirp";
-import { writeFile, readFile } from "fs-extra";
+import { writeFile, readFile, readdir, remove } from "fs-extra";
 
 const GIT_USERNAME = process.env.GIT_USERNAME || "zitros-bot";
 const DEST_DIR = "docs";
+const URL_CONTENT_PREFIX = "/content"; // Prefix relative to /docs that is prepended client-side.
 const TEMP_DIR = "temp";
 const DEST_DIR_IMG = `${DEST_DIR}/img/auto`;
 const REFS_DIR = `${DEST_DIR}/refs`;
 const GIT_TOKEN = process.env.GIT_TOKEN || "no-github-token";
-const generatedFilesSet = new Set();
 
 const exec = async (cmd) => {
   console.log(`$ ${cmd}`);
@@ -70,18 +70,21 @@ const exec = async (cmd) => {
     socialNetworks: await updateSocialNetworksState(dataObject),
   });
 
-  let timelineArray = [];
-  const processTimeline = async () => {
+  let timelineArray = dataObject.timeline || [];
+  const processTimeline = async ({ fromRepo } = {}) => {
     const srcDir = `${TEMP_DIR}/content/timeline`;
     console.log(`Processing ${srcDir}...`);
-    const { result, outputFiles } = await processMedia({
+    const { result } = await processMedia({
       directory: `${TEMP_DIR}/content/timeline`,
       destDir: DEST_DIR_IMG,
+      destDirClient: `${URL_CONTENT_PREFIX}/img/auto`,
       referencedOnly: false,
       previousMedia: dataObject.timeline,
+      fromRepo,
     });
-    outputFiles.map(generatedFilesSet.add.bind(generatedFilesSet));
-    timelineArray = timelineArray.concat(result);
+    timelineArray = timelineArray
+      .filter((r) => r.fromRepo === fromRepo)
+      .concat(result);
   };
 
   if (GIT_TOKEN) {
@@ -133,7 +136,7 @@ const exec = async (cmd) => {
         );
         await exec(`rm -rf ${TEMP_DIR}`);
         await exec(`git clone '${fullRepoName}' ${TEMP_DIR}`);
-        await processTimeline();
+        await processTimeline({ fromRepo: repoName });
         console.log(
           `Updating local ref of ${repoName} in ${refFileName} to be ${currentRef}...`
         );
@@ -152,7 +155,7 @@ const exec = async (cmd) => {
 
   // Update timeline array
   Object.assign(dataObject, {
-    timeline: timelineArray,
+    timeline: timelineArray.sort((a, b) => (b.date || 0) - (a.date || 0)),
   });
 
   // Update last update time
@@ -160,8 +163,38 @@ const exec = async (cmd) => {
     lastUpdateAt: Date.now(),
   });
 
+  // Write data.json
   console.log(`Writing ${DEST_DIR}/data.json...`);
   await writeFile(`${DEST_DIR}/data.json`, JSON.stringify(dataObject, null, 2));
+
+  // Cleanup - delete all automatically generated files that are unused by data.json.
+  const usedFiles = new Set(
+    dataObject.timeline
+      .reduce((acc, obj) => {
+        for (const { src, thumbnail } of obj.media) {
+          acc.push(src);
+          acc.push(thumbnail);
+        }
+        return acc;
+      }, [])
+      // Take only those which are actual generated content (/content/img/auto/*.*), not external links.
+      .filter((p) => p.startsWith(URL_CONTENT_PREFIX))
+      // Make file paths corresponding to a local repo (=> docs/img/auto/*.*).
+      .map((p) => p.replace(URL_CONTENT_PREFIX, DEST_DIR))
+  );
+  const allFiles = new Set(
+    // A set of all file names currently present in a target dir docs/img/auto/*.*
+    (await readdir(DEST_DIR_IMG)).map((f) => `${DEST_DIR_IMG}/${f}`)
+  );
+  console.log(
+    `Deleting unused assets from ${DEST_DIR_IMG}, which are not present in data.json:`
+  );
+  for (const fileName of allFiles) {
+    if (!usedFiles.has(fileName)) {
+      console.log(`  + Deleting ${fileName}`);
+      await remove(fileName);
+    }
+  }
 })().catch((e) => {
   console.error(e);
   process.exit(1);
@@ -185,16 +218,3 @@ const getGitHubRepos = async () => {
     .map((d) => d.clone_url)
     .filter((u) => u.includes("nikita-tk-timeline-"));
 };
-
-// Clean files in destDir which were not touched during the build
-// await Promise.all(
-//   (
-//     await readdir(destDir)
-//   )
-//     .map((n) => `${destDir}/${n}`)
-//     .filter((n) => !generatedFilesSet.has(n))
-//     .map((f, i, arr) => {
-//       console.log(`[${i + 1}/${arr.length}] deleting ${f}`);
-//       remove(f);
-//     })
-// );
