@@ -172,8 +172,12 @@ const exec = async (cmd) => {
     dataObject.timeline
       .reduce((acc, obj) => {
         for (const { src, thumbnail } of obj.media) {
-          acc.push(src);
-          acc.push(thumbnail);
+          if (src) {
+            acc.push(src);
+          }
+          if (thumbnail) {
+            acc.push(thumbnail);
+          }
         }
         return acc;
       }, [])
