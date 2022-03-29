@@ -482,6 +482,10 @@
       "name": "Bosnia & Herzegovina"
     },
     {
+      "name": "Brazil",
+      "code": "BR"
+    },
+    {
       "code": "IC",
       "name": "Canary Islands",
       "part": "ES"
@@ -6902,6 +6906,10 @@
       "html": "<p>It was just a few days in Hungary with my younger brother.</p>\n"
     },
     {
+      "location": {
+        "name": "Brazil",
+        "code": "BR"
+      },
       "date-start": 1642291200000,
       "date-end": 1643587200000,
       "title": "Travel to Brazil",
@@ -6932,6 +6940,15 @@
         },
         {
           "caption": "My friends and I, who are working in IT industry and can afford traveling the world while",
+          "src": "/content/img/auto/12530e0f4ddc2d32.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/12530e0f4ddc2d32.thumbnail.jpg",
+          "w": 26664,
+          "h": 3338,
+          "d": 1642493820000
+        },
+        {
+          "caption": "My friends and I, who are working in IT industry and can afford traveling the world while",
           "src": "/content/img/auto/596528693e59fbf5.jpg",
           "type": "image",
           "thumbnail": "/content/img/auto/596528693e59fbf5.thumbnail.jpg",
@@ -6950,6 +6967,15 @@
         },
         {
           "caption": "My friends and I, who are working in IT industry and can afford traveling the world while",
+          "src": "/content/img/auto/ea749eaac78e54c5.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/ea749eaac78e54c5.thumbnail.jpg",
+          "w": 23933,
+          "h": 3329,
+          "d": 1642700980000
+        },
+        {
+          "caption": "My friends and I, who are working in IT industry and can afford traveling the world while",
           "src": "/content/img/auto/c86b0016554f4a79.jpg",
           "type": "image",
           "thumbnail": "/content/img/auto/c86b0016554f4a79.thumbnail.jpg",
@@ -6961,5 +6987,5 @@
       "html": "<p>My friends and I, who are working in IT industry and can afford traveling the world while\nworking remotely, decided to start our work-from-South-America journey. We will try to\nvisit as many countries as possible, given COVID-related restrictions.</p>\n"
     }
   ],
-  "lastUpdateAt": 1648554522476
+  "lastUpdateAt": 1648557647992
 }
