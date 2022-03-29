@@ -744,658 +744,6 @@
       "html": "<p>I was born in the wounderful <a target=\"_blank\" href=\"https://www.google.com.ua/maps/place/Kiev\">Kiev city</a>!</p>\n"
     },
     {
-      "location": {
-        "name": "Tanzania",
-        "code": "TZ"
-      },
-      "date-start": 1614988800000,
-      "date-end": 1615939200000,
-      "title": "Traveling to Tanzania",
-      "importance": 1,
-      "tags": [
-        "travel",
-        "photography"
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2021",
-      "media": [
-        {
-          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
-          "src": "/content/img/auto/b2275e3ff444c13d.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/b2275e3ff444c13d.thumbnail.jpg",
-          "w": 10189,
-          "h": 3184,
-          "d": 1615116178000
-        },
-        {
-          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
-          "src": "/content/img/auto/4c7abb32b55b34ed.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/4c7abb32b55b34ed.thumbnail.jpg",
-          "w": 12896,
-          "h": 5373,
-          "d": 1615142915000
-        },
-        {
-          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
-          "src": "/content/img/auto/904727b3e25f7e43.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/904727b3e25f7e43.thumbnail.jpg",
-          "w": 26591,
-          "h": 3416,
-          "d": 1615204826000
-        },
-        {
-          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
-          "src": "/content/img/auto/bee49f0c0a2a72d7.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/bee49f0c0a2a72d7.thumbnail.jpg",
-          "w": 16276,
-          "h": 3328,
-          "d": 1615832769000
-        },
-        {
-          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
-          "src": "/content/img/auto/b90ae71ce8fc712a.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/b90ae71ce8fc712a.thumbnail.jpg",
-          "w": 16187,
-          "h": 5454,
-          "d": 1615210964000
-        },
-        {
-          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
-          "src": "/content/img/auto/c2c63397e2053f26.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/c2c63397e2053f26.thumbnail.jpg",
-          "w": 16349,
-          "h": 3406,
-          "d": 1615372352000
-        },
-        {
-          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
-          "src": "/content/img/auto/4be255c8f755ff31.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/4be255c8f755ff31.thumbnail.jpg",
-          "w": 16397,
-          "h": 3416,
-          "d": 1615378779000
-        },
-        {
-          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
-          "src": "/content/img/auto/70be75d1b41d0fc4.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/70be75d1b41d0fc4.thumbnail.jpg",
-          "w": 21683,
-          "h": 3388,
-          "d": 1615379432000
-        },
-        {
-          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
-          "src": "/content/img/auto/5dcd92b16786ee92.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/5dcd92b16786ee92.thumbnail.jpg",
-          "w": 5464,
-          "h": 3640,
-          "d": 1615379477000
-        },
-        {
-          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
-          "src": "/content/img/auto/d869ffcad429865e.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/d869ffcad429865e.thumbnail.jpg",
-          "w": 21053,
-          "h": 5559,
-          "d": 1615486301000
-        },
-        {
-          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
-          "src": "/content/img/auto/1094ca9b64473f33.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/1094ca9b64473f33.thumbnail.jpg",
-          "w": 19234,
-          "h": 3435,
-          "d": 1615486539000
-        },
-        {
-          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
-          "src": "/content/img/auto/b9b8143c8b7f35ac.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/b9b8143c8b7f35ac.thumbnail.jpg",
-          "w": 26700,
-          "h": 3330,
-          "d": 1615618865000
-        },
-        {
-          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
-          "src": "/content/img/auto/3111491ac68d9f77.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/3111491ac68d9f77.thumbnail.jpg",
-          "w": 5464,
-          "h": 3640,
-          "d": 1615705699000
-        },
-        {
-          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
-          "src": "/content/img/auto/257409a0c00e890a.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/257409a0c00e890a.thumbnail.jpg",
-          "w": 26562,
-          "h": 3347,
-          "d": 1615705976000
-        },
-        {
-          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
-          "src": "/content/img/auto/e550f2f42709bcf1.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/e550f2f42709bcf1.thumbnail.jpg",
-          "w": 15788,
-          "h": 3289,
-          "d": 1615832282000
-        },
-        {
-          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
-          "src": "/content/img/auto/9ffac8ccfeca86dd.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/9ffac8ccfeca86dd.thumbnail.jpg",
-          "w": 24342,
-          "h": 6086,
-          "d": 1615205108000
-        }
-      ],
-      "html": "<p>Photos and panoramas of Tanzania by Nikita Savchenko</p>\n"
-    },
-    {
-      "location": {
-        "name": "Cyprus",
-        "code": "CY"
-      },
-      "date-start": 1620432000000,
-      "date-end": 1621641600000,
-      "title": "Traveling to Cyprus",
-      "importance": 1,
-      "tags": [
-        "travel",
-        "photography"
-      ],
-      "media": [
-        {
-          "src": "https://www.youtube-nocookie.com/embed/7V687OpJEks",
-          "caption": "Cyprus: the villa country",
-          "rating": 0.92,
-          "type": "youtube",
-          "thumbnail": "https://img.youtube.com/vi/7V687OpJEks/mqdefault.jpg",
-          "link": "https://www.youtube.com/watch?v=7V687OpJEks",
-          "w": 320,
-          "h": 180
-        },
-        {
-          "caption": "Photos and panoramas of Cyprus by Nikita Savchenko",
-          "src": "/content/img/auto/e301d6cd631c707d.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/e301d6cd631c707d.thumbnail.jpg",
-          "w": 5464,
-          "h": 3640,
-          "d": 1621516532000
-        },
-        {
-          "caption": "Photos and panoramas of Cyprus by Nikita Savchenko",
-          "src": "/content/img/auto/4a45011054743fde.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/4a45011054743fde.thumbnail.jpg",
-          "w": 5464,
-          "h": 3640,
-          "d": 1621623588000
-        },
-        {
-          "caption": "Photos and panoramas of Cyprus by Nikita Savchenko",
-          "src": "/content/img/auto/5bcedaaf8aa70dd0.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/5bcedaaf8aa70dd0.thumbnail.jpg",
-          "w": 17922,
-          "h": 2987,
-          "d": 1621087831000
-        },
-        {
-          "caption": "Photos and panoramas of Cyprus by Nikita Savchenko",
-          "src": "/content/img/auto/a83ec905219d8d4f.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/a83ec905219d8d4f.thumbnail.jpg",
-          "w": 17155,
-          "h": 3431,
-          "d": 1620566704000
-        },
-        {
-          "caption": "Photos and panoramas of Cyprus by Nikita Savchenko",
-          "src": "/content/img/auto/a45fc05f719a5790.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/a45fc05f719a5790.thumbnail.jpg",
-          "w": 5464,
-          "h": 3640,
-          "d": 1620657860000
-        },
-        {
-          "caption": "Photos and panoramas of Cyprus by Nikita Savchenko",
-          "src": "/content/img/auto/c5403c808823eff7.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/c5403c808823eff7.thumbnail.jpg",
-          "w": 5464,
-          "h": 3640,
-          "d": 1620984721000
-        },
-        {
-          "caption": "Photos and panoramas of Cyprus by Nikita Savchenko",
-          "src": "/content/img/auto/5c053cb49113431b.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/5c053cb49113431b.thumbnail.jpg",
-          "w": 5464,
-          "h": 3640,
-          "d": 1620985019000
-        },
-        {
-          "caption": "Photos and panoramas of Cyprus by Nikita Savchenko",
-          "src": "/content/img/auto/6a676f110192b95c.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/6a676f110192b95c.thumbnail.jpg",
-          "w": 5091,
-          "h": 3393,
-          "d": 1620987604000
-        },
-        {
-          "caption": "Photos and panoramas of Cyprus by Nikita Savchenko",
-          "src": "/content/img/auto/fc6447530529bc5f.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/fc6447530529bc5f.thumbnail.jpg",
-          "w": 5464,
-          "h": 3640,
-          "d": 1620987816000
-        },
-        {
-          "caption": "Photos and panoramas of Cyprus by Nikita Savchenko",
-          "src": "/content/img/auto/d0042a4cada84ebf.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/d0042a4cada84ebf.thumbnail.jpg",
-          "w": 5464,
-          "h": 3640,
-          "d": 1621623633000
-        },
-        {
-          "caption": "Photos and panoramas of Cyprus by Nikita Savchenko",
-          "src": "/content/img/auto/c540154bd37c6a21.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/c540154bd37c6a21.thumbnail.jpg",
-          "w": 26806,
-          "h": 6702,
-          "d": 1620649498000
-        }
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2021",
-      "html": "<p>Photos and panoramas of Cyprus by Nikita Savchenko</p>\n"
-    },
-    {
-      "location": {
-        "name": "Georgia",
-        "code": "GE"
-      },
-      "date-start": 1623196800000,
-      "date-end": 1623888000000,
-      "title": "Traveling to Georgia",
-      "importance": 1,
-      "tags": [
-        "travel",
-        "photography"
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2021",
-      "media": [
-        {
-          "caption": "Photos and panoramas of Georgia by Nikita Savchenko",
-          "src": "/content/img/auto/ff63becb2f0d8523.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/ff63becb2f0d8523.thumbnail.jpg",
-          "w": 22243,
-          "h": 3089,
-          "d": 1623660411000
-        },
-        {
-          "caption": "Photos and panoramas of Georgia by Nikita Savchenko",
-          "src": "/content/img/auto/eba02e80e6850e00.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/eba02e80e6850e00.thumbnail.jpg",
-          "w": 16844,
-          "h": 3509,
-          "d": 1623324164000
-        },
-        {
-          "caption": "Photos and panoramas of Georgia by Nikita Savchenko",
-          "src": "/content/img/auto/a27721f00250fef7.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/a27721f00250fef7.thumbnail.jpg",
-          "w": 13892,
-          "h": 3473,
-          "d": 1623423258000
-        },
-        {
-          "caption": "Photos and panoramas of Georgia by Nikita Savchenko",
-          "src": "/content/img/auto/30ff5d7215899121.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/30ff5d7215899121.thumbnail.jpg",
-          "w": 22158,
-          "h": 3316,
-          "d": 1623503518000
-        },
-        {
-          "caption": "Photos and panoramas of Georgia by Nikita Savchenko",
-          "src": "/content/img/auto/708d48aecd1c3ded.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/708d48aecd1c3ded.thumbnail.jpg",
-          "w": 5464,
-          "h": 3640,
-          "d": 1623516082000
-        },
-        {
-          "caption": "Photos and panoramas of Georgia by Nikita Savchenko",
-          "src": "/content/img/auto/16082e82b340fcec.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/16082e82b340fcec.thumbnail.jpg",
-          "w": 20381,
-          "h": 2954,
-          "d": 1623602893000
-        },
-        {
-          "caption": "Photos and panoramas of Georgia by Nikita Savchenko",
-          "src": "/content/img/auto/fb8db03a4debcc02.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/fb8db03a4debcc02.thumbnail.jpg",
-          "w": 26730,
-          "h": 3376,
-          "d": 1623757409000
-        },
-        {
-          "caption": "Photos and panoramas of Georgia by Nikita Savchenko",
-          "src": "/content/img/auto/28738dd3c0bdbfdc.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/28738dd3c0bdbfdc.thumbnail.jpg",
-          "w": 3024,
-          "h": 4032,
-          "d": 1623584824000
-        }
-      ],
-      "html": "<p>Photos and panoramas of Georgia by Nikita Savchenko</p>\n"
-    },
-    {
-      "location": {
-        "name": "Seychelles",
-        "code": "SC"
-      },
-      "date-start": 1625788800000,
-      "date-end": 1626393600000,
-      "title": "Traveling to Seychelles",
-      "importance": 1,
-      "tags": [
-        "travel",
-        "photography"
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2021",
-      "media": [
-        {
-          "caption": "Photos and panoramas of Seychelles by Nikita Savchenko",
-          "src": "/content/img/auto/a35b7c746fb58d27.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/a35b7c746fb58d27.thumbnail.jpg",
-          "w": 12431,
-          "h": 3108,
-          "d": 1626013701000
-        },
-        {
-          "caption": "Photos and panoramas of Seychelles by Nikita Savchenko",
-          "src": "/content/img/auto/90cbeef4a0d409c4.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/90cbeef4a0d409c4.thumbnail.jpg",
-          "w": 17516,
-          "h": 3649,
-          "d": 1626014373000
-        },
-        {
-          "caption": "Photos and panoramas of Seychelles by Nikita Savchenko",
-          "src": "/content/img/auto/22c66a37d79f8e83.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/22c66a37d79f8e83.thumbnail.jpg",
-          "w": 18653,
-          "h": 3331,
-          "d": 1626024654000
-        },
-        {
-          "caption": "Photos and panoramas of Seychelles by Nikita Savchenko",
-          "src": "/content/img/auto/18cc553e5c26ca20.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/18cc553e5c26ca20.thumbnail.jpg",
-          "w": 18654,
-          "h": 3331,
-          "d": 1626024654000
-        }
-      ],
-      "html": "<p>Photos and panoramas of Seychelles by Nikita Savchenko</p>\n"
-    },
-    {
-      "location": {
-        "name": "Montenegro",
-        "code": "ME"
-      },
-      "date-start": 1626480000000,
-      "date-end": 1627171200000,
-      "title": "Traveling to Montenegro",
-      "importance": 1,
-      "tags": [
-        "travel",
-        "photography"
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2021",
-      "media": [
-        {
-          "caption": "Photos and panoramas of Montenegro by Nikita Savchenko",
-          "src": "/content/img/auto/15a3a322acb0f9a9.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/15a3a322acb0f9a9.thumbnail.jpg",
-          "w": 5464,
-          "h": 3640,
-          "d": 1626891603000
-        },
-        {
-          "caption": "Photos and panoramas of Montenegro by Nikita Savchenko",
-          "src": "/content/img/auto/43580af08fad39f8.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/43580af08fad39f8.thumbnail.jpg",
-          "w": 5464,
-          "h": 3640,
-          "d": 1626891662000
-        },
-        {
-          "caption": "Photos and panoramas of Montenegro by Nikita Savchenko",
-          "src": "/content/img/auto/62097ea8cec0e11b.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/62097ea8cec0e11b.thumbnail.jpg",
-          "w": 21818,
-          "h": 3409,
-          "d": 1627070539000
-        },
-        {
-          "caption": "Photos and panoramas of Montenegro by Nikita Savchenko",
-          "src": "/content/img/auto/9342f0880b40c41b.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/9342f0880b40c41b.thumbnail.jpg",
-          "w": 3640,
-          "h": 5464,
-          "d": 1627070620000
-        }
-      ],
-      "html": "<p>Photos and panoramas of Montenegro by Nikita Savchenko</p>\n"
-    },
-    {
-      "location": {
-        "name": "Croatia",
-        "code": "HR"
-      },
-      "date-start": 1626480000000,
-      "date-end": 1626652800000,
-      "title": "Traveling to Croatia",
-      "importance": 1,
-      "tags": [
-        "travel",
-        "photography"
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2021",
-      "media": [
-        {
-          "caption": "Photos and panoramas of Croatia by Nikita Savchenko",
-          "src": "/content/img/auto/d3d5833ab87bfd53.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/d3d5833ab87bfd53.thumbnail.jpg",
-          "w": 20799,
-          "h": 3392,
-          "d": 1626714351000
-        }
-      ],
-      "html": "<p>Photos and panoramas of Croatia by Nikita Savchenko</p>\n"
-    },
-    {
-      "location": {
-        "name": "Bosnia & Herzegovina",
-        "code": "BA"
-      },
-      "date-start": 1626652800000,
-      "date-end": 1626739200000,
-      "title": "Traveling to Bosnia & Herzegovina",
-      "importance": 1,
-      "tags": [
-        "travel",
-        "photography"
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2021",
-      "media": [
-        {
-          "caption": "Photos and panoramas of Bosnia & Herzegovina by Nikita Savchenko",
-          "src": "/content/img/auto/33244348f3f09b2c.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/33244348f3f09b2c.thumbnail.jpg",
-          "w": 5464,
-          "h": 3640,
-          "d": 1626788402000
-        },
-        {
-          "caption": "Photos and panoramas of Bosnia & Herzegovina by Nikita Savchenko",
-          "src": "/content/img/auto/a014ef4cfbf92c1b.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/a014ef4cfbf92c1b.thumbnail.jpg",
-          "w": 5464,
-          "h": 3640,
-          "d": 1626872662000
-        }
-      ],
-      "html": "<p>Photos and panoramas of Bosnia &amp; Herzegovina by Nikita Savchenko</p>\n"
-    },
-    {
-      "location": {
-        "name": "Albania",
-        "code": "AL"
-      },
-      "date-start": 1626998400000,
-      "title": "Traveling to Albania",
-      "importance": 1,
-      "tags": [
-        "travel",
-        "photography"
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2021",
-      "media": [
-        {
-          "caption": "Photos and panoramas of Albania by Nikita Savchenko",
-          "src": "/content/img/auto/d3295f1cc3e9dfe6.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/d3295f1cc3e9dfe6.thumbnail.jpg",
-          "w": 5464,
-          "h": 3640,
-          "d": 1627052719000
-        },
-        {
-          "caption": "Photos and panoramas of Albania by Nikita Savchenko",
-          "src": "/content/img/auto/21735d70074cb0ed.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/21735d70074cb0ed.thumbnail.jpg",
-          "w": 26200,
-          "h": 3384,
-          "d": 1627053352000
-        }
-      ],
-      "html": "<p>Photos and panoramas of Albania by Nikita Savchenko</p>\n"
-    },
-    {
-      "location": {
-        "name": "Poland",
-        "code": "PL"
-      },
-      "date-start": 1633996800000,
-      "title": "My Carbon Footprint project at Google Cloud Next",
-      "importance": 5,
-      "tags": [
-        "career"
-      ],
-      "media": [
-        {
-          "caption": "The Carbon Footprint Dashboard UI I've built at Google",
-          "src": "/content/img/auto/8e1d885a95e5eb87.png",
-          "type": "image",
-          "thumbnail": "/content/img/auto/8e1d885a95e5eb87.thumbnail.png",
-          "w": 1492,
-          "h": 1134
-        },
-        {
-          "src": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/co2_est.gif",
-          "caption": "An animation of the Carbon Footprint UI",
-          "type": "image",
-          "w": 1440,
-          "h": 900
-        },
-        {
-          "src": "https://www.youtube-nocookie.com/embed/6QbKkDibKXg",
-          "caption": "Google Cloud Carbon Footprint - Sundar announces the product",
-          "type": "youtube",
-          "thumbnail": "https://img.youtube.com/vi/6QbKkDibKXg/mqdefault.jpg",
-          "link": "https://www.youtube.com/watch?v=6QbKkDibKXg",
-          "w": 320,
-          "h": 180
-        }
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2021",
-      "html": "<p>In the past year at Google I&#39;ve been working on one of the most anticipated Google Cloud\nproducts - the carbon footprint. Specifically, I&#39;ve been leading its UI development. As you\ncan imagine, this product was not only about the UI: we had a team at Google of around 40\namazing people working together to make Carbon Footprint live and announced on October 12.</p>\n<ul>\n<li><em>«It allows companies to measure, track and report on the gross carbon emissions associated with the electricity of your cloud usage, allowing them to disclose their energy-related emissions data for internal carbon inventories and external carbon disclosures. It is available for free to all GCP users now.»</em> (<a target=\"_blank\" href=\"https://www.datacenterdynamics.com/en/news/next-21-google-announces-edge-and-on-premise-cloud-offerings/\">source</a>)</li>\n<li><em>«Customers can monitor their cloud emissions over time by project, by product, and by region, empowering IT teams and developers with metrics that help them reduce their carbon footprint»</em> (<a target=\"_blank\" href=\"https://www.theregister.com/2021/10/12/google_next_roundup/\">source</a>)</li>\n<li><em>«Using Carbon Footprint, you have access to the gross energy-related emissions data you need for internal carbon inventories and external carbon disclosures, with one click.»</em> (<a target=\"_blank\" href=\"https://www.computerweekly.com/news/252508088/Google-Cloud-renews-commitment-to-helping-enterprises-decarbonise-their-IT-infrastructure\">source</a>)</li>\n</ul>\n<p>Here are the top resources and announcements of this new product:</p>\n<ul>\n<li><a target=\"_blank\" href=\"https://youtu.be/6QbKkDibKXg?t=2472\">Sundar&#39;s announcement</a></li>\n<li><a target=\"_blank\" href=\"https://cloud.google.com/blog/topics/sustainability/new-tools-to-measure-and-reduce-your-environmental-impact\">Google&#39;s Blog post</a></li>\n<li><a target=\"_blank\" href=\"https://www.linkedin.com/posts/zitros_googlecloudnext-activity-6853991110709190656-S4Wz\">My LinkedIn post</a></li>\n</ul>\n<p>Press:</p>\n<ul>\n<li>Bloomberg: <a target=\"_blank\" href=\"https://www.bloomberg.com/news/articles/2021-10-12/google-will-show-its-cloud-customers-their-carbon-footprint?sref=CY7BpvSE\">Google Will Show Its Cloud Customers Their Carbon Footprint</a></li>\n<li>CRN: <a target=\"_blank\" href=\"https://www.crn.com/slide-shows/cloud/google-cloud-next-21-the-10-biggest-announcements/8\">Google Cloud Next ’21: The 10 Biggest Announcements</a></li>\n<li>Fast Company: <a target=\"_blank\" href=\"https://www.fastcompany.com/90685146/google-cloud-wants-to-help-your-company-go-green\">Google Cloud wants to help other companies go green</a></li>\n<li>The Register: <a target=\"_blank\" href=\"https://www.theregister.com/2021/10/12/google_next_roundup/\">Google Cloud will let you know how your workloads are damaging the environment</a></li>\n<li>Reuters: <a target=\"_blank\" href=\"https://www.reuters.com/technology/google-cloud-unveils-carbon-footprint-tracker-satellite-imagery-suite-2021-10-12/\">Google Cloud unveils carbon footprint tracker, satellite imagery suite</a></li>\n<li>SDxCentral: <a target=\"_blank\" href=\"https://www.sdxcentral.com/articles/news/google-cloud-targets-customers-carbon-footprints/2021/10/\">Google Cloud Targets Customers&#39; Carbon Footprints</a></li>\n<li>SiliconANGLE: <a target=\"_blank\" href=\"https://siliconangle.com/2021/10/12/googes-carbon-footprint-tool-lets-cloud-customers-track-emissions/\">Google cloud customers can now track their carbon emissions</a></li>\n<li>TechCrunch: <a target=\"_blank\" href=\"https://techcrunch.com/2021/10/12/google-cloud-will-now-show-its-users-their-carbon-footprint-in-the-cloud/\">Google Cloud will now show its users their carbon footprint in the cloud</a></li>\n<li>TechRadar: <a target=\"_blank\" href=\"https://www.techradar.com/news/google-says-it-has-the-industrys-cleanest-cloud\">Google says it has the &#39;industry&#39;s cleanest cloud&#39;</a></li>\n<li>ZDNet: <a target=\"_blank\" href=\"https://www.zdnet.com/article/google-creates-tools-to-track-carbon-footprint-emissions-data/\">Google creates tools to track carbon footprint, emissions data</a></li>\n</ul>\n<p>Some customer&#39;s feedback:</p>\n<ul>\n<li><em>«We are expanding our portfolio of solutions and partnerships to help reduce your carbon footprint»</em> - Sundar Pichai, Google&#39;s CEO</li>\n<li><em>«What we can now do through this tool is see what is happening within our applications within specific types of code or particular toolsets that we are using within our applications on the cloud. It’s that granularity that enables better decision-making.»</em> - Stephen Bayly, the HSBC bank’s CIO for markets and securities services</li>\n<li><em>«Co-designed with customers like HSBC, Atos, Salesforce, and L’Oreal, Google Cloud’s Carbon Footprint product will provide customers with an accurate and actionable repofi of the carbon footprint associated with the Cloud usage.»</em> - Google</li>\n<li><em>«Google is partnering with Salesforce to make its GCP emissions data available in Salesforce&#39;s carbon account platform»</em> - Jen Bennett, technical director in the Office of the CTO at Google Cloud</li>\n</ul>\n"
-    },
-    {
-      "location": {
-        "name": "Moldova",
-        "code": "MD"
-      },
-      "date-start": 1634169600000,
-      "date-end": 1634428800000,
-      "title": "Traveling to Moldova",
-      "importance": 1,
-      "tags": [
-        "travel",
-        "photography"
-      ],
-      "media": [
-        {
-          "src": "https://www.youtube-nocookie.com/embed/WzOpHIaNOvg",
-          "caption": "Somewhere close to Ukraine-Moldova border",
-          "type": "youtube",
-          "thumbnail": "https://img.youtube.com/vi/WzOpHIaNOvg/mqdefault.jpg",
-          "link": "https://www.youtube.com/watch?v=WzOpHIaNOvg",
-          "w": 320,
-          "h": 180
-        }
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2021",
-      "html": "<p>Photos and panoramas of Moldova by Nikita Savchenko</p>\n"
-    },
-    {
       "date-start": 1054252800000,
       "title": "Merit for the Success in Study in School (2-G)",
       "tags": [
@@ -6815,7 +6163,713 @@
       ],
       "fromRepo": "ZitRos/nikita-tk-timeline-2020",
       "html": "<p>Photos, panoramas and videos taken in Ukraine by Nikita Savchenko</p>\n"
+    },
+    {
+      "location": {
+        "name": "Tanzania",
+        "code": "TZ"
+      },
+      "date-start": 1614988800000,
+      "date-end": 1615939200000,
+      "title": "Traveling to Tanzania",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2021",
+      "media": [
+        {
+          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
+          "src": "/content/img/auto/b2275e3ff444c13d.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/b2275e3ff444c13d.thumbnail.jpg",
+          "w": 10189,
+          "h": 3184,
+          "d": 1615116178000
+        },
+        {
+          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
+          "src": "/content/img/auto/4c7abb32b55b34ed.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/4c7abb32b55b34ed.thumbnail.jpg",
+          "w": 12896,
+          "h": 5373,
+          "d": 1615142915000
+        },
+        {
+          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
+          "src": "/content/img/auto/904727b3e25f7e43.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/904727b3e25f7e43.thumbnail.jpg",
+          "w": 26591,
+          "h": 3416,
+          "d": 1615204826000
+        },
+        {
+          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
+          "src": "/content/img/auto/bee49f0c0a2a72d7.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/bee49f0c0a2a72d7.thumbnail.jpg",
+          "w": 16276,
+          "h": 3328,
+          "d": 1615832769000
+        },
+        {
+          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
+          "src": "/content/img/auto/b90ae71ce8fc712a.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/b90ae71ce8fc712a.thumbnail.jpg",
+          "w": 16187,
+          "h": 5454,
+          "d": 1615210964000
+        },
+        {
+          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
+          "src": "/content/img/auto/c2c63397e2053f26.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/c2c63397e2053f26.thumbnail.jpg",
+          "w": 16349,
+          "h": 3406,
+          "d": 1615372352000
+        },
+        {
+          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
+          "src": "/content/img/auto/4be255c8f755ff31.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/4be255c8f755ff31.thumbnail.jpg",
+          "w": 16397,
+          "h": 3416,
+          "d": 1615378779000
+        },
+        {
+          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
+          "src": "/content/img/auto/70be75d1b41d0fc4.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/70be75d1b41d0fc4.thumbnail.jpg",
+          "w": 21683,
+          "h": 3388,
+          "d": 1615379432000
+        },
+        {
+          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
+          "src": "/content/img/auto/5dcd92b16786ee92.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/5dcd92b16786ee92.thumbnail.jpg",
+          "w": 5464,
+          "h": 3640,
+          "d": 1615379477000
+        },
+        {
+          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
+          "src": "/content/img/auto/d869ffcad429865e.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/d869ffcad429865e.thumbnail.jpg",
+          "w": 21053,
+          "h": 5559,
+          "d": 1615486301000
+        },
+        {
+          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
+          "src": "/content/img/auto/1094ca9b64473f33.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/1094ca9b64473f33.thumbnail.jpg",
+          "w": 19234,
+          "h": 3435,
+          "d": 1615486539000
+        },
+        {
+          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
+          "src": "/content/img/auto/b9b8143c8b7f35ac.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/b9b8143c8b7f35ac.thumbnail.jpg",
+          "w": 26700,
+          "h": 3330,
+          "d": 1615618865000
+        },
+        {
+          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
+          "src": "/content/img/auto/3111491ac68d9f77.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/3111491ac68d9f77.thumbnail.jpg",
+          "w": 5464,
+          "h": 3640,
+          "d": 1615705699000
+        },
+        {
+          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
+          "src": "/content/img/auto/257409a0c00e890a.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/257409a0c00e890a.thumbnail.jpg",
+          "w": 26562,
+          "h": 3347,
+          "d": 1615705976000
+        },
+        {
+          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
+          "src": "/content/img/auto/e550f2f42709bcf1.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/e550f2f42709bcf1.thumbnail.jpg",
+          "w": 15788,
+          "h": 3289,
+          "d": 1615832282000
+        },
+        {
+          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
+          "src": "/content/img/auto/9ffac8ccfeca86dd.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/9ffac8ccfeca86dd.thumbnail.jpg",
+          "w": 24342,
+          "h": 6086,
+          "d": 1615205108000
+        }
+      ],
+      "html": "<p>Photos and panoramas of Tanzania by Nikita Savchenko</p>\n"
+    },
+    {
+      "location": {
+        "name": "Cyprus",
+        "code": "CY"
+      },
+      "date-start": 1620432000000,
+      "date-end": 1621641600000,
+      "title": "Traveling to Cyprus",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "media": [
+        {
+          "src": "https://www.youtube-nocookie.com/embed/7V687OpJEks",
+          "caption": "Cyprus: the villa country",
+          "rating": 0.92,
+          "type": "youtube",
+          "thumbnail": "https://img.youtube.com/vi/7V687OpJEks/mqdefault.jpg",
+          "link": "https://www.youtube.com/watch?v=7V687OpJEks",
+          "w": 320,
+          "h": 180
+        },
+        {
+          "caption": "Photos and panoramas of Cyprus by Nikita Savchenko",
+          "src": "/content/img/auto/e301d6cd631c707d.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/e301d6cd631c707d.thumbnail.jpg",
+          "w": 5464,
+          "h": 3640,
+          "d": 1621516532000
+        },
+        {
+          "caption": "Photos and panoramas of Cyprus by Nikita Savchenko",
+          "src": "/content/img/auto/4a45011054743fde.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/4a45011054743fde.thumbnail.jpg",
+          "w": 5464,
+          "h": 3640,
+          "d": 1621623588000
+        },
+        {
+          "caption": "Photos and panoramas of Cyprus by Nikita Savchenko",
+          "src": "/content/img/auto/5bcedaaf8aa70dd0.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/5bcedaaf8aa70dd0.thumbnail.jpg",
+          "w": 17922,
+          "h": 2987,
+          "d": 1621087831000
+        },
+        {
+          "caption": "Photos and panoramas of Cyprus by Nikita Savchenko",
+          "src": "/content/img/auto/a83ec905219d8d4f.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/a83ec905219d8d4f.thumbnail.jpg",
+          "w": 17155,
+          "h": 3431,
+          "d": 1620566704000
+        },
+        {
+          "caption": "Photos and panoramas of Cyprus by Nikita Savchenko",
+          "src": "/content/img/auto/a45fc05f719a5790.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/a45fc05f719a5790.thumbnail.jpg",
+          "w": 5464,
+          "h": 3640,
+          "d": 1620657860000
+        },
+        {
+          "caption": "Photos and panoramas of Cyprus by Nikita Savchenko",
+          "src": "/content/img/auto/c5403c808823eff7.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/c5403c808823eff7.thumbnail.jpg",
+          "w": 5464,
+          "h": 3640,
+          "d": 1620984721000
+        },
+        {
+          "caption": "Photos and panoramas of Cyprus by Nikita Savchenko",
+          "src": "/content/img/auto/5c053cb49113431b.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/5c053cb49113431b.thumbnail.jpg",
+          "w": 5464,
+          "h": 3640,
+          "d": 1620985019000
+        },
+        {
+          "caption": "Photos and panoramas of Cyprus by Nikita Savchenko",
+          "src": "/content/img/auto/6a676f110192b95c.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/6a676f110192b95c.thumbnail.jpg",
+          "w": 5091,
+          "h": 3393,
+          "d": 1620987604000
+        },
+        {
+          "caption": "Photos and panoramas of Cyprus by Nikita Savchenko",
+          "src": "/content/img/auto/fc6447530529bc5f.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/fc6447530529bc5f.thumbnail.jpg",
+          "w": 5464,
+          "h": 3640,
+          "d": 1620987816000
+        },
+        {
+          "caption": "Photos and panoramas of Cyprus by Nikita Savchenko",
+          "src": "/content/img/auto/d0042a4cada84ebf.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/d0042a4cada84ebf.thumbnail.jpg",
+          "w": 5464,
+          "h": 3640,
+          "d": 1621623633000
+        },
+        {
+          "caption": "Photos and panoramas of Cyprus by Nikita Savchenko",
+          "src": "/content/img/auto/c540154bd37c6a21.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/c540154bd37c6a21.thumbnail.jpg",
+          "w": 26806,
+          "h": 6702,
+          "d": 1620649498000
+        }
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2021",
+      "html": "<p>Photos and panoramas of Cyprus by Nikita Savchenko</p>\n"
+    },
+    {
+      "location": {
+        "name": "Georgia",
+        "code": "GE"
+      },
+      "date-start": 1623196800000,
+      "date-end": 1623888000000,
+      "title": "Traveling to Georgia",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2021",
+      "media": [
+        {
+          "caption": "Photos and panoramas of Georgia by Nikita Savchenko",
+          "src": "/content/img/auto/ff63becb2f0d8523.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/ff63becb2f0d8523.thumbnail.jpg",
+          "w": 22243,
+          "h": 3089,
+          "d": 1623660411000
+        },
+        {
+          "caption": "Photos and panoramas of Georgia by Nikita Savchenko",
+          "src": "/content/img/auto/eba02e80e6850e00.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/eba02e80e6850e00.thumbnail.jpg",
+          "w": 16844,
+          "h": 3509,
+          "d": 1623324164000
+        },
+        {
+          "caption": "Photos and panoramas of Georgia by Nikita Savchenko",
+          "src": "/content/img/auto/a27721f00250fef7.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/a27721f00250fef7.thumbnail.jpg",
+          "w": 13892,
+          "h": 3473,
+          "d": 1623423258000
+        },
+        {
+          "caption": "Photos and panoramas of Georgia by Nikita Savchenko",
+          "src": "/content/img/auto/30ff5d7215899121.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/30ff5d7215899121.thumbnail.jpg",
+          "w": 22158,
+          "h": 3316,
+          "d": 1623503518000
+        },
+        {
+          "caption": "Photos and panoramas of Georgia by Nikita Savchenko",
+          "src": "/content/img/auto/708d48aecd1c3ded.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/708d48aecd1c3ded.thumbnail.jpg",
+          "w": 5464,
+          "h": 3640,
+          "d": 1623516082000
+        },
+        {
+          "caption": "Photos and panoramas of Georgia by Nikita Savchenko",
+          "src": "/content/img/auto/16082e82b340fcec.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/16082e82b340fcec.thumbnail.jpg",
+          "w": 20381,
+          "h": 2954,
+          "d": 1623602893000
+        },
+        {
+          "caption": "Photos and panoramas of Georgia by Nikita Savchenko",
+          "src": "/content/img/auto/fb8db03a4debcc02.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/fb8db03a4debcc02.thumbnail.jpg",
+          "w": 26730,
+          "h": 3376,
+          "d": 1623757409000
+        },
+        {
+          "caption": "Photos and panoramas of Georgia by Nikita Savchenko",
+          "src": "/content/img/auto/28738dd3c0bdbfdc.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/28738dd3c0bdbfdc.thumbnail.jpg",
+          "w": 3024,
+          "h": 4032,
+          "d": 1623584824000
+        }
+      ],
+      "html": "<p>Photos and panoramas of Georgia by Nikita Savchenko</p>\n"
+    },
+    {
+      "location": {
+        "name": "Seychelles",
+        "code": "SC"
+      },
+      "date-start": 1625788800000,
+      "date-end": 1626393600000,
+      "title": "Traveling to Seychelles",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2021",
+      "media": [
+        {
+          "caption": "Photos and panoramas of Seychelles by Nikita Savchenko",
+          "src": "/content/img/auto/a35b7c746fb58d27.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/a35b7c746fb58d27.thumbnail.jpg",
+          "w": 12431,
+          "h": 3108,
+          "d": 1626013701000
+        },
+        {
+          "caption": "Photos and panoramas of Seychelles by Nikita Savchenko",
+          "src": "/content/img/auto/90cbeef4a0d409c4.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/90cbeef4a0d409c4.thumbnail.jpg",
+          "w": 17516,
+          "h": 3649,
+          "d": 1626014373000
+        },
+        {
+          "caption": "Photos and panoramas of Seychelles by Nikita Savchenko",
+          "src": "/content/img/auto/22c66a37d79f8e83.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/22c66a37d79f8e83.thumbnail.jpg",
+          "w": 18653,
+          "h": 3331,
+          "d": 1626024654000
+        },
+        {
+          "caption": "Photos and panoramas of Seychelles by Nikita Savchenko",
+          "src": "/content/img/auto/18cc553e5c26ca20.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/18cc553e5c26ca20.thumbnail.jpg",
+          "w": 18654,
+          "h": 3331,
+          "d": 1626024654000
+        }
+      ],
+      "html": "<p>Photos and panoramas of Seychelles by Nikita Savchenko</p>\n"
+    },
+    {
+      "location": {
+        "name": "Montenegro",
+        "code": "ME"
+      },
+      "date-start": 1626480000000,
+      "date-end": 1627171200000,
+      "title": "Traveling to Montenegro",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2021",
+      "media": [
+        {
+          "caption": "Photos and panoramas of Montenegro by Nikita Savchenko",
+          "src": "/content/img/auto/15a3a322acb0f9a9.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/15a3a322acb0f9a9.thumbnail.jpg",
+          "w": 5464,
+          "h": 3640,
+          "d": 1626891603000
+        },
+        {
+          "caption": "Photos and panoramas of Montenegro by Nikita Savchenko",
+          "src": "/content/img/auto/43580af08fad39f8.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/43580af08fad39f8.thumbnail.jpg",
+          "w": 5464,
+          "h": 3640,
+          "d": 1626891662000
+        },
+        {
+          "caption": "Photos and panoramas of Montenegro by Nikita Savchenko",
+          "src": "/content/img/auto/62097ea8cec0e11b.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/62097ea8cec0e11b.thumbnail.jpg",
+          "w": 21818,
+          "h": 3409,
+          "d": 1627070539000
+        },
+        {
+          "caption": "Photos and panoramas of Montenegro by Nikita Savchenko",
+          "src": "/content/img/auto/9342f0880b40c41b.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/9342f0880b40c41b.thumbnail.jpg",
+          "w": 3640,
+          "h": 5464,
+          "d": 1627070620000
+        }
+      ],
+      "html": "<p>Photos and panoramas of Montenegro by Nikita Savchenko</p>\n"
+    },
+    {
+      "location": {
+        "name": "Croatia",
+        "code": "HR"
+      },
+      "date-start": 1626480000000,
+      "date-end": 1626652800000,
+      "title": "Traveling to Croatia",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2021",
+      "media": [
+        {
+          "caption": "Photos and panoramas of Croatia by Nikita Savchenko",
+          "src": "/content/img/auto/d3d5833ab87bfd53.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/d3d5833ab87bfd53.thumbnail.jpg",
+          "w": 20799,
+          "h": 3392,
+          "d": 1626714351000
+        }
+      ],
+      "html": "<p>Photos and panoramas of Croatia by Nikita Savchenko</p>\n"
+    },
+    {
+      "location": {
+        "name": "Bosnia & Herzegovina",
+        "code": "BA"
+      },
+      "date-start": 1626652800000,
+      "date-end": 1626739200000,
+      "title": "Traveling to Bosnia & Herzegovina",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2021",
+      "media": [
+        {
+          "caption": "Photos and panoramas of Bosnia & Herzegovina by Nikita Savchenko",
+          "src": "/content/img/auto/33244348f3f09b2c.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/33244348f3f09b2c.thumbnail.jpg",
+          "w": 5464,
+          "h": 3640,
+          "d": 1626788402000
+        },
+        {
+          "caption": "Photos and panoramas of Bosnia & Herzegovina by Nikita Savchenko",
+          "src": "/content/img/auto/a014ef4cfbf92c1b.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/a014ef4cfbf92c1b.thumbnail.jpg",
+          "w": 5464,
+          "h": 3640,
+          "d": 1626872662000
+        }
+      ],
+      "html": "<p>Photos and panoramas of Bosnia &amp; Herzegovina by Nikita Savchenko</p>\n"
+    },
+    {
+      "location": {
+        "name": "Albania",
+        "code": "AL"
+      },
+      "date-start": 1626998400000,
+      "title": "Traveling to Albania",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2021",
+      "media": [
+        {
+          "caption": "Photos and panoramas of Albania by Nikita Savchenko",
+          "src": "/content/img/auto/d3295f1cc3e9dfe6.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/d3295f1cc3e9dfe6.thumbnail.jpg",
+          "w": 5464,
+          "h": 3640,
+          "d": 1627052719000
+        },
+        {
+          "caption": "Photos and panoramas of Albania by Nikita Savchenko",
+          "src": "/content/img/auto/21735d70074cb0ed.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/21735d70074cb0ed.thumbnail.jpg",
+          "w": 26200,
+          "h": 3384,
+          "d": 1627053352000
+        }
+      ],
+      "html": "<p>Photos and panoramas of Albania by Nikita Savchenko</p>\n"
+    },
+    {
+      "date-start": 1633046400000,
+      "title": "Back to crypto as a CTO and a Technical Product Owner at DeCash",
+      "importance": 4,
+      "tags": [
+        "career"
+      ],
+      "media": [
+        {
+          "caption": "The team",
+          "src": "/content/img/auto/b60a8e03bb50a8bc.png",
+          "type": "image",
+          "thumbnail": "/content/img/auto/b60a8e03bb50a8bc.thumbnail.png",
+          "w": 1626,
+          "h": 2060
+        },
+        {
+          "caption": "Products I am responsible for",
+          "src": "/content/img/auto/b253c0b84568c3ff.png",
+          "type": "image",
+          "thumbnail": "/content/img/auto/b253c0b84568c3ff.thumbnail.png",
+          "w": 1226,
+          "h": 2072
+        }
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2021",
+      "html": "<p>It all began a year ago, when a small crypto company <a target=\"_blank\" href=\"https://decash.com\">DeCash</a> reached out to me with questions\nin regards to my <a target=\"_blank\" href=\"https://github.com/ZitRos/ethereum-delegated-tx-service\">open-sourced solution</a> -\ndelegated transactions for Ethereum. Since then, I started to do consulting for this company in\nmy free time.</p>\n<p>Now I am pleased to announce that I am leading a few powerful technical products with multiple teams at DeCash\nto bring them to a mass market. I truly believe that the technology being built at DeCash will demonstrate how\ncrypto can change the traditional finance. We have a team of influential people, and once other companies start\nadopting our technology, we expect things to explode.</p>\n<p>My responsibilities include ensuring successful development-to-delivery journey and strategic success of DeCash,\nboth from the technical side and the success of products. I am also the one who organized internal processes in\nthis company, created a comfortable workspace for everyone. The key products I am responsible for:</p>\n<ul>\n<li><a target=\"_blank\" href=\"https://docs.decash.com/docs/concepts/delegated-wallets\">DeCash Delegated Wallets</a> - the key technology making our stablecoin easy-to-use comparing to other crypto.</li>\n<li><a target=\"_blank\" href=\"https://send.decash.com\">DeCash Send</a> - the user interface to manage DeCash stablecoins.</li>\n<li><a target=\"_blank\" href=\"https://www.decash.com/solutions#decash-api\">DeCash API</a> - the API allowing anyone to integrate with DeCash stablecoins.</li>\n<li>Other internal or not yet released products.</li>\n</ul>\n<p>TL;DR for any reader: DeCash builds stablecoins, which are drastically easier to own and manage than any other\nstablecoin. We also build tools for our stablecoins, which allows any party (finance, payments etc) to integrate with\nus easily too. Our goal is to replace traditional finance.</p>\n"
+    },
+    {
+      "location": {
+        "name": "Poland",
+        "code": "PL"
+      },
+      "date-start": 1633996800000,
+      "title": "My Carbon Footprint project at Google Cloud Next",
+      "importance": 5,
+      "tags": [
+        "career"
+      ],
+      "media": [
+        {
+          "caption": "The Carbon Footprint Dashboard UI I've built at Google",
+          "src": "/content/img/auto/8e1d885a95e5eb87.png",
+          "type": "image",
+          "thumbnail": "/content/img/auto/8e1d885a95e5eb87.thumbnail.png",
+          "w": 1492,
+          "h": 1134
+        },
+        {
+          "src": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/co2_est.gif",
+          "caption": "An animation of the Carbon Footprint UI",
+          "type": "image"
+        },
+        {
+          "src": "https://www.youtube-nocookie.com/embed/6QbKkDibKXg",
+          "caption": "Google Cloud Carbon Footprint - Sundar announces the product",
+          "type": "youtube",
+          "thumbnail": "https://img.youtube.com/vi/6QbKkDibKXg/mqdefault.jpg",
+          "link": "https://www.youtube.com/watch?v=6QbKkDibKXg",
+          "w": 320,
+          "h": 180
+        }
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2021",
+      "html": "<p>In the past year at Google I&#39;ve been working on one of the most anticipated Google Cloud\nproducts - the carbon footprint. Specifically, I&#39;ve been leading its UI development. As you\ncan imagine, this product was not only about the UI: we had a team at Google of around 40\namazing people working together to make Carbon Footprint live and announced on October 12.</p>\n<ul>\n<li><em>«It allows companies to measure, track and report on the gross carbon emissions associated with the electricity of your cloud usage, allowing them to disclose their energy-related emissions data for internal carbon inventories and external carbon disclosures. It is available for free to all GCP users now.»</em> (<a target=\"_blank\" href=\"https://www.datacenterdynamics.com/en/news/next-21-google-announces-edge-and-on-premise-cloud-offerings/\">source</a>)</li>\n<li><em>«Customers can monitor their cloud emissions over time by project, by product, and by region, empowering IT teams and developers with metrics that help them reduce their carbon footprint»</em> (<a target=\"_blank\" href=\"https://www.theregister.com/2021/10/12/google_next_roundup/\">source</a>)</li>\n<li><em>«Using Carbon Footprint, you have access to the gross energy-related emissions data you need for internal carbon inventories and external carbon disclosures, with one click.»</em> (<a target=\"_blank\" href=\"https://www.computerweekly.com/news/252508088/Google-Cloud-renews-commitment-to-helping-enterprises-decarbonise-their-IT-infrastructure\">source</a>)</li>\n</ul>\n<p>Here are the top resources and announcements of this new product:</p>\n<ul>\n<li><a target=\"_blank\" href=\"https://youtu.be/6QbKkDibKXg?t=2472\">Sundar&#39;s announcement</a></li>\n<li><a target=\"_blank\" href=\"https://cloud.google.com/blog/topics/sustainability/new-tools-to-measure-and-reduce-your-environmental-impact\">Google&#39;s Blog post</a></li>\n<li><a target=\"_blank\" href=\"https://www.linkedin.com/posts/zitros_googlecloudnext-activity-6853991110709190656-S4Wz\">My LinkedIn post</a></li>\n</ul>\n<p>Press:</p>\n<ul>\n<li>Bloomberg: <a target=\"_blank\" href=\"https://www.bloomberg.com/news/articles/2021-10-12/google-will-show-its-cloud-customers-their-carbon-footprint?sref=CY7BpvSE\">Google Will Show Its Cloud Customers Their Carbon Footprint</a></li>\n<li>CRN: <a target=\"_blank\" href=\"https://www.crn.com/slide-shows/cloud/google-cloud-next-21-the-10-biggest-announcements/8\">Google Cloud Next ’21: The 10 Biggest Announcements</a></li>\n<li>Fast Company: <a target=\"_blank\" href=\"https://www.fastcompany.com/90685146/google-cloud-wants-to-help-your-company-go-green\">Google Cloud wants to help other companies go green</a></li>\n<li>The Register: <a target=\"_blank\" href=\"https://www.theregister.com/2021/10/12/google_next_roundup/\">Google Cloud will let you know how your workloads are damaging the environment</a></li>\n<li>Reuters: <a target=\"_blank\" href=\"https://www.reuters.com/technology/google-cloud-unveils-carbon-footprint-tracker-satellite-imagery-suite-2021-10-12/\">Google Cloud unveils carbon footprint tracker, satellite imagery suite</a></li>\n<li>SDxCentral: <a target=\"_blank\" href=\"https://www.sdxcentral.com/articles/news/google-cloud-targets-customers-carbon-footprints/2021/10/\">Google Cloud Targets Customers&#39; Carbon Footprints</a></li>\n<li>SiliconANGLE: <a target=\"_blank\" href=\"https://siliconangle.com/2021/10/12/googes-carbon-footprint-tool-lets-cloud-customers-track-emissions/\">Google cloud customers can now track their carbon emissions</a></li>\n<li>TechCrunch: <a target=\"_blank\" href=\"https://techcrunch.com/2021/10/12/google-cloud-will-now-show-its-users-their-carbon-footprint-in-the-cloud/\">Google Cloud will now show its users their carbon footprint in the cloud</a></li>\n<li>TechRadar: <a target=\"_blank\" href=\"https://www.techradar.com/news/google-says-it-has-the-industrys-cleanest-cloud\">Google says it has the &#39;industry&#39;s cleanest cloud&#39;</a></li>\n<li>ZDNet: <a target=\"_blank\" href=\"https://www.zdnet.com/article/google-creates-tools-to-track-carbon-footprint-emissions-data/\">Google creates tools to track carbon footprint, emissions data</a></li>\n</ul>\n<p>Some customer&#39;s feedback:</p>\n<ul>\n<li><em>«We are expanding our portfolio of solutions and partnerships to help reduce your carbon footprint»</em> - Sundar Pichai, Google&#39;s CEO</li>\n<li><em>«What we can now do through this tool is see what is happening within our applications within specific types of code or particular toolsets that we are using within our applications on the cloud. It’s that granularity that enables better decision-making.»</em> - Stephen Bayly, the HSBC bank’s CIO for markets and securities services</li>\n<li><em>«Co-designed with customers like HSBC, Atos, Salesforce, and L’Oreal, Google Cloud’s Carbon Footprint product will provide customers with an accurate and actionable repofi of the carbon footprint associated with the Cloud usage.»</em> - Google</li>\n<li><em>«Google is partnering with Salesforce to make its GCP emissions data available in Salesforce&#39;s carbon account platform»</em> - Jen Bennett, technical director in the Office of the CTO at Google Cloud</li>\n</ul>\n"
+    },
+    {
+      "location": {
+        "name": "Moldova",
+        "code": "MD"
+      },
+      "date-start": 1634169600000,
+      "date-end": 1634428800000,
+      "title": "Traveling to Moldova",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "media": [
+        {
+          "src": "https://www.youtube-nocookie.com/embed/WzOpHIaNOvg",
+          "caption": "Somewhere close to Ukraine-Moldova border",
+          "type": "youtube",
+          "thumbnail": "https://img.youtube.com/vi/WzOpHIaNOvg/mqdefault.jpg",
+          "link": "https://www.youtube.com/watch?v=WzOpHIaNOvg",
+          "w": 320,
+          "h": 180
+        }
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2021",
+      "html": "<p>Photos and panoramas of Moldova by Nikita Savchenko</p>\n"
+    },
+    {
+      "date-start": 1638316800000,
+      "title": "My project DataUnlocker crosses 400 clients worldwide",
+      "importance": 5,
+      "tags": [
+        "career"
+      ],
+      "media": [
+        {
+          "caption": "The landing of DataUnlocker",
+          "src": "/content/img/auto/c7bf7ff5609cfd10.png",
+          "type": "image",
+          "thumbnail": "/content/img/auto/c7bf7ff5609cfd10.thumbnail.png",
+          "w": 2278,
+          "h": 1874
+        },
+        {
+          "caption": "Daily traffic that DataUnlocker receives",
+          "src": "/content/img/auto/62ed78e8355862d7.png",
+          "type": "image",
+          "thumbnail": "/content/img/auto/62ed78e8355862d7.thumbnail.png",
+          "w": 1630,
+          "h": 646
+        }
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2021",
+      "html": "<p>My successful side project <a target=\"_blank\" href=\"https://dataunlocker.com\">DataUnlocker</a> now has 400 users worldwide! 🎉</p>\n<p>This project constantly grows, getting new users without any penny spent on marketing.\nMy strategy now is still to validate that ad blocking community is helpless fighting with\nwhat DataUnlocker offers, and prove that it&#39;s reliable long-term before scaling this\nproduct. Even now, we have many happy companies proxying their analytics data.</p>\n"
     }
   ],
-  "lastUpdateAt": 1648459507163
+  "lastUpdateAt": 1648536441365
 }
