@@ -82,11 +82,29 @@ const exec = async (cmd) => {
       previousMedia: dataObject.timeline,
       fromRepo,
     });
+
+    // Join timeline
     timelineArray = timelineArray
       // Remove all media generated from {fromRepo}
       .filter((r) => r.fromRepo !== fromRepo)
       // Add newly generated media from {fromRepo}
       .concat(result);
+
+    // Populate visitedAreas
+    for (const post of result) {
+      if (!post.location || !post.location.name || !post.location.code) {
+        continue;
+      }
+      const isInVisitedAreas = (dataObject.visitedAreas || []).find(
+        ({ code }) => code === post.location.code
+      );
+      if (!isInVisitedAreas) {
+        (dataObject.visitedAreas = dataObject.visitedAreas || []).push({
+          name: post.location.name,
+          code: post.location.code,
+        });
+      }
+    }
   };
 
   if (GIT_TOKEN) {
@@ -158,6 +176,13 @@ const exec = async (cmd) => {
   // Update timeline array
   Object.assign(dataObject, {
     timeline: timelineArray.sort((a, b) => (b.date || 0) - (a.date || 0)),
+  });
+
+  // Sort visitedAreas
+  Object.assign(dataObject, {
+    visitedAreas: (dataObject.visitedAreas || []).sort((a, b) =>
+      (a.name + "").localeCompare(b.name)
+    ),
   });
 
   // Update last update time
