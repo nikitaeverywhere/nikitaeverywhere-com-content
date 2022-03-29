@@ -466,144 +466,20 @@
   ],
   "visitedAreas": [
     {
-      "code": "UA",
-      "name": "Ukraine"
-    },
-    {
-      "code": "SC",
-      "name": "Seychelles"
-    },
-    {
       "code": "AL",
       "name": "Albania"
     },
     {
-      "code": "BA",
-      "name": "Bosnia & Herzegovina"
-    },
-    {
-      "code": "ME",
-      "name": "Montenegro"
-    },
-    {
-      "code": "HR",
-      "name": "Croatia"
-    },
-    {
-      "code": "RU",
-      "name": "Russia"
-    },
-    {
-      "code": "PL",
-      "name": "Poland"
-    },
-    {
-      "code": "CY",
-      "name": "Cyprus"
-    },
-    {
-      "code": "GE",
-      "name": "Georgia"
-    },
-    {
-      "code": "MX",
-      "name": "Mexico"
+      "code": "AT",
+      "name": "Austria"
     },
     {
       "code": "BY",
       "name": "Belarus"
     },
     {
-      "code": "CH",
-      "name": "Switzerland"
-    },
-    {
-      "code": "LI",
-      "name": "Liechtenstein"
-    },
-    {
-      "code": "ZA",
-      "name": "South Africa"
-    },
-    {
-      "code": "TR",
-      "name": "Turkey"
-    },
-    {
-      "code": "AE",
-      "name": "United Arab Emirates"
-    },
-    {
-      "code": "OM",
-      "name": "Oman"
-    },
-    {
-      "code": "QA",
-      "name": "Qatar"
-    },
-    {
-      "code": "EG",
-      "name": "Egypt"
-    },
-    {
-      "code": "US",
-      "name": "United States"
-    },
-    {
-      "code": "CO",
-      "name": "Colombia"
-    },
-    {
-      "code": "IN",
-      "name": "India"
-    },
-    {
-      "code": "MT",
-      "name": "Malta"
-    },
-    {
-      "code": "ID",
-      "name": "Indonesia"
-    },
-    {
-      "code": "MD",
-      "name": "Moldova"
-    },
-    {
-      "code": "CZ",
-      "name": "Czechia"
-    },
-    {
-      "code": "SK",
-      "name": "Slovakia"
-    },
-    {
-      "code": "DE",
-      "name": "Germany"
-    },
-    {
-      "code": "ES",
-      "name": "Spain"
-    },
-    {
-      "code": "IT",
-      "name": "Italy"
-    },
-    {
-      "code": "FR",
-      "name": "France"
-    },
-    {
-      "code": "PT",
-      "name": "Portugal"
-    },
-    {
-      "code": "MC",
-      "name": "Monaco"
-    },
-    {
-      "code": "VA",
-      "name": "Vatican"
+      "code": "BA",
+      "name": "Bosnia & Herzegovina"
     },
     {
       "code": "IC",
@@ -611,32 +487,156 @@
       "part": "ES"
     },
     {
-      "code": "TZ",
-      "name": "Tanzania"
+      "code": "CO",
+      "name": "Colombia"
     },
     {
-      "code": "GB",
-      "name": "Great Britain"
+      "code": "HR",
+      "name": "Croatia"
+    },
+    {
+      "code": "CY",
+      "name": "Cyprus"
+    },
+    {
+      "code": "CZ",
+      "name": "Czechia"
     },
     {
       "code": "DK",
       "name": "Denmark"
     },
     {
-      "code": "SE",
-      "name": "Sweden"
+      "code": "EG",
+      "name": "Egypt"
     },
     {
-      "code": "AT",
-      "name": "Austria"
+      "code": "FR",
+      "name": "France"
+    },
+    {
+      "code": "GE",
+      "name": "Georgia"
+    },
+    {
+      "code": "DE",
+      "name": "Germany"
+    },
+    {
+      "code": "GB",
+      "name": "Great Britain"
     },
     {
       "code": "GR",
       "name": "Greece"
     },
     {
+      "code": "IN",
+      "name": "India"
+    },
+    {
+      "code": "ID",
+      "name": "Indonesia"
+    },
+    {
+      "code": "IT",
+      "name": "Italy"
+    },
+    {
+      "code": "LI",
+      "name": "Liechtenstein"
+    },
+    {
+      "code": "MT",
+      "name": "Malta"
+    },
+    {
+      "code": "MX",
+      "name": "Mexico"
+    },
+    {
+      "code": "MD",
+      "name": "Moldova"
+    },
+    {
+      "code": "MC",
+      "name": "Monaco"
+    },
+    {
+      "code": "ME",
+      "name": "Montenegro"
+    },
+    {
+      "code": "OM",
+      "name": "Oman"
+    },
+    {
+      "code": "PL",
+      "name": "Poland"
+    },
+    {
+      "code": "PT",
+      "name": "Portugal"
+    },
+    {
+      "code": "QA",
+      "name": "Qatar"
+    },
+    {
+      "code": "RU",
+      "name": "Russia"
+    },
+    {
+      "code": "SC",
+      "name": "Seychelles"
+    },
+    {
+      "code": "SK",
+      "name": "Slovakia"
+    },
+    {
+      "code": "ZA",
+      "name": "South Africa"
+    },
+    {
+      "code": "ES",
+      "name": "Spain"
+    },
+    {
+      "code": "SE",
+      "name": "Sweden"
+    },
+    {
+      "code": "CH",
+      "name": "Switzerland"
+    },
+    {
+      "code": "TZ",
+      "name": "Tanzania"
+    },
+    {
       "code": "TH",
       "name": "Thailand"
+    },
+    {
+      "code": "TR",
+      "name": "Turkey"
+    },
+    {
+      "code": "UA",
+      "name": "Ukraine"
+    },
+    {
+      "code": "AE",
+      "name": "United Arab Emirates"
+    },
+    {
+      "code": "US",
+      "name": "United States"
+    },
+    {
+      "code": "VA",
+      "name": "Vatican"
     }
   ],
   "timeline": [
@@ -6959,5 +6959,5 @@
       "html": "<p>My friends and I, who are working in IT industry and can afford traveling the world while\nworking remotely, decided to start our work-from-South-America journey. We will try to\nvisit as many countries as possible, given COVID-related restrictions.</p>\n"
     }
   ],
-  "lastUpdateAt": 1648552058387
+  "lastUpdateAt": 1648554078391
 }
