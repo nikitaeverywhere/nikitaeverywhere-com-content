@@ -6936,10 +6936,19 @@
           "w": 5464,
           "h": 3640,
           "d": 1642700907000
+        },
+        {
+          "caption": "My friends and I, who are working in IT industry and can afford traveling the world while",
+          "src": "/content/img/auto/c86b0016554f4a79.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/c86b0016554f4a79.thumbnail.jpg",
+          "w": 24934,
+          "h": 6234,
+          "d": 1643461756000
         }
       ],
       "html": "<p>My friends and I, who are working in IT industry and can afford traveling the world while\nworking remotely, decided to start our work-from-South-America journey. We will try to\nvisit as many countries as possible, given COVID-related restrictions.</p>\n"
     }
   ],
-  "lastUpdateAt": 1648546876982
+  "lastUpdateAt": 1648548354144
 }
