@@ -6800,7 +6800,9 @@
         {
           "src": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/co2_est.gif",
           "caption": "An animation of the Carbon Footprint UI",
-          "type": "image"
+          "type": "image",
+          "w": 1440,
+          "h": 900
         },
         {
           "src": "https://www.youtube-nocookie.com/embed/6QbKkDibKXg",
@@ -6869,7 +6871,46 @@
       ],
       "fromRepo": "ZitRos/nikita-tk-timeline-2021",
       "html": "<p>My successful side project <a target=\"_blank\" href=\"https://dataunlocker.com\">DataUnlocker</a> now has 400 users worldwide! 🎉</p>\n<p>This project constantly grows, getting new users without any penny spent on marketing.\nMy strategy now is still to validate that ad blocking community is helpless fighting with\nwhat DataUnlocker offers, and prove that it&#39;s reliable long-term before scaling this\nproduct. Even now, we have many happy companies proxying their analytics data.</p>\n"
+    },
+    {
+      "location": {
+        "name": "Hungary",
+        "code": "HU"
+      },
+      "date-start": 1640044800000,
+      "date-end": 1640131200000,
+      "title": "Traveling to Hungary",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2021",
+      "media": [
+        {
+          "caption": "It was just a few days in Hungary with my younger brother.",
+          "src": "/content/img/auto/d446146916245de0.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/d446146916245de0.thumbnail.jpg",
+          "w": 24746,
+          "h": 3437,
+          "d": 1640026766000
+        }
+      ],
+      "html": "<p>It was just a few days in Hungary with my younger brother.</p>\n"
+    },
+    {
+      "date-start": 1642291200000,
+      "date-end": 1643587200000,
+      "title": "Travel to Brazil",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
+      "html": "<p>My friends and I, who are working in IT industry and can afford traveling the world while\nworking remotely, decided to start our work-from-South-America journey. We will try to\nvisit as many countries as possible, given COVID-related restrictions.</p>\n"
     }
   ],
-  "lastUpdateAt": 1648536441365
+  "lastUpdateAt": 1648546033170
 }
