@@ -579,6 +579,10 @@
       "name": "Montenegro"
     },
     {
+      "name": "Nepal",
+      "code": "NP"
+    },
+    {
       "code": "OM",
       "name": "Oman"
     },
@@ -609,6 +613,10 @@
     {
       "code": "RU",
       "name": "Russia"
+    },
+    {
+      "name": "Saudi Arabia",
+      "code": "SA"
     },
     {
       "code": "SC",
@@ -7184,7 +7192,51 @@
         }
       ],
       "html": "<p>We had an overnight layover in Panama City. A unique fast-pacing place, while relatively expensive too.</p>\n"
+    },
+    {
+      "location": {
+        "name": "Saudi Arabia",
+        "code": "SA"
+      },
+      "date-start": 1645920000000,
+      "date-end": 1646870400000,
+      "title": "Travel to Saudi Arabia",
+      "importance": 3,
+      "tags": [
+        "travel",
+        "photography",
+        "teaching"
+      ],
+      "media": [
+        {
+          "caption": "Saudi Arabia is a very unique country. I was pleased to come here on behalf of [InterSystems](https://intersystems.com/)",
+          "src": "/content/img/auto/8e283c8e6bf862d9.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/8e283c8e6bf862d9.thumbnail.jpg",
+          "w": 18553,
+          "h": 3313,
+          "d": 1646772589000
+        }
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
+      "html": "<p>Saudi Arabia is a very unique country. I was pleased to come here on behalf of <a target=\"_blank\" href=\"https://intersystems.com/\">InterSystems</a>\nto conduct a few courses for local groups at:</p>\n<ul>\n<li><a target=\"_blank\" href=\"https://goo.gl/maps/3Nm7FYvdF1uExFN29\">International Medical Center Hospital, Jeddah</a></li>\n<li><a target=\"_blank\" href=\"https://goo.gl/maps/1mrnMxhdaeTnKDSY6\">Security Forces Hospital, Riyadh</a></li>\n</ul>\n<p>This was a quick course for database-related technology.</p>\n"
+    },
+    {
+      "location": {
+        "name": "Nepal",
+        "code": "NP"
+      },
+      "date-start": 1646870400000,
+      "date-end": 1648857600000,
+      "title": "Travel to Nepal",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
+      "html": "<p>Nepal is one of the most lovely countries I&#39;ve visited.</p>\n"
     }
   ],
-  "lastUpdateAt": 1648655027779
+  "lastUpdateAt": 1648656231552
 }
