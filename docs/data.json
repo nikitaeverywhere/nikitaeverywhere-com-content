@@ -470,6 +470,10 @@
       "name": "Albania"
     },
     {
+      "name": "Argentina",
+      "code": "AR"
+    },
+    {
       "code": "AT",
       "name": "Austria"
     },
@@ -7015,7 +7019,34 @@
         }
       ],
       "html": "<p>It was just 1 day in Paraguay, in its shopping capital, Ciudad del Este.</p>\n"
+    },
+    {
+      "location": {
+        "name": "Argentina",
+        "code": "AR"
+      },
+      "date-start": 1643587200000,
+      "date-end": 1644192000000,
+      "title": "Travel to Argentina",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
+      "media": [
+        {
+          "caption": "A week in Argentina! In South America, it was the country I liked the most.",
+          "src": "/content/img/auto/8a0b980e7c3c2b47.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/8a0b980e7c3c2b47.thumbnail.jpg",
+          "w": 5464,
+          "h": 3640,
+          "d": 1643740888000
+        }
+      ],
+      "html": "<p>A week in Argentina! In South America, it was the country I liked the most.</p>\n"
     }
   ],
-  "lastUpdateAt": 1648651615067
+  "lastUpdateAt": 1648652639577
 }
