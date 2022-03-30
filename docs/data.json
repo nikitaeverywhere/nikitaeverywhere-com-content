@@ -583,6 +583,10 @@
       "name": "Oman"
     },
     {
+      "name": "Panama",
+      "code": "PA"
+    },
+    {
       "name": "Paraguay",
       "code": "PY"
     },
@@ -7153,7 +7157,34 @@
         }
       ],
       "html": "<p>Two weeks in Peru - such a fantastic journey!</p>\n"
+    },
+    {
+      "location": {
+        "name": "Panama",
+        "code": "PA"
+      },
+      "date-start": 1645228800000,
+      "date-end": 1645315200000,
+      "title": "Travel to Panama",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
+      "media": [
+        {
+          "caption": "We had an overnight layover in Panama City. A unique fast-pacing place, while relatively expensive too.",
+          "src": "/content/img/auto/0dfcdfded92bd01e.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/0dfcdfded92bd01e.thumbnail.jpg",
+          "w": 22799,
+          "h": 3301,
+          "d": 1645353394000
+        }
+      ],
+      "html": "<p>We had an overnight layover in Panama City. A unique fast-pacing place, while relatively expensive too.</p>\n"
     }
   ],
-  "lastUpdateAt": 1648654204551
+  "lastUpdateAt": 1648655027779
 }
