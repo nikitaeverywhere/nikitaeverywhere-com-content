@@ -579,6 +579,10 @@
       "name": "Oman"
     },
     {
+      "name": "Paraguay",
+      "code": "PY"
+    },
+    {
       "code": "PL",
       "name": "Poland"
     },
@@ -6985,7 +6989,33 @@
         }
       ],
       "html": "<p>My friends and I, who are working in IT industry and can afford traveling the world while\nworking remotely, decided to start our work-from-South-America journey. We will try to\nvisit as many countries as possible, given COVID-related restrictions.</p>\n"
+    },
+    {
+      "location": {
+        "name": "Paraguay",
+        "code": "PY"
+      },
+      "date-start": 1643500800000,
+      "title": "Travel to Paraguay",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
+      "media": [
+        {
+          "caption": "It was just 1 day in Paraguay, in its shopping capital, Ciudad del Este.",
+          "src": "/content/img/auto/0aa5c8eb8c4c5821.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/0aa5c8eb8c4c5821.thumbnail.jpg",
+          "w": 26702,
+          "h": 3272,
+          "d": 1643560514000
+        }
+      ],
+      "html": "<p>It was just 1 day in Paraguay, in its shopping capital, Ciudad del Este.</p>\n"
     }
   ],
-  "lastUpdateAt": 1648557647992
+  "lastUpdateAt": 1648651615067
 }
