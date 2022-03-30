@@ -587,6 +587,10 @@
       "code": "PY"
     },
     {
+      "name": "Peru",
+      "code": "PE"
+    },
+    {
       "code": "PL",
       "name": "Poland"
     },
@@ -649,6 +653,10 @@
     {
       "code": "US",
       "name": "United States"
+    },
+    {
+      "name": "Uruguay",
+      "code": "UY"
     },
     {
       "code": "VA",
@@ -7046,7 +7054,106 @@
         }
       ],
       "html": "<p>A week in Argentina! In South America, it was the country I liked the most.</p>\n"
+    },
+    {
+      "location": {
+        "name": "Uruguay",
+        "code": "UY"
+      },
+      "date-start": 1644105600000,
+      "date-end": 1644192000000,
+      "title": "Travel to Uruguay",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
+      "media": [
+        {
+          "caption": "A few days in Uruguay. Cloudy but a very interesting experience.",
+          "src": "/content/img/auto/f14463fcb362844c.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/f14463fcb362844c.thumbnail.jpg",
+          "w": 21290,
+          "h": 3360,
+          "d": 1644140870000
+        }
+      ],
+      "html": "<p>A few days in Uruguay. Cloudy but a very interesting experience.</p>\n"
+    },
+    {
+      "location": {
+        "name": "Peru",
+        "code": "PE"
+      },
+      "date-start": 1644192000000,
+      "date-end": 1645228800000,
+      "title": "Travel to Peru",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
+      "media": [
+        {
+          "caption": "Two weeks in Peru - such a fantastic journey!",
+          "src": "/content/img/auto/83122aee129fe0e0.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/83122aee129fe0e0.thumbnail.jpg",
+          "w": 5464,
+          "h": 3640,
+          "d": 1644326658000
+        },
+        {
+          "caption": "Two weeks in Peru - such a fantastic journey!",
+          "src": "/content/img/auto/7f82dabb1777b7b3.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/7f82dabb1777b7b3.thumbnail.jpg",
+          "w": 5464,
+          "h": 3640,
+          "d": 1644427021000
+        },
+        {
+          "caption": "Two weeks in Peru - such a fantastic journey!",
+          "src": "/content/img/auto/a076f1491e8d1c76.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/a076f1491e8d1c76.thumbnail.jpg",
+          "w": 5464,
+          "h": 3640,
+          "d": 1644488122000
+        },
+        {
+          "caption": "Two weeks in Peru - such a fantastic journey!",
+          "src": "/content/img/auto/0b606dc50047ed33.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/0b606dc50047ed33.thumbnail.jpg",
+          "w": 5464,
+          "h": 3640,
+          "d": 1644489304000
+        },
+        {
+          "caption": "Two weeks in Peru - such a fantastic journey!",
+          "src": "/content/img/auto/2ce05fbd54ccee4b.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/2ce05fbd54ccee4b.thumbnail.jpg",
+          "w": 5464,
+          "h": 3640,
+          "d": 1644748945000
+        },
+        {
+          "caption": "Two weeks in Peru - such a fantastic journey!",
+          "src": "/content/img/auto/7cde2a9a79375547.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/7cde2a9a79375547.thumbnail.jpg",
+          "w": 5464,
+          "h": 3640,
+          "d": 1644749128000
+        }
+      ],
+      "html": "<p>Two weeks in Peru - such a fantastic journey!</p>\n"
     }
   ],
-  "lastUpdateAt": 1648652639577
+  "lastUpdateAt": 1648654204551
 }
