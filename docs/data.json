@@ -635,6 +635,10 @@
       "name": "Spain"
     },
     {
+      "name": "Sri Lanka",
+      "code": "LK"
+    },
+    {
       "code": "SE",
       "name": "Sweden"
     },
@@ -7247,7 +7251,60 @@
       ],
       "fromRepo": "ZitRos/nikita-tk-timeline-2022",
       "html": "<p>Nepal is one of the most lovely countries I&#39;ve visited.</p>\n"
+    },
+    {
+      "location": {
+        "name": "India",
+        "code": "IN"
+      },
+      "date-start": 1648857600000,
+      "date-end": 1649116800000,
+      "title": "A weekend in India",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
+      "media": [
+        {
+          "caption": "I visit India for the 2nd time, this time going to Taj Mahal. Unfortunately I was in",
+          "src": "/content/img/auto/54cd5e4b024514f2.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/54cd5e4b024514f2.thumbnail.jpg",
+          "w": 26595,
+          "h": 3388,
+          "d": 1649068190000
+        }
+      ],
+      "html": "<p>I visit India for the 2nd time, this time going to Taj Mahal. Unfortunately I was in\nhurry and made only a panorama of Delhi! :)</p>\n"
+    },
+    {
+      "location": {
+        "name": "Sri Lanka",
+        "code": "LK"
+      },
+      "date-start": 1649116800000,
+      "title": "Travel to Sri Lanka",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
+      "media": [
+        {
+          "caption": "Sri Lanka is lovely. However, we made it to Sri Lanka just when local protests were on fire.",
+          "src": "/content/img/auto/a116dfd6fa541c8c.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/a116dfd6fa541c8c.thumbnail.jpg",
+          "w": 13944,
+          "h": 3486,
+          "d": 1649523961000
+        }
+      ],
+      "html": "<p>Sri Lanka is lovely. However, we made it to Sri Lanka just when local protests were on fire.\nNo lighting for 8 hours a day, 40% of Sri Lankan currency just lost and so on... Though, it\ndidn&#39;t make much difference as for the tourist, except things being even more cheaper around.</p>\n"
     }
   ],
-  "lastUpdateAt": 1648659246259
+  "lastUpdateAt": 1649525561479
 }
