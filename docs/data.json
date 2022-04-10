@@ -7295,6 +7295,15 @@
       "media": [
         {
           "caption": "Sri Lanka is lovely. However, we made it to Sri Lanka just when local protests were on fire.",
+          "src": "/content/img/auto/4984d304ce773bd4.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/4984d304ce773bd4.thumbnail.jpg",
+          "w": 2912,
+          "h": 3640,
+          "d": 1649523186000
+        },
+        {
+          "caption": "Sri Lanka is lovely. However, we made it to Sri Lanka just when local protests were on fire.",
           "src": "/content/img/auto/a116dfd6fa541c8c.jpg",
           "type": "image",
           "thumbnail": "/content/img/auto/a116dfd6fa541c8c.thumbnail.jpg",
@@ -7306,5 +7315,5 @@
       "html": "<p>Sri Lanka is lovely. However, we made it to Sri Lanka just when local protests were on fire.\nNo lighting for 8 hours a day, 40% of Sri Lankan currency just lost and so on... Though, it\ndidn&#39;t make much difference as for the tourist, except things being even more cheaper around.</p>\n"
     }
   ],
-  "lastUpdateAt": 1649588627175
+  "lastUpdateAt": 1649590038328
 }
