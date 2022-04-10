@@ -79,5 +79,23 @@ export async function updateSocialNetworksState(data) {
     }
   }
 
+  // GitHub
+  if (data.socialNetworkAccounts && data.socialNetworkAccounts.github) {
+    try {
+      const result = await fetch(`https://api.github.com/users/zitros`);
+      const resultJson = await result.json();
+      if (resultJson && resultJson.followers) {
+        data.socialNetworks = Object.assign({}, data.socialNetworks, {
+          github: +resultJson.followers,
+        });
+        console.log(
+          `>> Updated data.socialNetworks.github = ${+resultJson.followers}`
+        );
+      }
+    } catch (e) {
+      console.warn(">> GitHub update error", e.message || e.toString());
+    }
+  }
+
   return data.socialNetworks;
 }
