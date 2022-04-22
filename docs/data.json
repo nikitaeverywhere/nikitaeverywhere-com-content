@@ -174,9 +174,15 @@
       "items": [
         {
           "icon": "ethereum",
-          "name": "Blockchain",
+          "name": "Ethereum",
           "link": "https://ethereum.org",
           "progress": 0.95
+        },
+        {
+          "icon": "algorand",
+          "name": "Algorand",
+          "link": "https://www.algorand.com/",
+          "progress": 0.85
         },
         {
           "icon": "gcloud",
