@@ -58,9 +58,9 @@
     "medium": 501,
     "facebook": 409,
     "vk": 284,
-    "twitter": 96,
+    "twitter": 99,
     "linkedin": 307,
-    "github": 115,
+    "github": 116,
     "youtube": 53,
     "tiktok": 35,
     "habr": 7,
@@ -631,6 +631,10 @@
     {
       "code": "SC",
       "name": "Seychelles"
+    },
+    {
+      "name": "Singapore",
+      "code": "SG"
     },
     {
       "code": "SK",
@@ -7323,7 +7327,34 @@
         }
       ],
       "html": "<p>Sri Lanka is lovely. However, we made it to Sri Lanka just when local protests were on fire.\nNo lighting for 8 hours a day, 40% of Sri Lankan currency just lost and so on... Though, it\ndidn&#39;t make much difference as for the tourist, except things being even more cheaper around.</p>\n"
+    },
+    {
+      "location": {
+        "name": "Singapore",
+        "code": "SG"
+      },
+      "date-start": 1653091200000,
+      "date-end": 1653264000000,
+      "title": "Travel to Singapore",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
+      "media": [
+        {
+          "caption": "Singapore was an unexpectedly longer stop in our world journey. We planned to go to Indonesia,",
+          "src": "/content/img/auto/6315bad3dbf113ec.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/6315bad3dbf113ec.thumbnail.jpg",
+          "w": 23005,
+          "h": 3414,
+          "d": 1653177220000
+        }
+      ],
+      "html": "<p>Singapore was an unexpectedly longer stop in our world journey. We planned to go to Indonesia,\nbut unfortunately just during our layover in Singapore, it turned our we can&#39;t travel to it and\nwe need a visa. So, we decided to go back to Malaysia instead and complete a bunch of things we\ndidn&#39;t finish there :) A short 2-day layover in Singapore was enough to see the most of it.</p>\n"
     }
   ],
-  "lastUpdateAt": 1651260820672
+  "lastUpdateAt": 1653841610260
 }
