@@ -7330,6 +7330,33 @@
     },
     {
       "location": {
+        "name": "Malaysia",
+        "code": "MY"
+      },
+      "date-start": 1651190400000,
+      "date-end": 1652745600000,
+      "title": "Stay at Malaysia",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
+      "media": [
+        {
+          "caption": "Malaysia, and especially Kuala Lumpur, a city where we decided to stay for almost 2 month",
+          "src": "/content/img/auto/6ad536cfeb0c6bc1.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/6ad536cfeb0c6bc1.thumbnail.jpg",
+          "w": 26417,
+          "h": 3391,
+          "d": 1653065017000
+        }
+      ],
+      "html": "<p>Malaysia, and especially Kuala Lumpur, a city where we decided to stay for almost 2 month\npersonally impressed me. This is the best life quality/price city I&#39;ve seen in quite a while.</p>\n<p>Imagine living in modern 2-room family apartment in the complex with pools, saunas and gym\nfor just $30/night. It&#39;s real! To add, the city is clean and developing fast. I have an\nimpression that around 30% of buildings around are in construction.</p>\n<p>Moreover, Malaysia has no issues with electronics. Apple, Google - all known brands are here\nand are sold with reasonable prices. Same for food.</p>\n"
+    },
+    {
+      "location": {
         "name": "Singapore",
         "code": "SG"
       },
@@ -7356,5 +7383,5 @@
       "html": "<p>Singapore was an unexpectedly longer stop in our world journey. We planned to go to Indonesia,\nbut unfortunately just during our layover in Singapore, it turned our we can&#39;t travel to it and\nwe need a visa. So, we decided to go back to Malaysia instead and complete a bunch of things we\ndidn&#39;t finish there :) A short 2-day layover in Singapore was enough to see the most of it.</p>\n"
     }
   ],
-  "lastUpdateAt": 1653841610260
+  "lastUpdateAt": 1654433372273
 }
