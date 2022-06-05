@@ -17,28 +17,39 @@
       "path": "/developer",
       "title": "as Developer",
       "timelineFilter": {
-        "tags": ["projects", "career", "open source"]
+        "tags": [
+          "projects",
+          "career",
+          "open source"
+        ]
       }
     },
     "2": {
       "path": "/photographer",
       "title": "as Photographer",
       "timelineFilter": {
-        "tags": ["photography"]
+        "tags": [
+          "photography"
+        ]
       }
     },
     "3": {
       "path": "/teacher",
       "title": "as Teacher and Speaker",
       "timelineFilter": {
-        "tags": ["teaching", "public speaking"]
+        "tags": [
+          "teaching",
+          "public speaking"
+        ]
       }
     },
     "4": {
       "path": "/traveler",
       "title": "as Traveler",
       "timelineFilter": {
-        "tags": ["travel"]
+        "tags": [
+          "travel"
+        ]
       }
     }
   },
@@ -65,7 +76,11 @@
     "linkedin": "zitros",
     "facebook": "zitros"
   },
-  "languages": ["English", "Ukrainian", "Russian"],
+  "languages": [
+    "English",
+    "Ukrainian",
+    "Russian"
+  ],
   "career": [
     {
       "icon": "decash",
@@ -682,7 +697,9 @@
     {
       "date": 1578355200000,
       "title": "Starting Career at Google",
-      "tags": ["career"],
+      "tags": [
+        "career"
+      ],
       "importance": 5,
       "location": {
         "name": "Warsaw, Poland",
@@ -705,7 +722,10 @@
       "date": 1568937600000,
       "title": "Speaking at BlockchainUA about my Blockchain Solution",
       "importance": 4,
-      "tags": ["public speaking", "projects"],
+      "tags": [
+        "public speaking",
+        "projects"
+      ],
       "location": "Kyiv, Ukraine",
       "media": [
         {
@@ -747,7 +767,9 @@
     {
       "date": 1542499200000,
       "title": "Dev Challenge 13 Final: Presentation about Blockchain Application in Practice",
-      "tags": ["public speaking"],
+      "tags": [
+        "public speaking"
+      ],
       "importance": 3,
       "location": {
         "name": "Kyiv, Ukraine",
@@ -778,7 +800,9 @@
     {
       "date-start": 1054252800000,
       "title": "Merit for the Success in Study in School (2-G)",
-      "tags": ["education"],
+      "tags": [
+        "education"
+      ],
       "importance": 2,
       "location": "Kyiv, Ukraine",
       "media": [
@@ -798,7 +822,9 @@
     {
       "date-start": 1085875200000,
       "title": "Merit for the Success in Study in School (3-G)",
-      "tags": ["education"],
+      "tags": [
+        "education"
+      ],
       "importance": 2,
       "location": "Kyiv, Ukraine",
       "media": [
@@ -818,7 +844,9 @@
     {
       "date-start": 1199145600000,
       "title": "Different Computer Games Created in Childhood",
-      "tags": ["projects"],
+      "tags": [
+        "projects"
+      ],
       "importance": 4,
       "media": [
         {
@@ -1020,7 +1048,9 @@
     {
       "date-start": 1230508800000,
       "title": "My Warcraft Mini Games!",
-      "tags": ["projects"],
+      "tags": [
+        "projects"
+      ],
       "importance": 4,
       "media": [
         {
@@ -1118,7 +1148,9 @@
     {
       "date-start": 1234656000000,
       "title": "My Ballzirum Game",
-      "tags": ["projects"],
+      "tags": [
+        "projects"
+      ],
       "importance": 4,
       "media": [
         {
@@ -1224,7 +1256,10 @@
     {
       "date-start": 1262044800000,
       "title": "Getting an Adult Rank in Swimming",
-      "tags": ["competitions", "sports"],
+      "tags": [
+        "competitions",
+        "sports"
+      ],
       "importance": 2,
       "location": "Kyiv, Ukraine",
       "media": [
@@ -1244,7 +1279,9 @@
     {
       "date-start": 1337558400000,
       "title": "Graduating From Technical Lyceum",
-      "tags": ["education"],
+      "tags": [
+        "education"
+      ],
       "importance": 3,
       "location": "Kyiv, Ukraine",
       "media": [
@@ -1291,7 +1328,9 @@
     {
       "date-start": 1354320000000,
       "title": "My Score Project",
-      "tags": ["projects"],
+      "tags": [
+        "projects"
+      ],
       "importance": 2,
       "media": [
         {
@@ -1348,7 +1387,12 @@
       "date-start": 1372636800000,
       "date-end": 1412121600000,
       "title": "Internship in Russia",
-      "tags": ["career", "education", "projects", "travel"],
+      "tags": [
+        "career",
+        "education",
+        "projects",
+        "travel"
+      ],
       "importance": 5,
       "location": "Moscow, Russia",
       "media": [
@@ -1455,7 +1499,10 @@
       "date-end": 1380585600000,
       "title": "Traveling to Russia",
       "importance": 1,
-      "tags": ["travel", "photography"],
+      "tags": [
+        "travel",
+        "photography"
+      ],
       "fromRepo": "ZitRos/nikita-tk-timeline-2020",
       "media": [
         {
@@ -1491,7 +1538,9 @@
     {
       "date-start": 1377993600000,
       "title": "My GlobalsDB Admin Project",
-      "tags": ["projects"],
+      "tags": [
+        "projects"
+      ],
       "importance": 2,
       "media": [
         {
@@ -1549,7 +1598,9 @@
     {
       "date-start": 1386201600000,
       "title": "My Just Slide Puzzle Game",
-      "tags": ["projects"],
+      "tags": [
+        "projects"
+      ],
       "importance": 2,
       "media": [
         {
@@ -1599,7 +1650,9 @@
     {
       "date-start": 1393977600000,
       "title": "ObjectScript Class Explorer",
-      "tags": ["projects"],
+      "tags": [
+        "projects"
+      ],
       "importance": 2,
       "media": [
         {
@@ -1642,7 +1695,11 @@
       "date-start": 1394582400000,
       "date-end": 1401235200000,
       "title": "My First Teaching Experience",
-      "tags": ["teaching", "education", "career"],
+      "tags": [
+        "teaching",
+        "education",
+        "career"
+      ],
       "importance": 5,
       "location": {
         "name": "Kyiv, Ukraine",
@@ -1679,7 +1736,11 @@
     {
       "date-start": 1398470400000,
       "title": "Victory in the International IT Championship",
-      "tags": ["competitions", "public speaking", "projects"],
+      "tags": [
+        "competitions",
+        "public speaking",
+        "projects"
+      ],
       "importance": 5,
       "location": {
         "name": "Kyiv, Ukraine",
@@ -1729,7 +1790,9 @@
     {
       "date-start": 1404777600000,
       "title": "WebTerminal: My Biggest Open Source Project",
-      "tags": ["projects"],
+      "tags": [
+        "projects"
+      ],
       "importance": 4,
       "media": [
         {
@@ -1755,7 +1818,11 @@
     {
       "date-start": 1413763200000,
       "title": "Talking About NodeJS in My University",
-      "tags": ["teaching", "public speaking", "events"],
+      "tags": [
+        "teaching",
+        "public speaking",
+        "events"
+      ],
       "importance": 4,
       "location": {
         "name": "Kyiv, Ukraine",
@@ -1805,7 +1872,11 @@
       "date-start": 1433548800000,
       "date-end": 1440633600000,
       "title": "Internship in the United States",
-      "tags": ["career", "education", "travel"],
+      "tags": [
+        "career",
+        "education",
+        "travel"
+      ],
       "importance": 5,
       "location": "Boston, Massachusetts USA",
       "media": [
@@ -1939,7 +2010,10 @@
       "date-end": 1440633600000,
       "title": "Traveling to United States",
       "importance": 1,
-      "tags": ["travel", "photography"],
+      "tags": [
+        "travel",
+        "photography"
+      ],
       "location": {
         "name": "USA",
         "code": "US"
@@ -2078,7 +2152,10 @@
     {
       "date-start": 1442534400000,
       "title": "Participating in InterSystems Innovations School",
-      "tags": ["competitions", "travel"],
+      "tags": [
+        "competitions",
+        "travel"
+      ],
       "importance": 3,
       "location": "Kyiv, Ukraine",
       "media": [
@@ -2098,7 +2175,10 @@
     {
       "date-start": 1448323200000,
       "title": "The First Place at the XV All-Ukrainian Conference",
-      "tags": ["competitions", "education"],
+      "tags": [
+        "competitions",
+        "education"
+      ],
       "importance": 2,
       "location": "Kyiv, Ukraine",
       "media": [
@@ -2128,7 +2208,9 @@
       "date-start": 1454284800000,
       "date-end": 1454630400000,
       "title": "Teaching in Ukrainian State Enterprise",
-      "tags": ["teaching"],
+      "tags": [
+        "teaching"
+      ],
       "importance": 2,
       "location": {
         "name": "Kyiv, Ukraine",
@@ -2151,7 +2233,9 @@
     {
       "date-start": 1457827200000,
       "title": "My ObjectScript Visual Editor Project",
-      "tags": ["projects"],
+      "tags": [
+        "projects"
+      ],
       "importance": 2,
       "media": [
         {
@@ -2185,7 +2269,9 @@
     {
       "date-start": 1458950400000,
       "title": "Participation in the Manchester's University Research",
-      "tags": ["education"],
+      "tags": [
+        "education"
+      ],
       "importance": 1,
       "location": "Kyiv, Ukraine",
       "media": [
@@ -2205,7 +2291,10 @@
     {
       "date-start": 1460937600000,
       "title": "The First Place at the XVI All-Ukrainian Conference",
-      "tags": ["competitions", "education"],
+      "tags": [
+        "competitions",
+        "education"
+      ],
       "importance": 2,
       "location": "Kyiv, Ukraine",
       "media": [
@@ -2234,7 +2323,10 @@
     {
       "date-start": 1461196800000,
       "title": "My First Publication in American Book",
-      "tags": ["writing", "education"],
+      "tags": [
+        "writing",
+        "education"
+      ],
       "importance": 4,
       "media": [
         {
@@ -2280,7 +2372,10 @@
     {
       "date-start": 1461456000000,
       "title": "First Place in the International IT-Championship",
-      "tags": ["competitions", "projects"],
+      "tags": [
+        "competitions",
+        "projects"
+      ],
       "importance": 5,
       "location": "Kyiv, Ukraine",
       "media": [
@@ -2335,7 +2430,9 @@
     {
       "date-start": 1466121600000,
       "title": "Graduation (Bachelor's Degree in Software Engineering)",
-      "tags": ["education"],
+      "tags": [
+        "education"
+      ],
       "importance": 5,
       "location": "Kyiv, Ukraine",
       "media": [
@@ -2364,7 +2461,9 @@
     {
       "date-start": 1469836800000,
       "title": "Getting a Junior Lieutenant Rank!",
-      "tags": ["education"],
+      "tags": [
+        "education"
+      ],
       "importance": 2,
       "location": "Kyiv, Ukraine",
       "media": [
@@ -2429,7 +2528,10 @@
       "date-start": 1472860800000,
       "date-end": 1473811200000,
       "title": "Teaching Students in Czech Republic",
-      "tags": ["teaching", "travel"],
+      "tags": [
+        "teaching",
+        "travel"
+      ],
       "importance": 2,
       "location": {
         "name": "Brno, Czechia",
@@ -2489,7 +2591,10 @@
       "date-start": 1475020800000,
       "date-end": 1475193600000,
       "title": "Teaching Web Technologies in Moscow's Government Company",
-      "tags": ["teaching", "travel"],
+      "tags": [
+        "teaching",
+        "travel"
+      ],
       "importance": 2,
       "location": {
         "name": "Moscow, Russia",
@@ -2520,7 +2625,9 @@
     {
       "date-start": 1481500800000,
       "title": "My iKnow Entity Browser Project",
-      "tags": ["projects"],
+      "tags": [
+        "projects"
+      ],
       "importance": 2,
       "media": [
         {
@@ -2563,7 +2670,10 @@
       "date-start": 1482019200000,
       "date-end": 1482624000000,
       "title": "Teaching Teachers in Amity University, India",
-      "tags": ["teaching", "travel"],
+      "tags": [
+        "teaching",
+        "travel"
+      ],
       "importance": 4,
       "location": {
         "name": "Delhi, India",
@@ -2623,7 +2733,11 @@
       "date-start": 1485388800000,
       "date-end": 1486080000000,
       "title": "Organizing Course and Hackathon for Students in Czechia",
-      "tags": ["teaching", "travel", "competitions"],
+      "tags": [
+        "teaching",
+        "travel",
+        "competitions"
+      ],
       "importance": 4,
       "location": {
         "name": "Brno, Czechia",
@@ -2687,7 +2801,10 @@
     {
       "date-start": 1487808000000,
       "title": "Organizing Google Hash Code 2017 Coding Competition",
-      "tags": ["competitions", "public speaking"],
+      "tags": [
+        "competitions",
+        "public speaking"
+      ],
       "importance": 4,
       "location": {
         "name": "Kyiv, Ukraine",
@@ -2777,7 +2894,10 @@
       "date-end": 1492905600000,
       "title": "Judging Golden Byte 2017",
       "importance": 2,
-      "tags": ["competitions", "judjing"],
+      "tags": [
+        "competitions",
+        "judjing"
+      ],
       "location": "Kyiv, Ukraine",
       "media": [
         {
@@ -2833,7 +2953,10 @@
       "date-start": 1492992000000,
       "title": "Presenting My iKnow Entity Browser Project on InterSystems Kiev Meetup",
       "importance": 1,
-      "tags": ["public speaking", "projects"],
+      "tags": [
+        "public speaking",
+        "projects"
+      ],
       "location": {
         "name": "Kyiv, Ukraine",
         "code": "UA"
@@ -2881,7 +3004,9 @@
       "date-start": 1502064000000,
       "title": "My TimingKit Project",
       "importance": 4,
-      "tags": ["projects"],
+      "tags": [
+        "projects"
+      ],
       "media": [
         {
           "caption": "The demo of working time analysis",
@@ -2931,7 +3056,9 @@
       "date-start": 1506643200000,
       "title": "Yggdrasil Coding Challenge",
       "importance": 1,
-      "tags": ["competitions"],
+      "tags": [
+        "competitions"
+      ],
       "location": "Kyiv, Ukraine",
       "media": [
         {
@@ -2974,7 +3101,10 @@
       "date-start": 1507766400000,
       "title": "An Article about Me in Kyiv Polytechnic Press",
       "importance": 4,
-      "tags": ["writing", "education"],
+      "tags": [
+        "writing",
+        "education"
+      ],
       "location": "Kyiv, Ukraine",
       "media": [
         {
@@ -2993,7 +3123,10 @@
       "date-start": 1509408000000,
       "title": "Hacktoberfest 2017",
       "importance": 1,
-      "tags": ["competitions", "open source"],
+      "tags": [
+        "competitions",
+        "open source"
+      ],
       "location": "Kyiv, Ukraine",
       "media": [
         {
@@ -3022,7 +3155,10 @@
       "date-start": 1509580800000,
       "title": "Explaining Blockchain Technology in Blockchain School",
       "importance": 3,
-      "tags": ["teaching", "public speaking"],
+      "tags": [
+        "teaching",
+        "public speaking"
+      ],
       "location": {
         "name": "Kyiv, Ukraine",
         "code": "UA"
@@ -3076,7 +3212,9 @@
       "date-start": 1511481600000,
       "title": "Tab Slider: My Biggest Browser Extension",
       "importance": 3,
-      "tags": ["projects"],
+      "tags": [
+        "projects"
+      ],
       "media": [
         {
           "caption": "The feedback about the extension in Chrome Web Store!",
@@ -3094,7 +3232,9 @@
       "date-start": 1518566400000,
       "title": "I am now a Blockchain Developer!",
       "importance": 5,
-      "tags": ["career"],
+      "tags": [
+        "career"
+      ],
       "location": "Kyiv, Ukraine",
       "media": [
         {
@@ -3121,7 +3261,10 @@
     {
       "date-start": 1519862400000,
       "title": "Organizing Google Hash Code 2018 Coding Competition",
-      "tags": ["competitions", "public speaking"],
+      "tags": [
+        "competitions",
+        "public speaking"
+      ],
       "importance": 4,
       "location": {
         "name": "Kyiv, Ukraine",
@@ -3206,7 +3349,9 @@
     {
       "date-start": 1522281600000,
       "title": "Launching The First Beta Blockchain Solution in DreamTeam",
-      "tags": ["career"],
+      "tags": [
+        "career"
+      ],
       "importance": 2,
       "location": "Kyiv, Ukraine",
       "fromRepo": "ZitRos/nikita-tk-timeline-2020",
@@ -3215,7 +3360,11 @@
     {
       "date-start": 1529539200000,
       "title": "DreamTeam Blockchain Solution: the Token Economy Begins!",
-      "tags": ["career", "projects", "writing"],
+      "tags": [
+        "career",
+        "projects",
+        "writing"
+      ],
       "importance": 2,
       "location": "Kyiv, Ukraine",
       "fromRepo": "ZitRos/nikita-tk-timeline-2020",
@@ -3224,7 +3373,9 @@
     {
       "date-start": 1529625600000,
       "title": "Graduation (Master's Degree in Software Engineering)",
-      "tags": ["education"],
+      "tags": [
+        "education"
+      ],
       "importance": 5,
       "location": "Kyiv, Ukraine",
       "media": [
@@ -3252,7 +3403,10 @@
       "date-start": 1531526400000,
       "date-end": 1533427200000,
       "title": "Database & Web Trainings for Dubai Healthcare Organizations",
-      "tags": ["teaching", "travel"],
+      "tags": [
+        "teaching",
+        "travel"
+      ],
       "importance": 2,
       "location": {
         "name": "Dubai, UAE",
@@ -3290,7 +3444,10 @@
       "date-end": 1533427200000,
       "title": "Traveling to United Arab Emirates",
       "importance": 1,
-      "tags": ["travel", "photography"],
+      "tags": [
+        "travel",
+        "photography"
+      ],
       "fromRepo": "ZitRos/nikita-tk-timeline-2020",
       "media": [
         {
@@ -3309,7 +3466,10 @@
       "date-start": 1540944000000,
       "title": "Hacktoberfest 2018",
       "importance": 1,
-      "tags": ["competitions", "open source"],
+      "tags": [
+        "competitions",
+        "open source"
+      ],
       "location": "Kyiv, Ukraine",
       "media": [
         {
@@ -3334,7 +3494,10 @@
       "date-end": 1546214400000,
       "title": "Traveling to Greece",
       "importance": 1,
-      "tags": ["travel", "photography"],
+      "tags": [
+        "travel",
+        "photography"
+      ],
       "media": [
         {
           "src": "https://www.youtube-nocookie.com/embed/L25BsP1_IU8",
@@ -3422,7 +3585,10 @@
       "date-end": 1548892800000,
       "title": "Traveling to Thailand",
       "importance": 1,
-      "tags": ["travel", "photography"],
+      "tags": [
+        "travel",
+        "photography"
+      ],
       "fromRepo": "ZitRos/nikita-tk-timeline-2020",
       "media": [
         {
@@ -3523,7 +3689,12 @@
       "date-end": 1555977600000,
       "title": "Victory at ETHCapeTown Blockchain Hackathon!",
       "importance": 5,
-      "tags": ["competitions", "projects", "travel", "public speaking"],
+      "tags": [
+        "competitions",
+        "projects",
+        "travel",
+        "public speaking"
+      ],
       "location": {
         "name": "Cape Town, South Africa",
         "code": "ZA"
@@ -3575,7 +3746,10 @@
       "date-end": 1555977600000,
       "title": "Traveling to South Africa",
       "importance": 1,
-      "tags": ["travel", "photography"],
+      "tags": [
+        "travel",
+        "photography"
+      ],
       "media": [
         {
           "caption": "Table Mountain at sunset",
@@ -3692,7 +3866,10 @@
       "date-end": 1557014400000,
       "title": "Data Platforms & Web Training for UAE Healthcare",
       "importance": 2,
-      "tags": ["teaching", "travel"],
+      "tags": [
+        "teaching",
+        "travel"
+      ],
       "location": {
         "name": "Dubai, UAE",
         "code": "AE"
@@ -3720,7 +3897,10 @@
       "date-end": 1600992000000,
       "title": "Traveling to Poland",
       "importance": 1,
-      "tags": ["travel", "photography"],
+      "tags": [
+        "travel",
+        "photography"
+      ],
       "fromRepo": "ZitRos/nikita-tk-timeline-2020",
       "media": [
         {
@@ -3848,7 +4028,10 @@
       "date-end": 1569283200000,
       "title": "Traveling to Qatar",
       "importance": 1,
-      "tags": ["travel", "photography"],
+      "tags": [
+        "travel",
+        "photography"
+      ],
       "location": {
         "name": "Qatar",
         "code": "QA"
@@ -3909,7 +4092,10 @@
       "date-end": 1570665600000,
       "title": "Traveling to Indonesia",
       "importance": 1,
-      "tags": ["travel", "photography"],
+      "tags": [
+        "travel",
+        "photography"
+      ],
       "location": {
         "name": "Indonesia",
         "code": "ID"
@@ -4129,7 +4315,10 @@
       "date-end": 1572566400000,
       "title": "Traveling to Oman",
       "importance": 1,
-      "tags": ["travel", "photography"],
+      "tags": [
+        "travel",
+        "photography"
+      ],
       "media": [
         {
           "caption": "Sultan Qaboos University, Muscat, Oman",
@@ -4257,7 +4446,10 @@
       "date-start": 1572480000000,
       "title": "Hacktoberfest 2019",
       "importance": 1,
-      "tags": ["competitions", "open source"],
+      "tags": [
+        "competitions",
+        "open source"
+      ],
       "location": "Kyiv, Ukraine",
       "media": [
         {
@@ -4282,7 +4474,10 @@
       "date-end": 1574640000000,
       "title": "Traveling to continental Spain",
       "importance": 1,
-      "tags": ["travel", "photography"],
+      "tags": [
+        "travel",
+        "photography"
+      ],
       "media": [
         {
           "caption": "Montserrat National Park in Spain",
@@ -4347,7 +4542,10 @@
       "date-start": 1572134400000,
       "date-end": 1572480000000,
       "title": "Databases & Web Training in Sultan Qaboos University Hospital, Oman",
-      "tags": ["teaching", "travel"],
+      "tags": [
+        "teaching",
+        "travel"
+      ],
       "importance": 2,
       "location": {
         "name": "Muscat, Oman",
@@ -4385,7 +4583,10 @@
       "date-end": 1574640000000,
       "title": "Traveling to Canary Islands",
       "importance": 1,
-      "tags": ["travel", "photography"],
+      "tags": [
+        "travel",
+        "photography"
+      ],
       "media": [
         {
           "caption": "Lighthouse on the South of Gran Canaria",
@@ -4495,7 +4696,10 @@
       "date-end": 1575763200000,
       "title": "Traveling to Slovakia",
       "importance": 1,
-      "tags": ["travel", "photography"],
+      "tags": [
+        "travel",
+        "photography"
+      ],
       "media": [
         {
           "caption": "Sunset at Strbske Pleso",
@@ -4596,7 +4800,10 @@
       "date-end": 1578787200000,
       "title": "Traveling to Switzerland",
       "importance": 1,
-      "tags": ["travel", "photography"],
+      "tags": [
+        "travel",
+        "photography"
+      ],
       "media": [
         {
           "caption": "Zurich Lake",
@@ -4657,7 +4864,10 @@
       "date-start": 1578787200000,
       "title": "Traveling to Liechtenstein",
       "importance": 1,
-      "tags": ["travel", "photography"],
+      "tags": [
+        "travel",
+        "photography"
+      ],
       "media": [
         {
           "caption": "Liechtenstein",
@@ -4691,7 +4901,10 @@
       "date-end": 1583798400000,
       "title": "Traveling to Malta",
       "importance": 1,
-      "tags": ["travel", "photography"],
+      "tags": [
+        "travel",
+        "photography"
+      ],
       "media": [
         {
           "caption": "The edge of Malta - Standing on a Cliff",
@@ -4849,7 +5062,9 @@
     {
       "date-start": 1592265600000,
       "title": "My first SaaS project: launched the landing page of dataunlocker.com",
-      "tags": ["projects"],
+      "tags": [
+        "projects"
+      ],
       "importance": 5,
       "location": {
         "name": "Kyiv, Ukraine",
@@ -4885,7 +5100,10 @@
       "date-end": 1595721600000,
       "title": "Traveling to Turkey",
       "importance": 1,
-      "tags": ["travel", "photography"],
+      "tags": [
+        "travel",
+        "photography"
+      ],
       "media": [
         {
           "caption": "The great panorama of Istanbul, Turkey",
@@ -5077,7 +5295,10 @@
       "date-end": 1602460800000,
       "title": "Traveling to Italy",
       "importance": 1,
-      "tags": ["travel", "photography"],
+      "tags": [
+        "travel",
+        "photography"
+      ],
       "media": [
         {
           "caption": "Milan, Italy",
@@ -5121,7 +5342,10 @@
       "date-end": 1601769600000,
       "title": "Traveling to France",
       "importance": 1,
-      "tags": ["travel", "photography"],
+      "tags": [
+        "travel",
+        "photography"
+      ],
       "fromRepo": "ZitRos/nikita-tk-timeline-2020",
       "media": [
         {
@@ -5162,7 +5386,10 @@
       "date-start": 1601164800000,
       "title": "Traveling to Monaco",
       "importance": 1,
-      "tags": ["travel", "photography"],
+      "tags": [
+        "travel",
+        "photography"
+      ],
       "media": [
         {
           "caption": "Monte-Carlo, Monaco",
@@ -5205,7 +5432,10 @@
       "date-end": 1602374400000,
       "title": "Traveling to Portugal",
       "importance": 1,
-      "tags": ["travel", "photography"],
+      "tags": [
+        "travel",
+        "photography"
+      ],
       "fromRepo": "ZitRos/nikita-tk-timeline-2020",
       "media": [
         {
@@ -5323,7 +5553,10 @@
       "date-start": 1604102400000,
       "title": "Hacktoberfest 2020",
       "importance": 1,
-      "tags": ["competitions", "open source"],
+      "tags": [
+        "competitions",
+        "open source"
+      ],
       "location": "Kyiv, Ukraine",
       "fromRepo": "ZitRos/nikita-tk-timeline-2020",
       "media": [
@@ -5349,7 +5582,9 @@
     {
       "date-start": 1606694400000,
       "title": "DataUnlocker is in private beta",
-      "tags": ["projects"],
+      "tags": [
+        "projects"
+      ],
       "importance": 3,
       "location": {
         "name": "Mexico City",
@@ -5386,7 +5621,10 @@
       "date-end": 1610409600000,
       "title": "Traveling to Mexico",
       "importance": 1,
-      "tags": ["travel", "photography"],
+      "tags": [
+        "travel",
+        "photography"
+      ],
       "fromRepo": "ZitRos/nikita-tk-timeline-2020",
       "media": [
         {
@@ -5590,7 +5828,10 @@
       "date-end": 1609372800000,
       "title": "Traveling to Colombia",
       "importance": 1,
-      "tags": ["travel", "photography"],
+      "tags": [
+        "travel",
+        "photography"
+      ],
       "fromRepo": "ZitRos/nikita-tk-timeline-2020",
       "media": [
         {
@@ -5653,7 +5894,9 @@
     {
       "date-start": 1609372800000,
       "title": "My project DataUnlocker is now in public beta!",
-      "tags": ["projects"],
+      "tags": [
+        "projects"
+      ],
       "importance": 5,
       "location": {
         "name": "Cancun",
@@ -5689,7 +5932,10 @@
       "date-start": 1609286400000,
       "title": "Photos and videos from Ukraine",
       "importance": 1,
-      "tags": ["travel", "photography"],
+      "tags": [
+        "travel",
+        "photography"
+      ],
       "media": [
         {
           "src": "https://www.youtube-nocookie.com/embed/jVeBrsH2udQ",
@@ -5981,7 +6227,10 @@
       "date-end": 1615939200000,
       "title": "Traveling to Tanzania",
       "importance": 1,
-      "tags": ["travel", "photography"],
+      "tags": [
+        "travel",
+        "photography"
+      ],
       "fromRepo": "ZitRos/nikita-tk-timeline-2021",
       "media": [
         {
@@ -6140,7 +6389,10 @@
       "date-end": 1621641600000,
       "title": "Traveling to Cyprus",
       "importance": 1,
-      "tags": ["travel", "photography"],
+      "tags": [
+        "travel",
+        "photography"
+      ],
       "media": [
         {
           "src": "https://www.youtube-nocookie.com/embed/7V687OpJEks",
@@ -6264,7 +6516,10 @@
       "date-end": 1623888000000,
       "title": "Traveling to Georgia",
       "importance": 1,
-      "tags": ["travel", "photography"],
+      "tags": [
+        "travel",
+        "photography"
+      ],
       "fromRepo": "ZitRos/nikita-tk-timeline-2021",
       "media": [
         {
@@ -6351,7 +6606,10 @@
       "date-end": 1626393600000,
       "title": "Traveling to Seychelles",
       "importance": 1,
-      "tags": ["travel", "photography"],
+      "tags": [
+        "travel",
+        "photography"
+      ],
       "fromRepo": "ZitRos/nikita-tk-timeline-2021",
       "media": [
         {
@@ -6402,7 +6660,10 @@
       "date-end": 1627171200000,
       "title": "Traveling to Montenegro",
       "importance": 1,
-      "tags": ["travel", "photography"],
+      "tags": [
+        "travel",
+        "photography"
+      ],
       "fromRepo": "ZitRos/nikita-tk-timeline-2021",
       "media": [
         {
@@ -6453,7 +6714,10 @@
       "date-end": 1626652800000,
       "title": "Traveling to Croatia",
       "importance": 1,
-      "tags": ["travel", "photography"],
+      "tags": [
+        "travel",
+        "photography"
+      ],
       "fromRepo": "ZitRos/nikita-tk-timeline-2021",
       "media": [
         {
@@ -6477,7 +6741,10 @@
       "date-end": 1626739200000,
       "title": "Traveling to Bosnia & Herzegovina",
       "importance": 1,
-      "tags": ["travel", "photography"],
+      "tags": [
+        "travel",
+        "photography"
+      ],
       "fromRepo": "ZitRos/nikita-tk-timeline-2021",
       "media": [
         {
@@ -6509,7 +6776,10 @@
       "date-start": 1626998400000,
       "title": "Traveling to Albania",
       "importance": 1,
-      "tags": ["travel", "photography"],
+      "tags": [
+        "travel",
+        "photography"
+      ],
       "fromRepo": "ZitRos/nikita-tk-timeline-2021",
       "media": [
         {
@@ -6537,7 +6807,9 @@
       "date-start": 1633046400000,
       "title": "Back to crypto as a CTO and a Technical Product Owner at DeCash",
       "importance": 4,
-      "tags": ["career"],
+      "tags": [
+        "career"
+      ],
       "media": [
         {
           "caption": "The team",
@@ -6567,7 +6839,9 @@
       "date-start": 1633996800000,
       "title": "My Carbon Footprint project at Google Cloud Next",
       "importance": 5,
-      "tags": ["career"],
+      "tags": [
+        "career"
+      ],
       "media": [
         {
           "caption": "The Carbon Footprint Dashboard UI I've built at Google",
@@ -6604,7 +6878,10 @@
       "date-end": 1634428800000,
       "title": "Traveling to Moldova",
       "importance": 1,
-      "tags": ["travel", "photography"],
+      "tags": [
+        "travel",
+        "photography"
+      ],
       "media": [
         {
           "src": "https://www.youtube-nocookie.com/embed/WzOpHIaNOvg",
@@ -6623,7 +6900,9 @@
       "date-start": 1638316800000,
       "title": "My project DataUnlocker crosses 400 clients worldwide",
       "importance": 5,
-      "tags": ["career"],
+      "tags": [
+        "career"
+      ],
       "media": [
         {
           "caption": "The landing of DataUnlocker",
@@ -6654,7 +6933,10 @@
       "date-end": 1640131200000,
       "title": "Traveling to Hungary",
       "importance": 1,
-      "tags": ["travel", "photography"],
+      "tags": [
+        "travel",
+        "photography"
+      ],
       "fromRepo": "ZitRos/nikita-tk-timeline-2021",
       "media": [
         {
@@ -6678,7 +6960,10 @@
       "date-end": 1643587200000,
       "title": "Travel to Brazil",
       "importance": 1,
-      "tags": ["travel", "photography"],
+      "tags": [
+        "travel",
+        "photography"
+      ],
       "fromRepo": "ZitRos/nikita-tk-timeline-2022",
       "media": [
         {
@@ -6755,7 +7040,10 @@
       "date-start": 1643500800000,
       "title": "Travel to Paraguay",
       "importance": 1,
-      "tags": ["travel", "photography"],
+      "tags": [
+        "travel",
+        "photography"
+      ],
       "fromRepo": "ZitRos/nikita-tk-timeline-2022",
       "media": [
         {
@@ -6779,7 +7067,10 @@
       "date-end": 1644192000000,
       "title": "Travel to Argentina",
       "importance": 1,
-      "tags": ["travel", "photography"],
+      "tags": [
+        "travel",
+        "photography"
+      ],
       "fromRepo": "ZitRos/nikita-tk-timeline-2022",
       "media": [
         {
@@ -6803,7 +7094,10 @@
       "date-end": 1644192000000,
       "title": "Travel to Uruguay",
       "importance": 1,
-      "tags": ["travel", "photography"],
+      "tags": [
+        "travel",
+        "photography"
+      ],
       "fromRepo": "ZitRos/nikita-tk-timeline-2022",
       "media": [
         {
@@ -6827,7 +7121,10 @@
       "date-end": 1645228800000,
       "title": "Travel to Peru",
       "importance": 1,
-      "tags": ["travel", "photography"],
+      "tags": [
+        "travel",
+        "photography"
+      ],
       "fromRepo": "ZitRos/nikita-tk-timeline-2022",
       "media": [
         {
@@ -6896,7 +7193,10 @@
       "date-end": 1645315200000,
       "title": "Travel to Panama",
       "importance": 1,
-      "tags": ["travel", "photography"],
+      "tags": [
+        "travel",
+        "photography"
+      ],
       "fromRepo": "ZitRos/nikita-tk-timeline-2022",
       "media": [
         {
@@ -6920,7 +7220,10 @@
       "date-end": 1645833600000,
       "title": "Travel to Colombia",
       "importance": 1,
-      "tags": ["travel", "photography"],
+      "tags": [
+        "travel",
+        "photography"
+      ],
       "fromRepo": "ZitRos/nikita-tk-timeline-2022",
       "html": "<p>That&#39;s the second time I come to Colombia, now in a group of 8 IT specialists.</p>\n<p>Fun fact: there are 2 major cellphone carriers. This time I purchased another carrier\nfrom what it was a year ago. And it turned out that I just wasted my money, because my\nphone turned out to be locked to the previous carrier.</p>\n<p>This is the trip during which we learned about Russian invasion to Ukraine...</p>\n"
     },
@@ -6932,7 +7235,10 @@
       "date-start": 1645660800000,
       "title": "War in Ukraine",
       "importance": 5,
-      "tags": ["career", "travel"],
+      "tags": [
+        "career",
+        "travel"
+      ],
       "fromRepo": "ZitRos/nikita-tk-timeline-2022",
       "media": [
         {
@@ -7027,7 +7333,11 @@
       "date-end": 1646870400000,
       "title": "Teaching in Saudi Arabia's hospitals",
       "importance": 3,
-      "tags": ["travel", "photography", "teaching"],
+      "tags": [
+        "travel",
+        "photography",
+        "teaching"
+      ],
       "media": [
         {
           "caption": "Riyadh",
@@ -7051,7 +7361,10 @@
       "date-end": 1648857600000,
       "title": "Travel to Nepal",
       "importance": 1,
-      "tags": ["travel", "photography"],
+      "tags": [
+        "travel",
+        "photography"
+      ],
       "media": [
         {
           "caption": "A lake in Pokhara",
@@ -7075,7 +7388,10 @@
       "date-end": 1649116800000,
       "title": "A weekend in India",
       "importance": 1,
-      "tags": ["travel", "photography"],
+      "tags": [
+        "travel",
+        "photography"
+      ],
       "fromRepo": "ZitRos/nikita-tk-timeline-2022",
       "media": [
         {
@@ -7098,7 +7414,10 @@
       "date-start": 1649116800000,
       "title": "Travel to Sri Lanka",
       "importance": 1,
-      "tags": ["travel", "photography"],
+      "tags": [
+        "travel",
+        "photography"
+      ],
       "fromRepo": "ZitRos/nikita-tk-timeline-2022",
       "media": [
         {
@@ -7131,7 +7450,10 @@
       "date-end": 1652745600000,
       "title": "Stay at Malaysia",
       "importance": 1,
-      "tags": ["travel", "photography"],
+      "tags": [
+        "travel",
+        "photography"
+      ],
       "fromRepo": "ZitRos/nikita-tk-timeline-2022",
       "media": [
         {
@@ -7155,7 +7477,10 @@
       "date-end": 1653264000000,
       "title": "Travel to Singapore",
       "importance": 1,
-      "tags": ["travel", "photography"],
+      "tags": [
+        "travel",
+        "photography"
+      ],
       "fromRepo": "ZitRos/nikita-tk-timeline-2022",
       "media": [
         {
@@ -7171,5 +7496,5 @@
       "html": "<p>Singapore was an unexpectedly longer stop in our world journey. We planned to go to Indonesia,\nbut unfortunately just during our layover in Singapore, it turned our we can&#39;t travel to it and\nwe need a visa. So, we decided to go back to Malaysia instead and complete a bunch of things we\ndidn&#39;t finish there :) A short 2-day layover in Singapore was enough to see the most of it.</p>\n"
     }
   ],
-  "lastUpdateAt": 1654441272169
+  "lastUpdateAt": 1654442249922
 }
