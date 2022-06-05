@@ -7216,6 +7216,22 @@
         "name": "Colombia",
         "code": "CO"
       },
+      "date-start": 1645315200000,
+      "date-end": 1645833600000,
+      "title": "Travel to Colombia",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
+      "html": "<p>That&#39;s the second time I come to Colombia, now in a group of 8 IT specialists.</p>\n<p>Fun fact: there are 2 major cellphone carriers. This time I purchased another carrier\nfrom what it was a year ago. And it turned out that I just wasted my money, because my\nphone turned out to be locked to the previous carrier.</p>\n<p>This is the trip during which we learned about Russian invasion to Ukraine...</p>\n"
+    },
+    {
+      "location": {
+        "name": "Colombia",
+        "code": "CO"
+      },
       "date-start": 1645660800000,
       "title": "War in Ukraine",
       "importance": 5,
@@ -7480,5 +7496,5 @@
       "html": "<p>Singapore was an unexpectedly longer stop in our world journey. We planned to go to Indonesia,\nbut unfortunately just during our layover in Singapore, it turned our we can&#39;t travel to it and\nwe need a visa. So, we decided to go back to Malaysia instead and complete a bunch of things we\ndidn&#39;t finish there :) A short 2-day layover in Singapore was enough to see the most of it.</p>\n"
     }
   ],
-  "lastUpdateAt": 1654438531716
+  "lastUpdateAt": 1654441272169
 }
