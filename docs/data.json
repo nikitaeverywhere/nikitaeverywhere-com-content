@@ -7213,6 +7213,103 @@
     },
     {
       "location": {
+        "name": "Colombia",
+        "code": "CO"
+      },
+      "date-start": 1645660800000,
+      "title": "War in Ukraine",
+      "importance": 5,
+      "tags": [
+        "career",
+        "travel"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
+      "media": [
+        {
+          "caption": "This is a day when Russia decided to invade my home, Ukraine. Missile strikes all over Ukraine,",
+          "src": "/content/img/auto/d7f26b71c68b5c6f.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/d7f26b71c68b5c6f.thumbnail.jpg",
+          "w": 1024,
+          "h": 683
+        },
+        {
+          "caption": "This is a day when Russia decided to invade my home, Ukraine. Missile strikes all over Ukraine,",
+          "src": "/content/img/auto/770ff8ff0d352e0d.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/770ff8ff0d352e0d.thumbnail.jpg",
+          "w": 1138,
+          "h": 640
+        },
+        {
+          "caption": "This is a day when Russia decided to invade my home, Ukraine. Missile strikes all over Ukraine,",
+          "src": "/content/img/auto/1592c53083d01733.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/1592c53083d01733.thumbnail.jpg",
+          "w": 630,
+          "h": 360
+        },
+        {
+          "caption": "This is a day when Russia decided to invade my home, Ukraine. Missile strikes all over Ukraine,",
+          "src": "/content/img/auto/bc52b49a4dbd4956.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/bc52b49a4dbd4956.thumbnail.jpg",
+          "w": 1138,
+          "h": 640
+        },
+        {
+          "caption": "This is a day when Russia decided to invade my home, Ukraine. Missile strikes all over Ukraine,",
+          "src": "/content/img/auto/638267802477b649.png",
+          "type": "image",
+          "thumbnail": "/content/img/auto/638267802477b649.thumbnail.png",
+          "w": 1132,
+          "h": 707
+        },
+        {
+          "caption": "This is a day when Russia decided to invade my home, Ukraine. Missile strikes all over Ukraine,",
+          "src": "/content/img/auto/704bb504249f2fd6.png",
+          "type": "image",
+          "thumbnail": "/content/img/auto/704bb504249f2fd6.thumbnail.png",
+          "w": 1024,
+          "h": 576
+        },
+        {
+          "caption": "This is a day when Russia decided to invade my home, Ukraine. Missile strikes all over Ukraine,",
+          "src": "/content/img/auto/c23a4e7d92420c98.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/c23a4e7d92420c98.thumbnail.jpg",
+          "w": 1920,
+          "h": 1080
+        },
+        {
+          "caption": "This is a day when Russia decided to invade my home, Ukraine. Missile strikes all over Ukraine,",
+          "src": "/content/img/auto/59e58ea4d43a631a.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/59e58ea4d43a631a.thumbnail.jpg",
+          "w": 1170,
+          "h": 540
+        },
+        {
+          "caption": "This is a day when Russia decided to invade my home, Ukraine. Missile strikes all over Ukraine,",
+          "src": "/content/img/auto/7e75c0d1f53edb1d.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/7e75c0d1f53edb1d.thumbnail.jpg",
+          "w": 1182,
+          "h": 665
+        },
+        {
+          "caption": "This is a day when Russia decided to invade my home, Ukraine. Missile strikes all over Ukraine,",
+          "src": "/content/img/auto/9db01b7e7bae6385.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/9db01b7e7bae6385.thumbnail.jpg",
+          "w": 1182,
+          "h": 665
+        }
+      ],
+      "html": "<p>This is a day when Russia decided to invade my home, Ukraine. Missile strikes all over Ukraine,\nin all cities, Russian troops are attacking all across Eastern Ukrainian land border.</p>\n<p>Russia not being happy with the presence of independent Ukraine is a long story. But long story\nshort, from my point of view, last 2-3 years before the war, with our new president Zelensky were\namazing years for Ukraine. At the time of invasion, just in 2-3 years after Zalensky stepped in:</p>\n<ul>\n<li>We&#39;ve got an absolutely amazing <a target=\"_blank\" href=\"https://diia.gov.ua/\">Diia web portal</a> and a mobile app, which we call &quot;digital government&quot;. Literally your passport, driving license etc is packed in this app, along with hundreds of government services.</li>\n<li><a target=\"_blank\" href=\"https://city.diia.gov.ua/\">Diia city</a>, which is the recently well-worked through tax system for small and big IT companies. 5-9% tax system, many perks etc - all to attract business and make Ukraine the best-in-class IT hub, which it already is for Ukrainians.</li>\n<li>Various infrastructure and people improvements. New things are being built all around the country.</li>\n</ul>\n<p>And exactly at this stage of an amazing growth, Russia decided to grab some Ukrainian territories again,\nassault cities and murder people, kill civilian infrastructure, steal food and lands.</p>\n<p>We will not forget. We will not forgive. We need your help to kick the Putin&#39;s ass off Ukraine faster!</p>\n<ul>\n<li><a target=\"_blank\" href=\"https://uahelp.monobank.ua/\">Easy one-click donations (Google Pay, Apple Pay, bank card)</a></li>\n<li><a target=\"_blank\" href=\"https://u24.gov.ua/\">United24 by President of Ukraine - aid to Ukraine</a></li>\n<li><a target=\"_blank\" href=\"https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi\">Official donations to Ukraine by National Bank</a></li>\n<li><a target=\"_blank\" href=\"https://twitter.com/Ukraine/status/1497594592438497282\">Donate to Ukrainian crypto funds</a></li>\n</ul>\n"
+    },
+    {
+      "location": {
         "name": "Saudi Arabia",
         "code": "SA"
       },
@@ -7383,5 +7480,5 @@
       "html": "<p>Singapore was an unexpectedly longer stop in our world journey. We planned to go to Indonesia,\nbut unfortunately just during our layover in Singapore, it turned our we can&#39;t travel to it and\nwe need a visa. So, we decided to go back to Malaysia instead and complete a bunch of things we\ndidn&#39;t finish there :) A short 2-day layover in Singapore was enough to see the most of it.</p>\n"
     }
   ],
-  "lastUpdateAt": 1654433372273
+  "lastUpdateAt": 1654438531716
 }
