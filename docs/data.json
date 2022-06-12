@@ -58,9 +58,9 @@
     "medium": 501,
     "facebook": 409,
     "vk": 284,
-    "twitter": 99,
+    "twitter": 100,
     "linkedin": 307,
-    "github": 116,
+    "github": 117,
     "youtube": 53,
     "tiktok": 35,
     "habr": 7,
@@ -7464,6 +7464,33 @@
           "w": 26417,
           "h": 3391,
           "d": 1653065017000
+        },
+        {
+          "caption": "Malaysia, and especially Kuala Lumpur, a city where we decided to stay for almost 2 month",
+          "src": "/content/img/auto/b073f3567803a73e.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/b073f3567803a73e.thumbnail.jpg",
+          "w": 2912,
+          "h": 3640,
+          "d": 1653064897000
+        },
+        {
+          "caption": "Malaysia, and especially Kuala Lumpur, a city where we decided to stay for almost 2 month",
+          "src": "/content/img/auto/c76bb4d9c4d5255c.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/c76bb4d9c4d5255c.thumbnail.jpg",
+          "w": 25234,
+          "h": 3365,
+          "d": 1653758625000
+        },
+        {
+          "caption": "Malaysia, and especially Kuala Lumpur, a city where we decided to stay for almost 2 month",
+          "src": "/content/img/auto/995ae310b334f9fe.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/995ae310b334f9fe.thumbnail.jpg",
+          "w": 2912,
+          "h": 3640,
+          "d": 1654449131000
         }
       ],
       "html": "<p>Malaysia, and especially Kuala Lumpur, a city where we decided to stay for almost 2 month\npersonally impressed me. This is the best life quality/price city I&#39;ve seen in quite a while.</p>\n<p>Imagine living in modern 2-room family apartment in the complex with pools, saunas and gym\nfor just $30/night. It&#39;s real! To add, the city is clean and developing fast. I have an\nimpression that around 30% of buildings around are in construction.</p>\n<p>Moreover, Malaysia has no issues with electronics. Apple, Google - all known brands are here\nand are sold with reasonable prices. Same for food.</p>\n"
@@ -7496,5 +7523,5 @@
       "html": "<p>Singapore was an unexpectedly longer stop in our world journey. We planned to go to Indonesia,\nbut unfortunately just during our layover in Singapore, it turned our we can&#39;t travel to it and\nwe need a visa. So, we decided to go back to Malaysia instead and complete a bunch of things we\ndidn&#39;t finish there :) A short 2-day layover in Singapore was enough to see the most of it.</p>\n"
     }
   ],
-  "lastUpdateAt": 1654442249922
+  "lastUpdateAt": 1655036505938
 }
