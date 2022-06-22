@@ -58,7 +58,7 @@
     "medium": 501,
     "facebook": 409,
     "vk": 284,
-    "twitter": 100,
+    "twitter": 102,
     "linkedin": 307,
     "github": 117,
     "youtube": 53,
@@ -478,6 +478,10 @@
     {
       "name": "Argentina",
       "code": "AR"
+    },
+    {
+      "name": "Australia",
+      "code": "AU"
     },
     {
       "code": "AT",
@@ -7521,7 +7525,34 @@
         }
       ],
       "html": "<p>Singapore was an unexpectedly longer stop in our world journey. We planned to go to Indonesia,\nbut unfortunately just during our layover in Singapore, it turned our we can&#39;t travel to it and\nwe need a visa. So, we decided to go back to Malaysia instead and complete a bunch of things we\ndidn&#39;t finish there :) A short 2-day layover in Singapore was enough to see the most of it.</p>\n"
+    },
+    {
+      "location": {
+        "name": "Australia",
+        "code": "AU"
+      },
+      "date-start": 1655424000000,
+      "date-end": 1657324800000,
+      "title": "Stay in Australia",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
+      "media": [
+        {
+          "caption": "Australia is big and really cool (and really expensive :P). One of the top countries",
+          "src": "/content/img/auto/54c9da20029878f5.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/54c9da20029878f5.thumbnail.jpg",
+          "w": 14907,
+          "h": 2719,
+          "d": 1655654011000
+        }
+      ],
+      "html": "<p>Australia is big and really cool (and really expensive :P). One of the top countries\nI&#39;ve visited, and definitely one of the greatest places to live in.</p>\n<p>We&#39;re staying by around a week in all 3 major cities:</p>\n<ul>\n<li>Sydney</li>\n<li>Gold Coast</li>\n<li>Melbourne</li>\n</ul>\n"
     }
   ],
-  "lastUpdateAt": 1655036505938
+  "lastUpdateAt": 1655872073714
 }
