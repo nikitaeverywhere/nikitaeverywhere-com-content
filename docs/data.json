@@ -5,7 +5,7 @@
   "website": "https://nikita.tk",
   "telegram": "nikitaeverywhere",
   "websitePersistentTitle": "Nikita Savchenko",
-  "currentLocation": "Kuala Lumpur, Malaysia",
+  "currentLocation": "Siem Reap, Cambodia",
   "galleryMaxFeatured": 55,
   "pages": {
     "0": {
@@ -83,6 +83,12 @@
   ],
   "career": [
     {
+      "icon": "revolut",
+      "caption": "Revolut",
+      "subtitle": "Tech Lead (crypto)",
+      "year": 2022
+    },
+    {
       "icon": "decash",
       "caption": "DeCash",
       "subtitle": "CTO & Product Owner (crypto)",
@@ -109,14 +115,14 @@
   ],
   "developerOffers": [
     {
+      "icon": "solidity",
+      "caption": "Blockchain",
+      "description": "Architecture and consulting for Ethereum and other decentralized platforms"
+    },
+    {
       "icon": "gcloud",
       "caption": "System design and architecture",
       "description": "Building things from ground up in cloud or hybrid infrastructure"
-    },
-    {
-      "icon": "solidity",
-      "caption": "Blockchain development",
-      "description": "Designing and developing for Ethereum and other decentralized platforms"
     },
     {
       "icon": "ethereum",
