@@ -58,9 +58,9 @@
     "medium": 501,
     "facebook": 409,
     "vk": 284,
-    "twitter": 103,
+    "twitter": 106,
     "linkedin": 307,
-    "github": 119,
+    "github": 122,
     "youtube": 53,
     "tiktok": 35,
     "habr": 7,
@@ -577,6 +577,10 @@
     {
       "code": "LI",
       "name": "Liechtenstein"
+    },
+    {
+      "name": "Lithuania",
+      "code": "LT"
     },
     {
       "code": "MY",
@@ -7564,6 +7568,22 @@
       "html": "<p>Australia is big and really cool (and really expensive :P). One of the top countries\nI&#39;ve visited, and definitely one of the greatest places to live in.</p>\n<p>We&#39;re staying by around a week in all 3 major cities:</p>\n<ul>\n<li>Sydney</li>\n<li>Gold Coast</li>\n<li>Melbourne</li>\n</ul>\n"
     },
     {
+      "location": {
+        "name": "Thailand",
+        "code": "TH"
+      },
+      "date-start": 1657411200000,
+      "date-end": 1658880000000,
+      "title": "Stay at Phuket, Thailand",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
+      "html": "<p>It&#39;s the second time I come to Thailand, this time exclusively to Phuket.</p>\n"
+    },
+    {
       "date-start": 1658275200000,
       "title": "DeCash Send Release - Stablecoins!",
       "importance": 4,
@@ -7625,7 +7645,50 @@
         }
       ],
       "html": "<p>Cambodia isn&#39;t that advanced as Dubai, Singapore, Australia... But it has a nice local vibe,\nand definitely has things to see and do. We came here to see Angkor Wat, the world&#39;s most famous\n&quot;Wat&quot; :)</p>\n<p>This is a cash country, you can be a millionaire here. Prices though are relatively the same as in\nother countries nearby.</p>\n"
+    },
+    {
+      "location": {
+        "name": "Georgia",
+        "code": "GE"
+      },
+      "date-start": 1660003200000,
+      "date-end": 1661472000000,
+      "title": "Stay at Georgia",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
+      "html": "<p>It&#39;s the second time I come to Georgia, this time to Tbilisi and Batumi.</p>\n"
+    },
+    {
+      "location": {
+        "name": "Lithuania",
+        "code": "LT"
+      },
+      "date-start": 1662940800000,
+      "date-end": 1663113600000,
+      "title": "Stay at Kaunas, Lithuania",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
+      "media": [
+        {
+          "caption": "Kaunas is a small city in the central Lithuania. I decided to run through 4 near-Baltic sea",
+          "src": "/content/img/auto/361c6f26c70352aa.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/361c6f26c70352aa.thumbnail.jpg",
+          "w": 16320,
+          "h": 3400,
+          "d": 1663123216000
+        }
+      ],
+      "html": "<p>Kaunas is a small city in the central Lithuania. I decided to run through 4 near-Baltic sea\ncountries before the Winter starts and see how they live.</p>\n<p>Kaunas was neat. Rainy, it didn&#39;t have much people on streets or shops: all were half-to-completely\nempty. In the center, I met maybe 2-3 tourists like myself.</p>\n"
     }
   ],
-  "lastUpdateAt": 1659968982028
+  "lastUpdateAt": 1663511746989
 }
