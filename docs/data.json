@@ -539,6 +539,14 @@
       "name": "Egypt"
     },
     {
+      "name": "Estonia",
+      "code": "EE"
+    },
+    {
+      "name": "Finland",
+      "code": "FI"
+    },
+    {
       "code": "FR",
       "name": "France"
     },
@@ -7688,7 +7696,60 @@
         }
       ],
       "html": "<p>Kaunas is a small city in the central Lithuania. I decided to run through 4 near-Baltic sea\ncountries before the Winter starts and see how they live.</p>\n<p>Kaunas was neat. Rainy, it didn&#39;t have much people on streets or shops: all were half-to-completely\nempty. In the center, I met maybe 2-3 tourists like myself.</p>\n"
+    },
+    {
+      "location": {
+        "name": "Finland",
+        "code": "FI"
+      },
+      "date-start": 1663113600000,
+      "title": "One day at Helsinki, Finland",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
+      "media": [
+        {
+          "caption": "Helsinki was my quick stopover with the main goal to experience cruise for the first time in",
+          "src": "/content/img/auto/0d61da845cf59184.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/0d61da845cf59184.thumbnail.jpg",
+          "w": 17779,
+          "h": 2700,
+          "d": 1663208248000
+        }
+      ],
+      "html": "<p>Helsinki was my quick stopover with the main goal to experience cruise for the first time in\nmy life. The cruise from Helsinki to Tallin takes just 2.5 hours, however I had an option to\nstay in the cabin over the night.</p>\n<p>Excited!</p>\n"
+    },
+    {
+      "location": {
+        "name": "Estonia",
+        "code": "EE"
+      },
+      "date-start": 1663200000000,
+      "date-end": 1663545600000,
+      "title": "Stay in Tallin, Estonia",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
+      "media": [
+        {
+          "caption": "My first time in Estonia. My very first impression is: central Estonia looks like Prague!",
+          "src": "/content/img/auto/8bb52a7ba0032841.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/8bb52a7ba0032841.thumbnail.jpg",
+          "w": 17691,
+          "h": 2721,
+          "d": 1663468783000
+        }
+      ],
+      "html": "<p>My first time in Estonia. My very first impression is: central Estonia looks like Prague!\nVery populated, active, live and has these old buildings sometimes with red roofs.</p>\n"
     }
   ],
-  "lastUpdateAt": 1663511746989
+  "lastUpdateAt": 1663512726086
 }
