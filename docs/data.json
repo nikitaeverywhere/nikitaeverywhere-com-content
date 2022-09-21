@@ -583,6 +583,10 @@
       "name": "Italy"
     },
     {
+      "name": "Latvia",
+      "code": "LV"
+    },
+    {
       "code": "LI",
       "name": "Liechtenstein"
     },
@@ -7749,7 +7753,34 @@
         }
       ],
       "html": "<p>My first time in Estonia. My very first impression is: central Estonia looks like Prague!\nVery populated, active, live and has these old buildings sometimes with red roofs.</p>\n"
+    },
+    {
+      "location": {
+        "name": "Latvia",
+        "code": "LV"
+      },
+      "date-start": 1663545600000,
+      "date-end": 1663804800000,
+      "title": "Stay in Riga, Latvia",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
+      "media": [
+        {
+          "caption": "Neat compact city Riga. It was raining almost all the time during my stay, so I decided to took",
+          "src": "/content/img/auto/435ebb5bb4eb0c2a.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/435ebb5bb4eb0c2a.thumbnail.jpg",
+          "w": 17712,
+          "h": 3448,
+          "d": 1663824671000
+        }
+      ],
+      "html": "<p>Neat compact city Riga. It was raining almost all the time during my stay, so I decided to took\nsome pictures at night :D Actually, very attractive!</p>\n"
     }
   ],
-  "lastUpdateAt": 1663512726086
+  "lastUpdateAt": 1663794257348
 }
