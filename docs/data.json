@@ -58,9 +58,9 @@
     "medium": 501,
     "facebook": 409,
     "vk": 284,
-    "twitter": 109,
+    "twitter": 110,
     "linkedin": 307,
-    "github": 122,
+    "github": 124,
     "youtube": 53,
     "tiktok": 35,
     "habr": 7,
@@ -597,6 +597,10 @@
     {
       "code": "MY",
       "name": "Malaysia"
+    },
+    {
+      "name": "Maldives",
+      "code": "MV"
     },
     {
       "code": "MT",
@@ -7780,7 +7784,34 @@
         }
       ],
       "html": "<p>Neat compact city Riga. It was raining almost all the time during my stay, so I decided to took\nsome pictures at night :D Actually, very attractive!</p>\n"
+    },
+    {
+      "location": {
+        "name": "Maldives",
+        "code": "MV"
+      },
+      "date-start": 1671926400000,
+      "date-end": 1673654400000,
+      "title": "Maldives",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
+      "media": [
+        {
+          "caption": "Maldives is a very popular honeymoon destination, along with the one having the most",
+          "src": "/content/img/auto/c024f4c36bb2eb1a.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/c024f4c36bb2eb1a.thumbnail.jpg",
+          "w": 1535,
+          "h": 2729,
+          "d": 1672226725000
+        }
+      ],
+      "html": "<p>Maldives is a very popular honeymoon destination, along with the one having the most\nexpensive over-water hotels in the world.</p>\n<p>This is also the first long overseas destination where I didn&#39;t take my drone :)</p>\n"
     }
   ],
-  "lastUpdateAt": 1664396763130
+  "lastUpdateAt": 1672313010541
 }
