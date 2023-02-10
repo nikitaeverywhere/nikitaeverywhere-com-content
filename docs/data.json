@@ -7610,8 +7610,16 @@
       "tags": [
         "career"
       ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
       "media": [
+        {
+          "src": "https://www.youtube-nocookie.com/embed/I6d7idE2zhs",
+          "caption": "StableStake and DeCash Wallet demo",
+          "type": "youtube",
+          "thumbnail": "https://img.youtube.com/vi/I6d7idE2zhs/mqdefault.jpg",
+          "link": "https://www.youtube.com/watch?v=I6d7idE2zhs",
+          "w": 320,
+          "h": 180
+        },
         {
           "caption": "As a [CTO](https://decash.com/who-we-are) at [DeCash](https://decash.com), I'm glad to announce we have a release of",
           "src": "/content/img/auto/6fdc30e8e0766f0a.png",
@@ -7621,6 +7629,7 @@
           "h": 2082
         }
       ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
       "html": "<p>As a <a target=\"_blank\" href=\"https://decash.com/who-we-are\">CTO</a> at <a target=\"_blank\" href=\"https://decash.com\">DeCash</a>, I&#39;m glad to announce we have a release of\nour own stablecoin and the UI to manage it, <a target=\"_blank\" href=\"https://send.decash.com\">send.decash.com</a>. The technical part of it was\npolished really well and, comparing to other stablecoins, offers:</p>\n<ul>\n<li>Paying fees in the transaction currency. No more &quot;Ether&quot; or any other currency needed except DeCash tokens to manage them.</li>\n<li>Lowest possible fees, just $0.01 per blockchain action.</li>\n<li>Quick finality of the transaction: just 3 seconds on average.</li>\n<li>Full native smart contract language support. Writing smart contracts with TEAL, Algorand&#39;s smart contract language.</li>\n</ul>\n<p>You can actually play yourself with the UI and see how it works, just in a few simple steps:</p>\n<ol>\n<li>Go to <a target=\"_blank\" href=\"https://send.decash.com\">send.decash.com</a>.</li>\n<li>Sign in with any of the suggested methods. The fastest one would be MyAlgoWallet or Pera wallet, if you want a mobile wallet.</li>\n<li>Get some <a target=\"_blank\" href=\"https://send.preprod.decash.com/deposit/free-tokens\">free testnet tokens</a> by clicking &quot;Get&quot; button at the top of the UI.</li>\n<li>You can then send some testnet tokens to your own or other account, like <code>PLD7Y5SMV73434X23Z35JHIYWKOIHNMUAX3B4KE3SCEJN7FB3KT6FZWZGU</code>.</li>\n</ol>\n"
     },
     {
@@ -7834,5 +7843,5 @@
       "html": "<p>Maldives is a very popular honeymoon destination, along with the one having the most\nexpensive over-water hotels in the world.</p>\n<p>This is also the first long overseas destination where I didn&#39;t take my drone :)</p>\n"
     }
   ],
-  "lastUpdateAt": 1675970224217
+  "lastUpdateAt": 1675987458166
 }
