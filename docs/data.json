@@ -7847,8 +7847,8 @@
         "name": "Germany",
         "code": "DE"
       },
-      "date-start": 1643846400000,
-      "date-end": 1644105600000,
+      "date-start": 1675382400000,
+      "date-end": 1675641600000,
       "title": "Weekend in Germany",
       "importance": 1,
       "tags": [
@@ -7897,5 +7897,5 @@
       "html": "<p>A quick weekend in Germany visiting our relatives - Ukrainian refugees.</p>\n"
     }
   ],
-  "lastUpdateAt": 1677017345260
+  "lastUpdateAt": 1677018617811
 }
