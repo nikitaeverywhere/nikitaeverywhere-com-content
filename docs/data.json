@@ -836,6 +836,1646 @@
       "html": "<p>I was born in the wounderful <a target=\"_blank\" href=\"https://www.google.com.ua/maps/place/Kiev\">Kiev city</a>!</p>\n"
     },
     {
+      "location": {
+        "name": "Tanzania",
+        "code": "TZ"
+      },
+      "date-start": 1614988800000,
+      "date-end": 1615939200000,
+      "title": "Traveling to Tanzania",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2021",
+      "media": [
+        {
+          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
+          "src": "/content/img/auto/b2275e3ff444c13d.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/b2275e3ff444c13d.thumbnail.jpg",
+          "w": 10189,
+          "h": 3184,
+          "d": 1615116178000
+        },
+        {
+          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
+          "src": "/content/img/auto/4c7abb32b55b34ed.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/4c7abb32b55b34ed.thumbnail.jpg",
+          "w": 12896,
+          "h": 5373,
+          "d": 1615142915000
+        },
+        {
+          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
+          "src": "/content/img/auto/904727b3e25f7e43.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/904727b3e25f7e43.thumbnail.jpg",
+          "w": 26591,
+          "h": 3416,
+          "d": 1615204826000
+        },
+        {
+          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
+          "src": "/content/img/auto/bee49f0c0a2a72d7.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/bee49f0c0a2a72d7.thumbnail.jpg",
+          "w": 16276,
+          "h": 3328,
+          "d": 1615832769000
+        },
+        {
+          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
+          "src": "/content/img/auto/b90ae71ce8fc712a.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/b90ae71ce8fc712a.thumbnail.jpg",
+          "w": 16187,
+          "h": 5454,
+          "d": 1615210964000
+        },
+        {
+          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
+          "src": "/content/img/auto/c2c63397e2053f26.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/c2c63397e2053f26.thumbnail.jpg",
+          "w": 16349,
+          "h": 3406,
+          "d": 1615372352000
+        },
+        {
+          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
+          "src": "/content/img/auto/4be255c8f755ff31.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/4be255c8f755ff31.thumbnail.jpg",
+          "w": 16397,
+          "h": 3416,
+          "d": 1615378779000
+        },
+        {
+          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
+          "src": "/content/img/auto/70be75d1b41d0fc4.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/70be75d1b41d0fc4.thumbnail.jpg",
+          "w": 21683,
+          "h": 3388,
+          "d": 1615379432000
+        },
+        {
+          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
+          "src": "/content/img/auto/5dcd92b16786ee92.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/5dcd92b16786ee92.thumbnail.jpg",
+          "w": 5464,
+          "h": 3640,
+          "d": 1615379477000
+        },
+        {
+          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
+          "src": "/content/img/auto/d869ffcad429865e.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/d869ffcad429865e.thumbnail.jpg",
+          "w": 21053,
+          "h": 5559,
+          "d": 1615486301000
+        },
+        {
+          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
+          "src": "/content/img/auto/1094ca9b64473f33.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/1094ca9b64473f33.thumbnail.jpg",
+          "w": 19234,
+          "h": 3435,
+          "d": 1615486539000
+        },
+        {
+          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
+          "src": "/content/img/auto/b9b8143c8b7f35ac.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/b9b8143c8b7f35ac.thumbnail.jpg",
+          "w": 26700,
+          "h": 3330,
+          "d": 1615618865000
+        },
+        {
+          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
+          "src": "/content/img/auto/3111491ac68d9f77.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/3111491ac68d9f77.thumbnail.jpg",
+          "w": 5464,
+          "h": 3640,
+          "d": 1615705699000
+        },
+        {
+          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
+          "src": "/content/img/auto/257409a0c00e890a.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/257409a0c00e890a.thumbnail.jpg",
+          "w": 26562,
+          "h": 3347,
+          "d": 1615705976000
+        },
+        {
+          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
+          "src": "/content/img/auto/e550f2f42709bcf1.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/e550f2f42709bcf1.thumbnail.jpg",
+          "w": 15788,
+          "h": 3289,
+          "d": 1615832282000
+        },
+        {
+          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
+          "src": "/content/img/auto/9ffac8ccfeca86dd.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/9ffac8ccfeca86dd.thumbnail.jpg",
+          "w": 24342,
+          "h": 6086,
+          "d": 1615205108000
+        }
+      ],
+      "html": "<p>Photos and panoramas of Tanzania by Nikita Savchenko</p>\n"
+    },
+    {
+      "location": {
+        "name": "Cyprus",
+        "code": "CY"
+      },
+      "date-start": 1620432000000,
+      "date-end": 1621641600000,
+      "title": "Traveling to Cyprus",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "media": [
+        {
+          "src": "https://www.youtube-nocookie.com/embed/7V687OpJEks",
+          "caption": "Cyprus: the villa country",
+          "rating": 0.92,
+          "type": "youtube",
+          "thumbnail": "https://img.youtube.com/vi/7V687OpJEks/mqdefault.jpg",
+          "link": "https://www.youtube.com/watch?v=7V687OpJEks",
+          "w": 320,
+          "h": 180
+        },
+        {
+          "caption": "Photos and panoramas of Cyprus by Nikita Savchenko",
+          "src": "/content/img/auto/e301d6cd631c707d.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/e301d6cd631c707d.thumbnail.jpg",
+          "w": 5464,
+          "h": 3640,
+          "d": 1621516532000
+        },
+        {
+          "caption": "Photos and panoramas of Cyprus by Nikita Savchenko",
+          "src": "/content/img/auto/4a45011054743fde.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/4a45011054743fde.thumbnail.jpg",
+          "w": 5464,
+          "h": 3640,
+          "d": 1621623588000
+        },
+        {
+          "caption": "Photos and panoramas of Cyprus by Nikita Savchenko",
+          "src": "/content/img/auto/5bcedaaf8aa70dd0.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/5bcedaaf8aa70dd0.thumbnail.jpg",
+          "w": 17922,
+          "h": 2987,
+          "d": 1621087831000
+        },
+        {
+          "caption": "Photos and panoramas of Cyprus by Nikita Savchenko",
+          "src": "/content/img/auto/a83ec905219d8d4f.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/a83ec905219d8d4f.thumbnail.jpg",
+          "w": 17155,
+          "h": 3431,
+          "d": 1620566704000
+        },
+        {
+          "caption": "Photos and panoramas of Cyprus by Nikita Savchenko",
+          "src": "/content/img/auto/a45fc05f719a5790.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/a45fc05f719a5790.thumbnail.jpg",
+          "w": 5464,
+          "h": 3640,
+          "d": 1620657860000
+        },
+        {
+          "caption": "Photos and panoramas of Cyprus by Nikita Savchenko",
+          "src": "/content/img/auto/c5403c808823eff7.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/c5403c808823eff7.thumbnail.jpg",
+          "w": 5464,
+          "h": 3640,
+          "d": 1620984721000
+        },
+        {
+          "caption": "Photos and panoramas of Cyprus by Nikita Savchenko",
+          "src": "/content/img/auto/5c053cb49113431b.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/5c053cb49113431b.thumbnail.jpg",
+          "w": 5464,
+          "h": 3640,
+          "d": 1620985019000
+        },
+        {
+          "caption": "Photos and panoramas of Cyprus by Nikita Savchenko",
+          "src": "/content/img/auto/6a676f110192b95c.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/6a676f110192b95c.thumbnail.jpg",
+          "w": 5091,
+          "h": 3393,
+          "d": 1620987604000
+        },
+        {
+          "caption": "Photos and panoramas of Cyprus by Nikita Savchenko",
+          "src": "/content/img/auto/fc6447530529bc5f.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/fc6447530529bc5f.thumbnail.jpg",
+          "w": 5464,
+          "h": 3640,
+          "d": 1620987816000
+        },
+        {
+          "caption": "Photos and panoramas of Cyprus by Nikita Savchenko",
+          "src": "/content/img/auto/d0042a4cada84ebf.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/d0042a4cada84ebf.thumbnail.jpg",
+          "w": 5464,
+          "h": 3640,
+          "d": 1621623633000
+        },
+        {
+          "caption": "Photos and panoramas of Cyprus by Nikita Savchenko",
+          "src": "/content/img/auto/c540154bd37c6a21.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/c540154bd37c6a21.thumbnail.jpg",
+          "w": 26806,
+          "h": 6702,
+          "d": 1620649498000
+        }
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2021",
+      "html": "<p>Photos and panoramas of Cyprus by Nikita Savchenko</p>\n"
+    },
+    {
+      "location": {
+        "name": "Georgia",
+        "code": "GE"
+      },
+      "date-start": 1623196800000,
+      "date-end": 1623888000000,
+      "title": "Traveling to Georgia",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2021",
+      "media": [
+        {
+          "caption": "Photos and panoramas of Georgia by Nikita Savchenko",
+          "src": "/content/img/auto/ff63becb2f0d8523.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/ff63becb2f0d8523.thumbnail.jpg",
+          "w": 22243,
+          "h": 3089,
+          "d": 1623660411000
+        },
+        {
+          "caption": "Photos and panoramas of Georgia by Nikita Savchenko",
+          "src": "/content/img/auto/eba02e80e6850e00.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/eba02e80e6850e00.thumbnail.jpg",
+          "w": 16844,
+          "h": 3509,
+          "d": 1623324164000
+        },
+        {
+          "caption": "Photos and panoramas of Georgia by Nikita Savchenko",
+          "src": "/content/img/auto/a27721f00250fef7.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/a27721f00250fef7.thumbnail.jpg",
+          "w": 13892,
+          "h": 3473,
+          "d": 1623423258000
+        },
+        {
+          "caption": "Photos and panoramas of Georgia by Nikita Savchenko",
+          "src": "/content/img/auto/30ff5d7215899121.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/30ff5d7215899121.thumbnail.jpg",
+          "w": 22158,
+          "h": 3316,
+          "d": 1623503518000
+        },
+        {
+          "caption": "Photos and panoramas of Georgia by Nikita Savchenko",
+          "src": "/content/img/auto/708d48aecd1c3ded.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/708d48aecd1c3ded.thumbnail.jpg",
+          "w": 5464,
+          "h": 3640,
+          "d": 1623516082000
+        },
+        {
+          "caption": "Photos and panoramas of Georgia by Nikita Savchenko",
+          "src": "/content/img/auto/16082e82b340fcec.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/16082e82b340fcec.thumbnail.jpg",
+          "w": 20381,
+          "h": 2954,
+          "d": 1623602893000
+        },
+        {
+          "caption": "Photos and panoramas of Georgia by Nikita Savchenko",
+          "src": "/content/img/auto/fb8db03a4debcc02.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/fb8db03a4debcc02.thumbnail.jpg",
+          "w": 26730,
+          "h": 3376,
+          "d": 1623757409000
+        },
+        {
+          "caption": "Photos and panoramas of Georgia by Nikita Savchenko",
+          "src": "/content/img/auto/28738dd3c0bdbfdc.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/28738dd3c0bdbfdc.thumbnail.jpg",
+          "w": 3024,
+          "h": 4032,
+          "d": 1623584824000
+        }
+      ],
+      "html": "<p>Photos and panoramas of Georgia by Nikita Savchenko</p>\n"
+    },
+    {
+      "location": {
+        "name": "Seychelles",
+        "code": "SC"
+      },
+      "date-start": 1625788800000,
+      "date-end": 1626393600000,
+      "title": "Traveling to Seychelles",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2021",
+      "media": [
+        {
+          "caption": "Photos and panoramas of Seychelles by Nikita Savchenko",
+          "src": "/content/img/auto/a35b7c746fb58d27.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/a35b7c746fb58d27.thumbnail.jpg",
+          "w": 12431,
+          "h": 3108,
+          "d": 1626013701000
+        },
+        {
+          "caption": "Photos and panoramas of Seychelles by Nikita Savchenko",
+          "src": "/content/img/auto/90cbeef4a0d409c4.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/90cbeef4a0d409c4.thumbnail.jpg",
+          "w": 17516,
+          "h": 3649,
+          "d": 1626014373000
+        },
+        {
+          "caption": "Photos and panoramas of Seychelles by Nikita Savchenko",
+          "src": "/content/img/auto/22c66a37d79f8e83.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/22c66a37d79f8e83.thumbnail.jpg",
+          "w": 18653,
+          "h": 3331,
+          "d": 1626024654000
+        },
+        {
+          "caption": "Photos and panoramas of Seychelles by Nikita Savchenko",
+          "src": "/content/img/auto/18cc553e5c26ca20.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/18cc553e5c26ca20.thumbnail.jpg",
+          "w": 18654,
+          "h": 3331,
+          "d": 1626024654000
+        }
+      ],
+      "html": "<p>Photos and panoramas of Seychelles by Nikita Savchenko</p>\n"
+    },
+    {
+      "location": {
+        "name": "Montenegro",
+        "code": "ME"
+      },
+      "date-start": 1626480000000,
+      "date-end": 1627171200000,
+      "title": "Traveling to Montenegro",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2021",
+      "media": [
+        {
+          "caption": "Photos and panoramas of Montenegro by Nikita Savchenko",
+          "src": "/content/img/auto/15a3a322acb0f9a9.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/15a3a322acb0f9a9.thumbnail.jpg",
+          "w": 5464,
+          "h": 3640,
+          "d": 1626891603000
+        },
+        {
+          "caption": "Photos and panoramas of Montenegro by Nikita Savchenko",
+          "src": "/content/img/auto/43580af08fad39f8.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/43580af08fad39f8.thumbnail.jpg",
+          "w": 5464,
+          "h": 3640,
+          "d": 1626891662000
+        },
+        {
+          "caption": "Photos and panoramas of Montenegro by Nikita Savchenko",
+          "src": "/content/img/auto/62097ea8cec0e11b.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/62097ea8cec0e11b.thumbnail.jpg",
+          "w": 21818,
+          "h": 3409,
+          "d": 1627070539000
+        },
+        {
+          "caption": "Photos and panoramas of Montenegro by Nikita Savchenko",
+          "src": "/content/img/auto/9342f0880b40c41b.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/9342f0880b40c41b.thumbnail.jpg",
+          "w": 3640,
+          "h": 5464,
+          "d": 1627070620000
+        }
+      ],
+      "html": "<p>Photos and panoramas of Montenegro by Nikita Savchenko</p>\n"
+    },
+    {
+      "location": {
+        "name": "Croatia",
+        "code": "HR"
+      },
+      "date-start": 1626480000000,
+      "date-end": 1626652800000,
+      "title": "Traveling to Croatia",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2021",
+      "media": [
+        {
+          "caption": "Photos and panoramas of Croatia by Nikita Savchenko",
+          "src": "/content/img/auto/d3d5833ab87bfd53.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/d3d5833ab87bfd53.thumbnail.jpg",
+          "w": 20799,
+          "h": 3392,
+          "d": 1626714351000
+        }
+      ],
+      "html": "<p>Photos and panoramas of Croatia by Nikita Savchenko</p>\n"
+    },
+    {
+      "location": {
+        "name": "Bosnia & Herzegovina",
+        "code": "BA"
+      },
+      "date-start": 1626652800000,
+      "date-end": 1626739200000,
+      "title": "Traveling to Bosnia & Herzegovina",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2021",
+      "media": [
+        {
+          "caption": "Photos and panoramas of Bosnia & Herzegovina by Nikita Savchenko",
+          "src": "/content/img/auto/33244348f3f09b2c.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/33244348f3f09b2c.thumbnail.jpg",
+          "w": 5464,
+          "h": 3640,
+          "d": 1626788402000
+        },
+        {
+          "caption": "Photos and panoramas of Bosnia & Herzegovina by Nikita Savchenko",
+          "src": "/content/img/auto/a014ef4cfbf92c1b.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/a014ef4cfbf92c1b.thumbnail.jpg",
+          "w": 5464,
+          "h": 3640,
+          "d": 1626872662000
+        }
+      ],
+      "html": "<p>Photos and panoramas of Bosnia &amp; Herzegovina by Nikita Savchenko</p>\n"
+    },
+    {
+      "location": {
+        "name": "Albania",
+        "code": "AL"
+      },
+      "date-start": 1626998400000,
+      "title": "Traveling to Albania",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2021",
+      "media": [
+        {
+          "caption": "Photos and panoramas of Albania by Nikita Savchenko",
+          "src": "/content/img/auto/d3295f1cc3e9dfe6.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/d3295f1cc3e9dfe6.thumbnail.jpg",
+          "w": 5464,
+          "h": 3640,
+          "d": 1627052719000
+        },
+        {
+          "caption": "Photos and panoramas of Albania by Nikita Savchenko",
+          "src": "/content/img/auto/21735d70074cb0ed.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/21735d70074cb0ed.thumbnail.jpg",
+          "w": 26200,
+          "h": 3384,
+          "d": 1627053352000
+        }
+      ],
+      "html": "<p>Photos and panoramas of Albania by Nikita Savchenko</p>\n"
+    },
+    {
+      "date-start": 1633046400000,
+      "title": "Back to crypto as a CTO and a Technical Product Owner at DeCash",
+      "importance": 4,
+      "tags": [
+        "career"
+      ],
+      "media": [
+        {
+          "caption": "The team",
+          "src": "/content/img/auto/b60a8e03bb50a8bc.png",
+          "type": "image",
+          "thumbnail": "/content/img/auto/b60a8e03bb50a8bc.thumbnail.png",
+          "w": 1626,
+          "h": 2060
+        },
+        {
+          "caption": "Products I am responsible for",
+          "src": "/content/img/auto/b253c0b84568c3ff.png",
+          "type": "image",
+          "thumbnail": "/content/img/auto/b253c0b84568c3ff.thumbnail.png",
+          "w": 1226,
+          "h": 2072
+        }
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2021",
+      "html": "<p>It all began a year ago, when a small crypto company <a target=\"_blank\" href=\"https://decash.com\">DeCash</a> reached out to me with questions\nin regards to my <a target=\"_blank\" href=\"https://github.com/ZitRos/ethereum-delegated-tx-service\">open-sourced solution</a> -\ndelegated transactions for Ethereum. Since then, I started to do consulting for this company in\nmy free time.</p>\n<p>Now I am pleased to announce that I am leading a few powerful technical products with multiple teams at DeCash\nto bring them to a mass market. I truly believe that the technology being built at DeCash will demonstrate how\ncrypto can change the traditional finance. We have a team of influential people, and once other companies start\nadopting our technology, we expect things to explode.</p>\n<p>My responsibilities include ensuring successful development-to-delivery journey and strategic success of DeCash,\nboth from the technical side and the success of products. I am also the one who organized internal processes in\nthis company, created a comfortable workspace for everyone. The key products I am responsible for:</p>\n<ul>\n<li><a target=\"_blank\" href=\"https://docs.decash.com/docs/concepts/delegated-wallets\">DeCash Delegated Wallets</a> - the key technology making our stablecoin easy-to-use comparing to other crypto.</li>\n<li><a target=\"_blank\" href=\"https://send.decash.com\">DeCash Send</a> - the user interface to manage DeCash stablecoins.</li>\n<li><a target=\"_blank\" href=\"https://www.decash.com/solutions#decash-api\">DeCash API</a> - the API allowing anyone to integrate with DeCash stablecoins.</li>\n<li>Other internal or not yet released products.</li>\n</ul>\n<p>TL;DR for any reader: DeCash builds stablecoins, which are drastically easier to own and manage than any other\nstablecoin. We also build tools for our stablecoins, which allows any party (finance, payments etc) to integrate with\nus easily too. Our goal is to replace traditional finance.</p>\n"
+    },
+    {
+      "location": {
+        "name": "Poland",
+        "code": "PL"
+      },
+      "date-start": 1633996800000,
+      "title": "My Carbon Footprint project at Google Cloud Next",
+      "importance": 5,
+      "tags": [
+        "career"
+      ],
+      "media": [
+        {
+          "caption": "The Carbon Footprint Dashboard UI I've built at Google",
+          "src": "/content/img/auto/8e1d885a95e5eb87.png",
+          "type": "image",
+          "thumbnail": "/content/img/auto/8e1d885a95e5eb87.thumbnail.png",
+          "w": 1492,
+          "h": 1134
+        },
+        {
+          "src": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/co2_est.gif",
+          "caption": "An animation of the Carbon Footprint UI",
+          "type": "image"
+        },
+        {
+          "src": "https://www.youtube-nocookie.com/embed/6QbKkDibKXg",
+          "caption": "Google Cloud Carbon Footprint - Sundar announces the product",
+          "type": "youtube",
+          "thumbnail": "https://img.youtube.com/vi/6QbKkDibKXg/mqdefault.jpg",
+          "link": "https://www.youtube.com/watch?v=6QbKkDibKXg",
+          "w": 320,
+          "h": 180
+        }
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2021",
+      "html": "<p>In the past year at Google I&#39;ve been working on one of the most anticipated Google Cloud\nproducts - the carbon footprint. Specifically, I&#39;ve been leading its UI development. As you\ncan imagine, this product was not only about the UI: we had a team at Google of around 40\namazing people working together to make Carbon Footprint live and announced on October 12.</p>\n<ul>\n<li><em>«It allows companies to measure, track and report on the gross carbon emissions associated with the electricity of your cloud usage, allowing them to disclose their energy-related emissions data for internal carbon inventories and external carbon disclosures. It is available for free to all GCP users now.»</em> (<a target=\"_blank\" href=\"https://www.datacenterdynamics.com/en/news/next-21-google-announces-edge-and-on-premise-cloud-offerings/\">source</a>)</li>\n<li><em>«Customers can monitor their cloud emissions over time by project, by product, and by region, empowering IT teams and developers with metrics that help them reduce their carbon footprint»</em> (<a target=\"_blank\" href=\"https://www.theregister.com/2021/10/12/google_next_roundup/\">source</a>)</li>\n<li><em>«Using Carbon Footprint, you have access to the gross energy-related emissions data you need for internal carbon inventories and external carbon disclosures, with one click.»</em> (<a target=\"_blank\" href=\"https://www.computerweekly.com/news/252508088/Google-Cloud-renews-commitment-to-helping-enterprises-decarbonise-their-IT-infrastructure\">source</a>)</li>\n</ul>\n<p>Here are the top resources and announcements of this new product:</p>\n<ul>\n<li><a target=\"_blank\" href=\"https://youtu.be/6QbKkDibKXg?t=2472\">Sundar&#39;s announcement</a></li>\n<li><a target=\"_blank\" href=\"https://cloud.google.com/blog/topics/sustainability/new-tools-to-measure-and-reduce-your-environmental-impact\">Google&#39;s Blog post</a></li>\n<li><a target=\"_blank\" href=\"https://www.linkedin.com/posts/zitros_googlecloudnext-activity-6853991110709190656-S4Wz\">My LinkedIn post</a></li>\n</ul>\n<p>Press:</p>\n<ul>\n<li>Bloomberg: <a target=\"_blank\" href=\"https://www.bloomberg.com/news/articles/2021-10-12/google-will-show-its-cloud-customers-their-carbon-footprint?sref=CY7BpvSE\">Google Will Show Its Cloud Customers Their Carbon Footprint</a></li>\n<li>CRN: <a target=\"_blank\" href=\"https://www.crn.com/slide-shows/cloud/google-cloud-next-21-the-10-biggest-announcements/8\">Google Cloud Next ’21: The 10 Biggest Announcements</a></li>\n<li>Fast Company: <a target=\"_blank\" href=\"https://www.fastcompany.com/90685146/google-cloud-wants-to-help-your-company-go-green\">Google Cloud wants to help other companies go green</a></li>\n<li>The Register: <a target=\"_blank\" href=\"https://www.theregister.com/2021/10/12/google_next_roundup/\">Google Cloud will let you know how your workloads are damaging the environment</a></li>\n<li>Reuters: <a target=\"_blank\" href=\"https://www.reuters.com/technology/google-cloud-unveils-carbon-footprint-tracker-satellite-imagery-suite-2021-10-12/\">Google Cloud unveils carbon footprint tracker, satellite imagery suite</a></li>\n<li>SDxCentral: <a target=\"_blank\" href=\"https://www.sdxcentral.com/articles/news/google-cloud-targets-customers-carbon-footprints/2021/10/\">Google Cloud Targets Customers&#39; Carbon Footprints</a></li>\n<li>SiliconANGLE: <a target=\"_blank\" href=\"https://siliconangle.com/2021/10/12/googes-carbon-footprint-tool-lets-cloud-customers-track-emissions/\">Google cloud customers can now track their carbon emissions</a></li>\n<li>TechCrunch: <a target=\"_blank\" href=\"https://techcrunch.com/2021/10/12/google-cloud-will-now-show-its-users-their-carbon-footprint-in-the-cloud/\">Google Cloud will now show its users their carbon footprint in the cloud</a></li>\n<li>TechRadar: <a target=\"_blank\" href=\"https://www.techradar.com/news/google-says-it-has-the-industrys-cleanest-cloud\">Google says it has the &#39;industry&#39;s cleanest cloud&#39;</a></li>\n<li>ZDNet: <a target=\"_blank\" href=\"https://www.zdnet.com/article/google-creates-tools-to-track-carbon-footprint-emissions-data/\">Google creates tools to track carbon footprint, emissions data</a></li>\n</ul>\n<p>Some customer&#39;s feedback:</p>\n<ul>\n<li><em>«We are expanding our portfolio of solutions and partnerships to help reduce your carbon footprint»</em> - Sundar Pichai, Google&#39;s CEO</li>\n<li><em>«What we can now do through this tool is see what is happening within our applications within specific types of code or particular toolsets that we are using within our applications on the cloud. It’s that granularity that enables better decision-making.»</em> - Stephen Bayly, the HSBC bank’s CIO for markets and securities services</li>\n<li><em>«Co-designed with customers like HSBC, Atos, Salesforce, and L’Oreal, Google Cloud’s Carbon Footprint product will provide customers with an accurate and actionable repofi of the carbon footprint associated with the Cloud usage.»</em> - Google</li>\n<li><em>«Google is partnering with Salesforce to make its GCP emissions data available in Salesforce&#39;s carbon account platform»</em> - Jen Bennett, technical director in the Office of the CTO at Google Cloud</li>\n</ul>\n"
+    },
+    {
+      "location": {
+        "name": "Moldova",
+        "code": "MD"
+      },
+      "date-start": 1634169600000,
+      "date-end": 1634428800000,
+      "title": "Traveling to Moldova",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "media": [
+        {
+          "src": "https://www.youtube-nocookie.com/embed/WzOpHIaNOvg",
+          "caption": "Somewhere close to Ukraine-Moldova border",
+          "type": "youtube",
+          "thumbnail": "https://img.youtube.com/vi/WzOpHIaNOvg/mqdefault.jpg",
+          "link": "https://www.youtube.com/watch?v=WzOpHIaNOvg",
+          "w": 320,
+          "h": 180
+        }
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2021",
+      "html": "<p>Photos and panoramas of Moldova by Nikita Savchenko</p>\n"
+    },
+    {
+      "date-start": 1638316800000,
+      "title": "My project DataUnlocker crosses 400 clients worldwide",
+      "importance": 5,
+      "tags": [
+        "career"
+      ],
+      "media": [
+        {
+          "caption": "The landing of DataUnlocker",
+          "src": "/content/img/auto/c7bf7ff5609cfd10.png",
+          "type": "image",
+          "thumbnail": "/content/img/auto/c7bf7ff5609cfd10.thumbnail.png",
+          "w": 2278,
+          "h": 1874
+        },
+        {
+          "caption": "Daily traffic that DataUnlocker receives",
+          "src": "/content/img/auto/62ed78e8355862d7.png",
+          "type": "image",
+          "thumbnail": "/content/img/auto/62ed78e8355862d7.thumbnail.png",
+          "w": 1630,
+          "h": 646
+        }
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2021",
+      "html": "<p>My successful side project <a target=\"_blank\" href=\"https://dataunlocker.com\">DataUnlocker</a> now has 400 users worldwide! 🎉</p>\n<p>This project constantly grows, getting new users without any penny spent on marketing.\nMy strategy now is still to validate that ad blocking community is helpless fighting with\nwhat DataUnlocker offers, and prove that it&#39;s reliable long-term before scaling this\nproduct. Even now, we have many happy companies proxying their analytics data.</p>\n"
+    },
+    {
+      "location": {
+        "name": "Hungary",
+        "code": "HU"
+      },
+      "date-start": 1640044800000,
+      "date-end": 1640131200000,
+      "title": "Traveling to Hungary",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2021",
+      "media": [
+        {
+          "caption": "It was just a few days in Hungary with my younger brother.",
+          "src": "/content/img/auto/d446146916245de0.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/d446146916245de0.thumbnail.jpg",
+          "w": 24746,
+          "h": 3437,
+          "d": 1640026766000
+        }
+      ],
+      "html": "<p>It was just a few days in Hungary with my younger brother.</p>\n"
+    },
+    {
+      "location": {
+        "name": "Brazil",
+        "code": "BR"
+      },
+      "date-start": 1642291200000,
+      "date-end": 1643587200000,
+      "title": "Travel to Brazil",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
+      "media": [
+        {
+          "caption": "My friends and I, who are working in IT industry and can afford traveling the world while",
+          "src": "/content/img/auto/ddea1c519dec2dda.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/ddea1c519dec2dda.thumbnail.jpg",
+          "w": 5464,
+          "h": 3640,
+          "d": 1643461894000
+        },
+        {
+          "caption": "My friends and I, who are working in IT industry and can afford traveling the world while",
+          "src": "/content/img/auto/ff4c72da753b1d2b.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/ff4c72da753b1d2b.thumbnail.jpg",
+          "w": 5464,
+          "h": 3640,
+          "d": 1643462326000
+        },
+        {
+          "caption": "My friends and I, who are working in IT industry and can afford traveling the world while",
+          "src": "/content/img/auto/12530e0f4ddc2d32.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/12530e0f4ddc2d32.thumbnail.jpg",
+          "w": 26664,
+          "h": 3338,
+          "d": 1642493820000
+        },
+        {
+          "caption": "My friends and I, who are working in IT industry and can afford traveling the world while",
+          "src": "/content/img/auto/596528693e59fbf5.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/596528693e59fbf5.thumbnail.jpg",
+          "w": 20499,
+          "h": 3419,
+          "d": 1642617176000
+        },
+        {
+          "caption": "My friends and I, who are working in IT industry and can afford traveling the world while",
+          "src": "/content/img/auto/551bfac0e90599cc.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/551bfac0e90599cc.thumbnail.jpg",
+          "w": 5464,
+          "h": 3640,
+          "d": 1642700907000
+        },
+        {
+          "caption": "My friends and I, who are working in IT industry and can afford traveling the world while",
+          "src": "/content/img/auto/ea749eaac78e54c5.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/ea749eaac78e54c5.thumbnail.jpg",
+          "w": 23933,
+          "h": 3329,
+          "d": 1642700980000
+        },
+        {
+          "caption": "My friends and I, who are working in IT industry and can afford traveling the world while",
+          "src": "/content/img/auto/c86b0016554f4a79.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/c86b0016554f4a79.thumbnail.jpg",
+          "w": 24934,
+          "h": 6234,
+          "d": 1643461756000
+        }
+      ],
+      "html": "<p>My friends and I, who are working in IT industry and can afford traveling the world while\nworking remotely, decided to start our work-from-South-America journey. We will try to\nvisit as many countries as possible, given COVID-related restrictions.</p>\n"
+    },
+    {
+      "location": {
+        "name": "Paraguay",
+        "code": "PY"
+      },
+      "date-start": 1643500800000,
+      "title": "Travel to Paraguay",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
+      "media": [
+        {
+          "caption": "It was just 1 day in Paraguay, in its shopping capital, Ciudad del Este.",
+          "src": "/content/img/auto/0aa5c8eb8c4c5821.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/0aa5c8eb8c4c5821.thumbnail.jpg",
+          "w": 26702,
+          "h": 3272,
+          "d": 1643560514000
+        }
+      ],
+      "html": "<p>It was just 1 day in Paraguay, in its shopping capital, Ciudad del Este.</p>\n"
+    },
+    {
+      "location": {
+        "name": "Argentina",
+        "code": "AR"
+      },
+      "date-start": 1643587200000,
+      "date-end": 1644192000000,
+      "title": "Travel to Argentina",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
+      "media": [
+        {
+          "caption": "A week in Argentina! In South America, it was the country I liked the most.",
+          "src": "/content/img/auto/8a0b980e7c3c2b47.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/8a0b980e7c3c2b47.thumbnail.jpg",
+          "w": 5464,
+          "h": 3640,
+          "d": 1643740888000
+        }
+      ],
+      "html": "<p>A week in Argentina! In South America, it was the country I liked the most.</p>\n"
+    },
+    {
+      "location": {
+        "name": "Uruguay",
+        "code": "UY"
+      },
+      "date-start": 1644105600000,
+      "date-end": 1644192000000,
+      "title": "Travel to Uruguay",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
+      "media": [
+        {
+          "caption": "A few days in Uruguay. Cloudy but a very interesting experience.",
+          "src": "/content/img/auto/f14463fcb362844c.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/f14463fcb362844c.thumbnail.jpg",
+          "w": 21290,
+          "h": 3360,
+          "d": 1644140870000
+        }
+      ],
+      "html": "<p>A few days in Uruguay. Cloudy but a very interesting experience.</p>\n"
+    },
+    {
+      "location": {
+        "name": "Peru",
+        "code": "PE"
+      },
+      "date-start": 1644192000000,
+      "date-end": 1645228800000,
+      "title": "Travel to Peru",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
+      "media": [
+        {
+          "caption": "Two weeks in Peru - such a fantastic journey!",
+          "src": "/content/img/auto/83122aee129fe0e0.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/83122aee129fe0e0.thumbnail.jpg",
+          "w": 5464,
+          "h": 3640,
+          "d": 1644326658000
+        },
+        {
+          "caption": "Two weeks in Peru - such a fantastic journey!",
+          "src": "/content/img/auto/7f82dabb1777b7b3.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/7f82dabb1777b7b3.thumbnail.jpg",
+          "w": 5464,
+          "h": 3640,
+          "d": 1644427021000
+        },
+        {
+          "caption": "Two weeks in Peru - such a fantastic journey!",
+          "src": "/content/img/auto/a076f1491e8d1c76.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/a076f1491e8d1c76.thumbnail.jpg",
+          "w": 5464,
+          "h": 3640,
+          "d": 1644488122000
+        },
+        {
+          "caption": "Two weeks in Peru - such a fantastic journey!",
+          "src": "/content/img/auto/0b606dc50047ed33.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/0b606dc50047ed33.thumbnail.jpg",
+          "w": 5464,
+          "h": 3640,
+          "d": 1644489304000
+        },
+        {
+          "caption": "Two weeks in Peru - such a fantastic journey!",
+          "src": "/content/img/auto/2ce05fbd54ccee4b.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/2ce05fbd54ccee4b.thumbnail.jpg",
+          "w": 5464,
+          "h": 3640,
+          "d": 1644748945000
+        },
+        {
+          "caption": "Two weeks in Peru - such a fantastic journey!",
+          "src": "/content/img/auto/7cde2a9a79375547.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/7cde2a9a79375547.thumbnail.jpg",
+          "w": 5464,
+          "h": 3640,
+          "d": 1644749128000
+        }
+      ],
+      "html": "<p>Two weeks in Peru - such a fantastic journey!</p>\n"
+    },
+    {
+      "location": {
+        "name": "Panama",
+        "code": "PA"
+      },
+      "date-start": 1645228800000,
+      "date-end": 1645315200000,
+      "title": "Travel to Panama",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
+      "media": [
+        {
+          "caption": "We had an overnight layover in Panama City. A unique fast-pacing place, while relatively expensive too.",
+          "src": "/content/img/auto/0dfcdfded92bd01e.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/0dfcdfded92bd01e.thumbnail.jpg",
+          "w": 22799,
+          "h": 3301,
+          "d": 1645353394000
+        }
+      ],
+      "html": "<p>We had an overnight layover in Panama City. A unique fast-pacing place, while relatively expensive too.</p>\n"
+    },
+    {
+      "location": {
+        "name": "Colombia",
+        "code": "CO"
+      },
+      "date-start": 1645315200000,
+      "date-end": 1645833600000,
+      "title": "Travel to Colombia",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
+      "html": "<p>That&#39;s the second time I come to Colombia, now in a group of 8 IT specialists.</p>\n<p>Fun fact: there are 2 major cellphone carriers. This time I purchased another carrier\nfrom what it was a year ago. And it turned out that I just wasted my money, because my\nphone turned out to be locked to the previous carrier.</p>\n<p>This is the trip during which we learned about Russian invasion to Ukraine...</p>\n"
+    },
+    {
+      "location": {
+        "name": "Colombia",
+        "code": "CO"
+      },
+      "date-start": 1645660800000,
+      "title": "War in Ukraine",
+      "importance": 5,
+      "tags": [
+        "career",
+        "travel"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
+      "media": [
+        {
+          "caption": "This is a day when Russia decided to invade my home, Ukraine. Missile strikes all over Ukraine,",
+          "src": "/content/img/auto/d7f26b71c68b5c6f.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/d7f26b71c68b5c6f.thumbnail.jpg",
+          "w": 1024,
+          "h": 683
+        },
+        {
+          "caption": "This is a day when Russia decided to invade my home, Ukraine. Missile strikes all over Ukraine,",
+          "src": "/content/img/auto/770ff8ff0d352e0d.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/770ff8ff0d352e0d.thumbnail.jpg",
+          "w": 1138,
+          "h": 640
+        },
+        {
+          "caption": "This is a day when Russia decided to invade my home, Ukraine. Missile strikes all over Ukraine,",
+          "src": "/content/img/auto/1592c53083d01733.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/1592c53083d01733.thumbnail.jpg",
+          "w": 630,
+          "h": 360
+        },
+        {
+          "caption": "This is a day when Russia decided to invade my home, Ukraine. Missile strikes all over Ukraine,",
+          "src": "/content/img/auto/bc52b49a4dbd4956.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/bc52b49a4dbd4956.thumbnail.jpg",
+          "w": 1138,
+          "h": 640
+        },
+        {
+          "caption": "This is a day when Russia decided to invade my home, Ukraine. Missile strikes all over Ukraine,",
+          "src": "/content/img/auto/638267802477b649.png",
+          "type": "image",
+          "thumbnail": "/content/img/auto/638267802477b649.thumbnail.png",
+          "w": 1132,
+          "h": 707
+        },
+        {
+          "caption": "This is a day when Russia decided to invade my home, Ukraine. Missile strikes all over Ukraine,",
+          "src": "/content/img/auto/704bb504249f2fd6.png",
+          "type": "image",
+          "thumbnail": "/content/img/auto/704bb504249f2fd6.thumbnail.png",
+          "w": 1024,
+          "h": 576
+        },
+        {
+          "caption": "This is a day when Russia decided to invade my home, Ukraine. Missile strikes all over Ukraine,",
+          "src": "/content/img/auto/c23a4e7d92420c98.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/c23a4e7d92420c98.thumbnail.jpg",
+          "w": 1920,
+          "h": 1080
+        },
+        {
+          "caption": "This is a day when Russia decided to invade my home, Ukraine. Missile strikes all over Ukraine,",
+          "src": "/content/img/auto/59e58ea4d43a631a.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/59e58ea4d43a631a.thumbnail.jpg",
+          "w": 1170,
+          "h": 540
+        },
+        {
+          "caption": "This is a day when Russia decided to invade my home, Ukraine. Missile strikes all over Ukraine,",
+          "src": "/content/img/auto/7e75c0d1f53edb1d.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/7e75c0d1f53edb1d.thumbnail.jpg",
+          "w": 1182,
+          "h": 665
+        },
+        {
+          "caption": "This is a day when Russia decided to invade my home, Ukraine. Missile strikes all over Ukraine,",
+          "src": "/content/img/auto/9db01b7e7bae6385.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/9db01b7e7bae6385.thumbnail.jpg",
+          "w": 1182,
+          "h": 665
+        }
+      ],
+      "html": "<p>This is a day when Russia decided to invade my home, Ukraine. Missile strikes all over Ukraine,\nin all cities, Russian troops are attacking all across Eastern Ukrainian land border.</p>\n<p>Russia not being happy with the presence of independent Ukraine is a long story. But long story\nshort, from my point of view, last 2-3 years before the war, with our new president Zelensky were\namazing years for Ukraine. At the time of invasion, just in 2-3 years after Zalensky stepped in:</p>\n<ul>\n<li>We&#39;ve got an absolutely amazing <a target=\"_blank\" href=\"https://diia.gov.ua/\">Diia web portal</a> and a mobile app, which we call &quot;digital government&quot;. Literally your passport, driving license etc is packed in this app, along with hundreds of government services.</li>\n<li><a target=\"_blank\" href=\"https://city.diia.gov.ua/\">Diia city</a>, which is the recently well-worked through tax system for small and big IT companies. 5-9% tax system, many perks etc - all to attract business and make Ukraine the best-in-class IT hub, which it already is for Ukrainians.</li>\n<li>Various infrastructure and people improvements. New things are being built all around the country.</li>\n</ul>\n<p>And exactly at this stage of an amazing growth, Russia decided to grab some Ukrainian territories again,\nassault cities and murder people, kill civilian infrastructure, steal food and lands.</p>\n<p>We will not forget. We will not forgive. We need your help to kick the Putin&#39;s ass off Ukraine faster!</p>\n<ul>\n<li><a target=\"_blank\" href=\"https://uahelp.monobank.ua/\">Easy one-click donations (Google Pay, Apple Pay, bank card)</a></li>\n<li><a target=\"_blank\" href=\"https://u24.gov.ua/\">United24 by President of Ukraine - aid to Ukraine</a></li>\n<li><a target=\"_blank\" href=\"https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi\">Official donations to Ukraine by National Bank</a></li>\n<li><a target=\"_blank\" href=\"https://twitter.com/Ukraine/status/1497594592438497282\">Donate to Ukrainian crypto funds</a></li>\n</ul>\n"
+    },
+    {
+      "location": {
+        "name": "Saudi Arabia",
+        "code": "SA"
+      },
+      "date-start": 1645920000000,
+      "date-end": 1646870400000,
+      "title": "Teaching in Saudi Arabia's hospitals",
+      "importance": 3,
+      "tags": [
+        "travel",
+        "photography",
+        "teaching"
+      ],
+      "media": [
+        {
+          "caption": "Riyadh",
+          "src": "/content/img/auto/8e283c8e6bf862d9.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/8e283c8e6bf862d9.thumbnail.jpg",
+          "w": 18553,
+          "h": 3313,
+          "d": 1646772589000
+        }
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
+      "html": "<p>Saudi Arabia is a very unique country. I was pleased to come here on behalf of <a target=\"_blank\" href=\"https://intersystems.com/\">InterSystems</a>\nto conduct a few courses for local groups at:</p>\n<ul>\n<li><a target=\"_blank\" href=\"https://goo.gl/maps/3Nm7FYvdF1uExFN29\">International Medical Center Hospital, Jeddah</a></li>\n<li><a target=\"_blank\" href=\"https://goo.gl/maps/1mrnMxhdaeTnKDSY6\">Security Forces Hospital, Riyadh</a></li>\n</ul>\n<p>This was a quick course for database-related technology.</p>\n"
+    },
+    {
+      "location": {
+        "name": "Nepal",
+        "code": "NP"
+      },
+      "date-start": 1646870400000,
+      "date-end": 1648857600000,
+      "title": "Travel to Nepal",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "media": [
+        {
+          "caption": "A lake in Pokhara",
+          "src": "/content/img/auto/c1d58d30a02e513c.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/c1d58d30a02e513c.thumbnail.jpg",
+          "w": 23080,
+          "h": 3327,
+          "d": 1647796735000
+        }
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
+      "html": "<p>Nepal is one of the most lovely countries I&#39;ve visited.</p>\n"
+    },
+    {
+      "location": {
+        "name": "India",
+        "code": "IN"
+      },
+      "date-start": 1648857600000,
+      "date-end": 1649116800000,
+      "title": "A weekend in India",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
+      "media": [
+        {
+          "caption": "I visit India for the 2nd time, this time going to Taj Mahal. Unfortunately I was in",
+          "src": "/content/img/auto/54cd5e4b024514f2.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/54cd5e4b024514f2.thumbnail.jpg",
+          "w": 26595,
+          "h": 3388,
+          "d": 1649068190000
+        }
+      ],
+      "html": "<p>I visit India for the 2nd time, this time going to Taj Mahal. Unfortunately I was in\nhurry and made only a panorama of Delhi! :)</p>\n"
+    },
+    {
+      "location": {
+        "name": "Sri Lanka",
+        "code": "LK"
+      },
+      "date-start": 1649116800000,
+      "title": "Travel to Sri Lanka",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
+      "media": [
+        {
+          "caption": "Sri Lanka is lovely. However, we made it to Sri Lanka just when local protests were on fire.",
+          "src": "/content/img/auto/4984d304ce773bd4.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/4984d304ce773bd4.thumbnail.jpg",
+          "w": 2912,
+          "h": 3640,
+          "d": 1649523186000
+        },
+        {
+          "caption": "Sri Lanka is lovely. However, we made it to Sri Lanka just when local protests were on fire.",
+          "src": "/content/img/auto/a116dfd6fa541c8c.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/a116dfd6fa541c8c.thumbnail.jpg",
+          "w": 13944,
+          "h": 3486,
+          "d": 1649523961000
+        }
+      ],
+      "html": "<p>Sri Lanka is lovely. However, we made it to Sri Lanka just when local protests were on fire.\nNo lighting for 8 hours a day, 40% of Sri Lankan currency just lost and so on... Though, it\ndidn&#39;t make much difference as for the tourist, except things being even more cheaper around.</p>\n"
+    },
+    {
+      "location": {
+        "name": "Malaysia",
+        "code": "MY"
+      },
+      "date-start": 1651190400000,
+      "date-end": 1652745600000,
+      "title": "Stay at Malaysia",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
+      "media": [
+        {
+          "caption": "Malaysia, and especially Kuala Lumpur, a city where we decided to stay for almost 2 month",
+          "src": "/content/img/auto/6ad536cfeb0c6bc1.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/6ad536cfeb0c6bc1.thumbnail.jpg",
+          "w": 26417,
+          "h": 3391,
+          "d": 1653065017000
+        },
+        {
+          "caption": "Malaysia, and especially Kuala Lumpur, a city where we decided to stay for almost 2 month",
+          "src": "/content/img/auto/b073f3567803a73e.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/b073f3567803a73e.thumbnail.jpg",
+          "w": 2912,
+          "h": 3640,
+          "d": 1653064897000
+        },
+        {
+          "caption": "Malaysia, and especially Kuala Lumpur, a city where we decided to stay for almost 2 month",
+          "src": "/content/img/auto/c76bb4d9c4d5255c.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/c76bb4d9c4d5255c.thumbnail.jpg",
+          "w": 25234,
+          "h": 3365,
+          "d": 1653758625000
+        },
+        {
+          "caption": "Malaysia, and especially Kuala Lumpur, a city where we decided to stay for almost 2 month",
+          "src": "/content/img/auto/995ae310b334f9fe.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/995ae310b334f9fe.thumbnail.jpg",
+          "w": 2912,
+          "h": 3640,
+          "d": 1654449131000
+        }
+      ],
+      "html": "<p>Malaysia, and especially Kuala Lumpur, a city where we decided to stay for almost 2 month\npersonally impressed me. This is the best life quality/price city I&#39;ve seen in quite a while.</p>\n<p>Imagine living in modern 2-room family apartment in the complex with pools, saunas and gym\nfor just $30/night. It&#39;s real! To add, the city is clean and developing fast. I have an\nimpression that around 30% of buildings around are in construction.</p>\n<p>Moreover, Malaysia has no issues with electronics. Apple, Google - all known brands are here\nand are sold with reasonable prices. Same for food.</p>\n"
+    },
+    {
+      "location": {
+        "name": "Singapore",
+        "code": "SG"
+      },
+      "date-start": 1653091200000,
+      "date-end": 1653264000000,
+      "title": "Travel to Singapore",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
+      "media": [
+        {
+          "caption": "Singapore was an unexpectedly longer stop in our world journey. We planned to go to Indonesia,",
+          "src": "/content/img/auto/6315bad3dbf113ec.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/6315bad3dbf113ec.thumbnail.jpg",
+          "w": 23005,
+          "h": 3414,
+          "d": 1653177220000
+        }
+      ],
+      "html": "<p>Singapore was an unexpectedly longer stop in our world journey. We planned to go to Indonesia,\nbut unfortunately just during our layover in Singapore, it turned our we can&#39;t travel to it and\nwe need a visa. So, we decided to go back to Malaysia instead and complete a bunch of things we\ndidn&#39;t finish there :) A short 2-day layover in Singapore was enough to see the most of it.</p>\n"
+    },
+    {
+      "location": {
+        "name": "Australia",
+        "code": "AU"
+      },
+      "date-start": 1655424000000,
+      "date-end": 1657324800000,
+      "title": "Stay in Australia",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
+      "media": [
+        {
+          "caption": "Australia is big and really cool (and really expensive :P). One of the top countries",
+          "src": "/content/img/auto/54c9da20029878f5.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/54c9da20029878f5.thumbnail.jpg",
+          "w": 14907,
+          "h": 2719,
+          "d": 1655654011000
+        }
+      ],
+      "html": "<p>Australia is big and really cool (and really expensive :P). One of the top countries\nI&#39;ve visited, and definitely one of the greatest places to live in.</p>\n<p>We&#39;re staying by around a week in all 3 major cities:</p>\n<ul>\n<li>Sydney</li>\n<li>Gold Coast</li>\n<li>Melbourne</li>\n</ul>\n"
+    },
+    {
+      "location": {
+        "name": "Thailand",
+        "code": "TH"
+      },
+      "date-start": 1657411200000,
+      "date-end": 1658880000000,
+      "title": "Stay at Phuket, Thailand",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
+      "html": "<p>It&#39;s the second time I come to Thailand, this time exclusively to Phuket.</p>\n"
+    },
+    {
+      "date-start": 1658275200000,
+      "title": "DeCash Send Release - Stablecoins!",
+      "importance": 4,
+      "tags": [
+        "career"
+      ],
+      "media": [
+        {
+          "src": "https://www.youtube-nocookie.com/embed/I6d7idE2zhs",
+          "caption": "StableStake and DeCash Wallet demo",
+          "type": "youtube",
+          "thumbnail": "https://img.youtube.com/vi/I6d7idE2zhs/mqdefault.jpg",
+          "link": "https://www.youtube.com/watch?v=I6d7idE2zhs",
+          "w": 320,
+          "h": 180
+        },
+        {
+          "caption": "As a [CTO](https://decash.com/who-we-are) at [DeCash](https://decash.com), I'm glad to announce we have a release of",
+          "src": "/content/img/auto/6fdc30e8e0766f0a.png",
+          "type": "image",
+          "thumbnail": "/content/img/auto/6fdc30e8e0766f0a.thumbnail.png",
+          "w": 2422,
+          "h": 2082
+        }
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
+      "html": "<p>As a <a target=\"_blank\" href=\"https://decash.com/who-we-are\">CTO</a> at <a target=\"_blank\" href=\"https://decash.com\">DeCash</a>, I&#39;m glad to announce we have a release of\nour own stablecoin and the UI to manage it, <a target=\"_blank\" href=\"https://send.decash.com\">send.decash.com</a>. The technical part of it was\npolished really well and, comparing to other stablecoins, offers:</p>\n<ul>\n<li>Paying fees in the transaction currency. No more &quot;Ether&quot; or any other currency needed except DeCash tokens to manage them.</li>\n<li>Lowest possible fees, just $0.01 per blockchain action.</li>\n<li>Quick finality of the transaction: just 3 seconds on average.</li>\n<li>Full native smart contract language support. Writing smart contracts with TEAL, Algorand&#39;s smart contract language.</li>\n</ul>\n<p>You can actually play yourself with the UI and see how it works, just in a few simple steps:</p>\n<ol>\n<li>Go to <a target=\"_blank\" href=\"https://send.decash.com\">send.decash.com</a>.</li>\n<li>Sign in with any of the suggested methods. The fastest one would be MyAlgoWallet or Pera wallet, if you want a mobile wallet.</li>\n<li>Get some <a target=\"_blank\" href=\"https://send.preprod.decash.com/deposit/free-tokens\">free testnet tokens</a> by clicking &quot;Get&quot; button at the top of the UI.</li>\n<li>You can then send some testnet tokens to your own or other account, like <code>PLD7Y5SMV73434X23Z35JHIYWKOIHNMUAX3B4KE3SCEJN7FB3KT6FZWZGU</code>.</li>\n</ol>\n"
+    },
+    {
+      "location": {
+        "name": "Cambodia",
+        "code": "KH"
+      },
+      "date-start": 1658880000000,
+      "date-end": 1659657600000,
+      "title": "Stay in Cambodia",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
+      "media": [
+        {
+          "caption": "Cambodia isn't that advanced as Dubai, Singapore, Australia... But it has a nice local vibe,",
+          "src": "/content/img/auto/c27e8b1375df2e91.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/c27e8b1375df2e91.thumbnail.jpg",
+          "w": 17936,
+          "h": 3474,
+          "d": 1659186903000
+        }
+      ],
+      "html": "<p>Cambodia isn&#39;t that advanced as Dubai, Singapore, Australia... But it has a nice local vibe,\nand definitely has things to see and do. We came here to see Angkor Wat, the world&#39;s most famous\n&quot;Wat&quot; :)</p>\n<p>This is a cash country, you can be a millionaire here. Prices though are relatively the same as in\nother countries nearby.</p>\n"
+    },
+    {
+      "location": {
+        "name": "Georgia",
+        "code": "GE"
+      },
+      "date-start": 1660003200000,
+      "date-end": 1661472000000,
+      "title": "Stay at Georgia",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
+      "html": "<p>It&#39;s the second time I come to Georgia, this time to Tbilisi and Batumi.</p>\n"
+    },
+    {
+      "location": {
+        "name": "Lithuania",
+        "code": "LT"
+      },
+      "date-start": 1662940800000,
+      "date-end": 1663113600000,
+      "title": "Stay at Kaunas, Lithuania",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
+      "media": [
+        {
+          "caption": "Kaunas is a small city in the central Lithuania. I decided to run through 4 near-Baltic sea",
+          "src": "/content/img/auto/361c6f26c70352aa.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/361c6f26c70352aa.thumbnail.jpg",
+          "w": 16320,
+          "h": 3400,
+          "d": 1663123216000
+        }
+      ],
+      "html": "<p>Kaunas is a small city in the central Lithuania. I decided to run through 4 near-Baltic sea\ncountries before the Winter starts and see how they live.</p>\n<p>Kaunas was neat. Rainy, it didn&#39;t have much people on streets or shops: all were half-to-completely\nempty. In the center, I met maybe 2-3 tourists like myself.</p>\n"
+    },
+    {
+      "location": {
+        "name": "Finland",
+        "code": "FI"
+      },
+      "date-start": 1663113600000,
+      "title": "One day at Helsinki, Finland",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
+      "media": [
+        {
+          "caption": "Helsinki was my quick stopover with the main goal to experience cruise for the first time in",
+          "src": "/content/img/auto/0d61da845cf59184.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/0d61da845cf59184.thumbnail.jpg",
+          "w": 17779,
+          "h": 2700,
+          "d": 1663208248000
+        }
+      ],
+      "html": "<p>Helsinki was my quick stopover with the main goal to experience cruise for the first time in\nmy life. The cruise from Helsinki to Tallin takes just 2.5 hours, however I had an option to\nstay in the cabin over the night.</p>\n<p>Excited!</p>\n"
+    },
+    {
+      "location": {
+        "name": "Estonia",
+        "code": "EE"
+      },
+      "date-start": 1663200000000,
+      "date-end": 1663545600000,
+      "title": "Stay in Tallin, Estonia",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
+      "media": [
+        {
+          "caption": "My first time in Estonia. My very first impression is: central Estonia looks like Prague!",
+          "src": "/content/img/auto/8bb52a7ba0032841.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/8bb52a7ba0032841.thumbnail.jpg",
+          "w": 17691,
+          "h": 2721,
+          "d": 1663468783000
+        }
+      ],
+      "html": "<p>My first time in Estonia. My very first impression is: central Estonia looks like Prague!\nVery populated, active, live and has these old buildings sometimes with red roofs.</p>\n"
+    },
+    {
+      "location": {
+        "name": "Latvia",
+        "code": "LV"
+      },
+      "date-start": 1663545600000,
+      "date-end": 1663804800000,
+      "title": "Stay in Riga, Latvia",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
+      "media": [
+        {
+          "caption": "Neat compact city Riga. It was raining almost all the time during my stay, so I decided to took",
+          "src": "/content/img/auto/435ebb5bb4eb0c2a.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/435ebb5bb4eb0c2a.thumbnail.jpg",
+          "w": 17712,
+          "h": 3448,
+          "d": 1663824671000
+        }
+      ],
+      "html": "<p>Neat compact city Riga. It was raining almost all the time during my stay, so I decided to took\nsome pictures at night :D Actually, very attractive!</p>\n"
+    },
+    {
+      "location": {
+        "name": "United Kingdom",
+        "code": "UK"
+      },
+      "date-start": 1666742400000,
+      "title": "Talk at the University of Surrey",
+      "importance": 4,
+      "tags": [
+        "teaching"
+      ],
+      "media": [
+        {
+          "src": "https://www.youtube-nocookie.com/embed/NRxI2EZkmEE",
+          "caption": "Blockchain talk at University of Surrey - Q&A",
+          "type": "youtube",
+          "thumbnail": "https://img.youtube.com/vi/NRxI2EZkmEE/mqdefault.jpg",
+          "link": "https://www.youtube.com/watch?v=NRxI2EZkmEE",
+          "w": 320,
+          "h": 180
+        },
+        {
+          "caption": "It was a great pleasure to be invited to talk at the University of Surrey, UK. It was a 1,5-hour talk with Q&A for graduating students in crypto.",
+          "src": "/content/img/auto/d7d63075dcae8ec9.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/d7d63075dcae8ec9.thumbnail.jpg",
+          "w": 1987,
+          "h": 1118
+        }
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
+      "html": "<p>It was a great pleasure to be invited to talk at the University of Surrey, UK. It was a 1,5-hour talk with Q&amp;A for graduating students in crypto.</p>\n<p>Unfortunately the presentation itself wasn&#39;t recorded properly and was lost permanently :/ But what wasn&#39;t lost is the Q&amp;A session at the end, which is linked down below :)</p>\n<p>The topic of my presentation was:</p>\n<ul>\n<li>What is it like to be a crypto company?</li>\n</ul>\n<p>I talked through past experiences in multiple crypto companies I worked in, their success and failures, blockchian power and challenges at that time.</p>\n<p>Special thank you to Kirill Shakhnov for inviting me to speak at the University of Surrey (UK) for graduating students of &quot;Blockchain &amp; Cryptocurrencies&quot; course.</p>\n"
+    },
+    {
+      "location": {
+        "name": "Maldives",
+        "code": "MV"
+      },
+      "date-start": 1671926400000,
+      "date-end": 1673654400000,
+      "title": "Maldives",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
+      "media": [
+        {
+          "caption": "Maldives is a very popular honeymoon destination, along with the one having the most",
+          "src": "/content/img/auto/c024f4c36bb2eb1a.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/c024f4c36bb2eb1a.thumbnail.jpg",
+          "w": 1535,
+          "h": 2729,
+          "d": 1672226725000
+        }
+      ],
+      "html": "<p>Maldives is a very popular honeymoon destination, along with the one having the most\nexpensive over-water hotels in the world.</p>\n<p>This is also the first long overseas destination where I didn&#39;t take my drone :)</p>\n"
+    },
+    {
+      "location": {
+        "name": "Germany",
+        "code": "DE"
+      },
+      "date-start": 1675382400000,
+      "date-end": 1675641600000,
+      "title": "Weekend in Germany",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2023",
+      "media": [
+        {
+          "caption": "A quick weekend in Germany visiting our relatives - Ukrainian refugees.",
+          "src": "/content/img/auto/803c5aa40aba87ee.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/803c5aa40aba87ee.thumbnail.jpg",
+          "w": 2272,
+          "h": 2841,
+          "d": 1675553289000
+        },
+        {
+          "caption": "A quick weekend in Germany visiting our relatives - Ukrainian refugees.",
+          "src": "/content/img/auto/f893d9861c1df4aa.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/f893d9861c1df4aa.thumbnail.jpg",
+          "w": 12087,
+          "h": 2519,
+          "d": 1675557346000
+        },
+        {
+          "caption": "A quick weekend in Germany visiting our relatives - Ukrainian refugees.",
+          "src": "/content/img/auto/7bd9a8a978041394.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/7bd9a8a978041394.thumbnail.jpg",
+          "w": 3024,
+          "h": 4032,
+          "d": 1675658732000
+        },
+        {
+          "caption": "A quick weekend in Germany visiting our relatives - Ukrainian refugees.",
+          "src": "/content/img/auto/0c18095940792964.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/0c18095940792964.thumbnail.jpg",
+          "w": 17692,
+          "h": 3424,
+          "d": 1675659200000
+        }
+      ],
+      "html": "<p>A quick weekend in Germany visiting our relatives - Ukrainian refugees.</p>\n"
+    },
+    {
       "date-start": 1054252800000,
       "title": "Merit for the Success in Study in School (2-G)",
       "tags": [
@@ -1406,16 +3046,12 @@
         {
           "caption": "Working program demo 1 (function run)",
           "src": "https://github.com/ZitRos/archive/blob/master/media/gif/2012-score-project-1.gif?raw=true",
-          "type": "image",
-          "w": 520,
-          "h": 332
+          "type": "image"
         },
         {
           "caption": "Working program demo 2 (just random circuit)",
           "src": "https://github.com/ZitRos/archive/blob/master/media/gif/2012-score-project-2.gif?raw=true",
-          "type": "image",
-          "w": 412,
-          "h": 428
+          "type": "image"
         }
       ],
       "fromRepo": "ZitRos/nikita-tk-timeline-2020",
@@ -1763,9 +3399,7 @@
         {
           "caption": "The Space King online game - our final project!",
           "src": "https://github.com/ZitRos/NodeJS-spaceKingGame/raw/master/media/space-king-demo.gif?raw=true",
-          "type": "image",
-          "w": 280,
-          "h": 255
+          "type": "image"
         }
       ],
       "fromRepo": "ZitRos/nikita-tk-timeline-2020",
@@ -1851,7 +3485,7 @@
         }
       ],
       "fromRepo": "ZitRos/nikita-tk-timeline-2020",
-      "html": "<p>My first and the most powerful project in the <a target=\"_blank\" href=\"http://www.intersystems.com\">InterSystems corporation</a>.\nThis is a native Caché DBMS terminal emulator in web application with\nfull VT100 escape sequences support, syntax highlighting, intelligent\nsuggesting mechanism (autocomplete) and a lot of other features.</p>\n<h3 id=\"history\">History</h3>\n<p>During the Summer internship in 2013, I was working on the first version\nof the WebTerminal&#39;s project. This was an experimental projects which\ngoal was to make a WebSockets application and demonstrate how does it\nwork. But the project grew up, and a lot of corporate members started to\nuse it.</p>\n<p>As of today, WebTerminal is used all around the world by more than 100\ncorporate employees and partners. WebTerminal was integrated into different\nprojects like InterSystems IDEL (online learning platform) and Atom IDE plugin\nfor Caché development, which enable hundreds, if not thousands of people to\nwork with InterSystems technology more efficiently.</p>\n<p>The WebTerminal project was almost completely rewritten twice: once in\n2013, at the very beginning of the project lifecycle, and once in 2016.\nThe 2016 update solved some major problems with the previous versions,\nand brought the support of intelligent syntax highlight and a new\non-the-fly suggestion mechanism as well as project&#39;s architecture\nimprovements.</p>\n<h3 id=\"links\">Links</h3>\n<ol>\n<li><a target=\"_blank\" href=\"https://intersystems-ru.github.io/webterminal/\">Official project page</a></li>\n<li><a target=\"_blank\" href=\"https://github.com/intersystems-ru/webterminal\">GitHub repository</a></li>\n<li><a target=\"_blank\" href=\"https://www.youtube.com/watch?v=2l_btAGu_dA\">Old demo of a very first version of WebTerminal</a></li>\n<li><a target=\"_blank\" href=\"https://plus.google.com/+NikitaSavchenko/posts/LGfLtwkJ7Xy\">The publication about the WebTerminal project in USA</a></li>\n<li><a target=\"_blank\" href=\"https://habrahabr.ru/company/intersystems/blog/192242/\">My article on the project on habrahabr.ru (russian)</a></li>\n<li><a target=\"_blank\" href=\"https://www.youtube.com/watch?v=TacCtTtM8kM&amp;feature=youtu.be&amp;list=PLKb2cBVphNQTwJWd_nUbEXdPy0JLCrgjz&amp;t=1962\">Mentions about WebTerminal on InterSystems Global Summit 2017</a></li>\n</ol>\n"
+      "html": "<p>My first and the most powerful project in the <a target=\"_blank\" href=\"http://www.intersystems.com\">InterSystems corporation</a>.\nThis is a native Caché DBMS terminal emulator in web application with\nfull VT100 escape sequences support, syntax highlighting, intelligent\nsuggesting mechanism (autocomplete) and a lot of other features.</p>\n<h3 id=\"history\">History</h3>\n<p>During the Summer internship in 2013, I was working on the first version\nof the WebTerminal&#39;s project. This was an experimental projects which\ngoal was to make a WebSockets application and demonstrate how does it\nwork. But the project grew up, and a lot of corporate members started to\nuse it.</p>\n<p>As of today, WebTerminal is used all around the world by more than 100\ncorporate employees and partners. WebTerminal was integrated into different\nprojects like InterSystems IDEL (online learning platform) and Atom IDE plugin\nfor Caché development, which enable hundreds, if not thousands of people to\nwork with InterSystems technology more efficiently.</p>\n<p>The WebTerminal project was almost completely rewritten twice: once in\n2013, at the very beginning of the project lifecycle, and once in 2016.\nThe 2016 update solved some major problems with the previous versions,\nand brought the support of intelligent syntax highlight and a new\non-the-fly suggestion mechanism as well as project&#39;s architecture\nimprovements.</p>\n<h3 id=\"links\">Links</h3>\n<ol>\n<li><a target=\"_blank\" href=\"https://openexchange.intersystems.com/package/WebTerminal?tab=reviews\">Community feedback about WebTerminal</a></li>\n<li><a target=\"_blank\" href=\"https://intersystems-ru.github.io/webterminal/\">Official project page</a></li>\n<li><a target=\"_blank\" href=\"https://github.com/intersystems-ru/webterminal\">GitHub repository</a></li>\n<li><a target=\"_blank\" href=\"https://www.youtube.com/watch?v=2l_btAGu_dA\">Old demo of a very first version of WebTerminal</a></li>\n<li><a target=\"_blank\" href=\"https://plus.google.com/+NikitaSavchenko/posts/LGfLtwkJ7Xy\">The publication about the WebTerminal project in USA</a></li>\n<li><a target=\"_blank\" href=\"https://habrahabr.ru/company/intersystems/blog/192242/\">My article on the project on habrahabr.ru (russian)</a></li>\n<li><a target=\"_blank\" href=\"https://www.youtube.com/watch?v=TacCtTtM8kM&amp;feature=youtu.be&amp;list=PLKb2cBVphNQTwJWd_nUbEXdPy0JLCrgjz&amp;t=1962\">Mentions about WebTerminal on InterSystems Global Summit 2017</a></li>\n</ol>\n"
     },
     {
       "date-start": 1413763200000,
@@ -6255,1647 +7889,7 @@
       ],
       "fromRepo": "ZitRos/nikita-tk-timeline-2020",
       "html": "<p>Photos, panoramas and videos taken in Ukraine by Nikita Savchenko</p>\n"
-    },
-    {
-      "location": {
-        "name": "Tanzania",
-        "code": "TZ"
-      },
-      "date-start": 1614988800000,
-      "date-end": 1615939200000,
-      "title": "Traveling to Tanzania",
-      "importance": 1,
-      "tags": [
-        "travel",
-        "photography"
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2021",
-      "media": [
-        {
-          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
-          "src": "/content/img/auto/b2275e3ff444c13d.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/b2275e3ff444c13d.thumbnail.jpg",
-          "w": 10189,
-          "h": 3184,
-          "d": 1615116178000
-        },
-        {
-          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
-          "src": "/content/img/auto/4c7abb32b55b34ed.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/4c7abb32b55b34ed.thumbnail.jpg",
-          "w": 12896,
-          "h": 5373,
-          "d": 1615142915000
-        },
-        {
-          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
-          "src": "/content/img/auto/904727b3e25f7e43.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/904727b3e25f7e43.thumbnail.jpg",
-          "w": 26591,
-          "h": 3416,
-          "d": 1615204826000
-        },
-        {
-          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
-          "src": "/content/img/auto/bee49f0c0a2a72d7.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/bee49f0c0a2a72d7.thumbnail.jpg",
-          "w": 16276,
-          "h": 3328,
-          "d": 1615832769000
-        },
-        {
-          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
-          "src": "/content/img/auto/b90ae71ce8fc712a.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/b90ae71ce8fc712a.thumbnail.jpg",
-          "w": 16187,
-          "h": 5454,
-          "d": 1615210964000
-        },
-        {
-          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
-          "src": "/content/img/auto/c2c63397e2053f26.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/c2c63397e2053f26.thumbnail.jpg",
-          "w": 16349,
-          "h": 3406,
-          "d": 1615372352000
-        },
-        {
-          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
-          "src": "/content/img/auto/4be255c8f755ff31.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/4be255c8f755ff31.thumbnail.jpg",
-          "w": 16397,
-          "h": 3416,
-          "d": 1615378779000
-        },
-        {
-          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
-          "src": "/content/img/auto/70be75d1b41d0fc4.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/70be75d1b41d0fc4.thumbnail.jpg",
-          "w": 21683,
-          "h": 3388,
-          "d": 1615379432000
-        },
-        {
-          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
-          "src": "/content/img/auto/5dcd92b16786ee92.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/5dcd92b16786ee92.thumbnail.jpg",
-          "w": 5464,
-          "h": 3640,
-          "d": 1615379477000
-        },
-        {
-          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
-          "src": "/content/img/auto/d869ffcad429865e.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/d869ffcad429865e.thumbnail.jpg",
-          "w": 21053,
-          "h": 5559,
-          "d": 1615486301000
-        },
-        {
-          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
-          "src": "/content/img/auto/1094ca9b64473f33.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/1094ca9b64473f33.thumbnail.jpg",
-          "w": 19234,
-          "h": 3435,
-          "d": 1615486539000
-        },
-        {
-          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
-          "src": "/content/img/auto/b9b8143c8b7f35ac.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/b9b8143c8b7f35ac.thumbnail.jpg",
-          "w": 26700,
-          "h": 3330,
-          "d": 1615618865000
-        },
-        {
-          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
-          "src": "/content/img/auto/3111491ac68d9f77.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/3111491ac68d9f77.thumbnail.jpg",
-          "w": 5464,
-          "h": 3640,
-          "d": 1615705699000
-        },
-        {
-          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
-          "src": "/content/img/auto/257409a0c00e890a.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/257409a0c00e890a.thumbnail.jpg",
-          "w": 26562,
-          "h": 3347,
-          "d": 1615705976000
-        },
-        {
-          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
-          "src": "/content/img/auto/e550f2f42709bcf1.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/e550f2f42709bcf1.thumbnail.jpg",
-          "w": 15788,
-          "h": 3289,
-          "d": 1615832282000
-        },
-        {
-          "caption": "Photos and panoramas of Tanzania by Nikita Savchenko",
-          "src": "/content/img/auto/9ffac8ccfeca86dd.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/9ffac8ccfeca86dd.thumbnail.jpg",
-          "w": 24342,
-          "h": 6086,
-          "d": 1615205108000
-        }
-      ],
-      "html": "<p>Photos and panoramas of Tanzania by Nikita Savchenko</p>\n"
-    },
-    {
-      "location": {
-        "name": "Cyprus",
-        "code": "CY"
-      },
-      "date-start": 1620432000000,
-      "date-end": 1621641600000,
-      "title": "Traveling to Cyprus",
-      "importance": 1,
-      "tags": [
-        "travel",
-        "photography"
-      ],
-      "media": [
-        {
-          "src": "https://www.youtube-nocookie.com/embed/7V687OpJEks",
-          "caption": "Cyprus: the villa country",
-          "rating": 0.92,
-          "type": "youtube",
-          "thumbnail": "https://img.youtube.com/vi/7V687OpJEks/mqdefault.jpg",
-          "link": "https://www.youtube.com/watch?v=7V687OpJEks",
-          "w": 320,
-          "h": 180
-        },
-        {
-          "caption": "Photos and panoramas of Cyprus by Nikita Savchenko",
-          "src": "/content/img/auto/e301d6cd631c707d.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/e301d6cd631c707d.thumbnail.jpg",
-          "w": 5464,
-          "h": 3640,
-          "d": 1621516532000
-        },
-        {
-          "caption": "Photos and panoramas of Cyprus by Nikita Savchenko",
-          "src": "/content/img/auto/4a45011054743fde.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/4a45011054743fde.thumbnail.jpg",
-          "w": 5464,
-          "h": 3640,
-          "d": 1621623588000
-        },
-        {
-          "caption": "Photos and panoramas of Cyprus by Nikita Savchenko",
-          "src": "/content/img/auto/5bcedaaf8aa70dd0.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/5bcedaaf8aa70dd0.thumbnail.jpg",
-          "w": 17922,
-          "h": 2987,
-          "d": 1621087831000
-        },
-        {
-          "caption": "Photos and panoramas of Cyprus by Nikita Savchenko",
-          "src": "/content/img/auto/a83ec905219d8d4f.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/a83ec905219d8d4f.thumbnail.jpg",
-          "w": 17155,
-          "h": 3431,
-          "d": 1620566704000
-        },
-        {
-          "caption": "Photos and panoramas of Cyprus by Nikita Savchenko",
-          "src": "/content/img/auto/a45fc05f719a5790.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/a45fc05f719a5790.thumbnail.jpg",
-          "w": 5464,
-          "h": 3640,
-          "d": 1620657860000
-        },
-        {
-          "caption": "Photos and panoramas of Cyprus by Nikita Savchenko",
-          "src": "/content/img/auto/c5403c808823eff7.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/c5403c808823eff7.thumbnail.jpg",
-          "w": 5464,
-          "h": 3640,
-          "d": 1620984721000
-        },
-        {
-          "caption": "Photos and panoramas of Cyprus by Nikita Savchenko",
-          "src": "/content/img/auto/5c053cb49113431b.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/5c053cb49113431b.thumbnail.jpg",
-          "w": 5464,
-          "h": 3640,
-          "d": 1620985019000
-        },
-        {
-          "caption": "Photos and panoramas of Cyprus by Nikita Savchenko",
-          "src": "/content/img/auto/6a676f110192b95c.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/6a676f110192b95c.thumbnail.jpg",
-          "w": 5091,
-          "h": 3393,
-          "d": 1620987604000
-        },
-        {
-          "caption": "Photos and panoramas of Cyprus by Nikita Savchenko",
-          "src": "/content/img/auto/fc6447530529bc5f.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/fc6447530529bc5f.thumbnail.jpg",
-          "w": 5464,
-          "h": 3640,
-          "d": 1620987816000
-        },
-        {
-          "caption": "Photos and panoramas of Cyprus by Nikita Savchenko",
-          "src": "/content/img/auto/d0042a4cada84ebf.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/d0042a4cada84ebf.thumbnail.jpg",
-          "w": 5464,
-          "h": 3640,
-          "d": 1621623633000
-        },
-        {
-          "caption": "Photos and panoramas of Cyprus by Nikita Savchenko",
-          "src": "/content/img/auto/c540154bd37c6a21.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/c540154bd37c6a21.thumbnail.jpg",
-          "w": 26806,
-          "h": 6702,
-          "d": 1620649498000
-        }
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2021",
-      "html": "<p>Photos and panoramas of Cyprus by Nikita Savchenko</p>\n"
-    },
-    {
-      "location": {
-        "name": "Georgia",
-        "code": "GE"
-      },
-      "date-start": 1623196800000,
-      "date-end": 1623888000000,
-      "title": "Traveling to Georgia",
-      "importance": 1,
-      "tags": [
-        "travel",
-        "photography"
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2021",
-      "media": [
-        {
-          "caption": "Photos and panoramas of Georgia by Nikita Savchenko",
-          "src": "/content/img/auto/ff63becb2f0d8523.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/ff63becb2f0d8523.thumbnail.jpg",
-          "w": 22243,
-          "h": 3089,
-          "d": 1623660411000
-        },
-        {
-          "caption": "Photos and panoramas of Georgia by Nikita Savchenko",
-          "src": "/content/img/auto/eba02e80e6850e00.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/eba02e80e6850e00.thumbnail.jpg",
-          "w": 16844,
-          "h": 3509,
-          "d": 1623324164000
-        },
-        {
-          "caption": "Photos and panoramas of Georgia by Nikita Savchenko",
-          "src": "/content/img/auto/a27721f00250fef7.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/a27721f00250fef7.thumbnail.jpg",
-          "w": 13892,
-          "h": 3473,
-          "d": 1623423258000
-        },
-        {
-          "caption": "Photos and panoramas of Georgia by Nikita Savchenko",
-          "src": "/content/img/auto/30ff5d7215899121.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/30ff5d7215899121.thumbnail.jpg",
-          "w": 22158,
-          "h": 3316,
-          "d": 1623503518000
-        },
-        {
-          "caption": "Photos and panoramas of Georgia by Nikita Savchenko",
-          "src": "/content/img/auto/708d48aecd1c3ded.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/708d48aecd1c3ded.thumbnail.jpg",
-          "w": 5464,
-          "h": 3640,
-          "d": 1623516082000
-        },
-        {
-          "caption": "Photos and panoramas of Georgia by Nikita Savchenko",
-          "src": "/content/img/auto/16082e82b340fcec.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/16082e82b340fcec.thumbnail.jpg",
-          "w": 20381,
-          "h": 2954,
-          "d": 1623602893000
-        },
-        {
-          "caption": "Photos and panoramas of Georgia by Nikita Savchenko",
-          "src": "/content/img/auto/fb8db03a4debcc02.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/fb8db03a4debcc02.thumbnail.jpg",
-          "w": 26730,
-          "h": 3376,
-          "d": 1623757409000
-        },
-        {
-          "caption": "Photos and panoramas of Georgia by Nikita Savchenko",
-          "src": "/content/img/auto/28738dd3c0bdbfdc.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/28738dd3c0bdbfdc.thumbnail.jpg",
-          "w": 3024,
-          "h": 4032,
-          "d": 1623584824000
-        }
-      ],
-      "html": "<p>Photos and panoramas of Georgia by Nikita Savchenko</p>\n"
-    },
-    {
-      "location": {
-        "name": "Seychelles",
-        "code": "SC"
-      },
-      "date-start": 1625788800000,
-      "date-end": 1626393600000,
-      "title": "Traveling to Seychelles",
-      "importance": 1,
-      "tags": [
-        "travel",
-        "photography"
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2021",
-      "media": [
-        {
-          "caption": "Photos and panoramas of Seychelles by Nikita Savchenko",
-          "src": "/content/img/auto/a35b7c746fb58d27.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/a35b7c746fb58d27.thumbnail.jpg",
-          "w": 12431,
-          "h": 3108,
-          "d": 1626013701000
-        },
-        {
-          "caption": "Photos and panoramas of Seychelles by Nikita Savchenko",
-          "src": "/content/img/auto/90cbeef4a0d409c4.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/90cbeef4a0d409c4.thumbnail.jpg",
-          "w": 17516,
-          "h": 3649,
-          "d": 1626014373000
-        },
-        {
-          "caption": "Photos and panoramas of Seychelles by Nikita Savchenko",
-          "src": "/content/img/auto/22c66a37d79f8e83.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/22c66a37d79f8e83.thumbnail.jpg",
-          "w": 18653,
-          "h": 3331,
-          "d": 1626024654000
-        },
-        {
-          "caption": "Photos and panoramas of Seychelles by Nikita Savchenko",
-          "src": "/content/img/auto/18cc553e5c26ca20.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/18cc553e5c26ca20.thumbnail.jpg",
-          "w": 18654,
-          "h": 3331,
-          "d": 1626024654000
-        }
-      ],
-      "html": "<p>Photos and panoramas of Seychelles by Nikita Savchenko</p>\n"
-    },
-    {
-      "location": {
-        "name": "Montenegro",
-        "code": "ME"
-      },
-      "date-start": 1626480000000,
-      "date-end": 1627171200000,
-      "title": "Traveling to Montenegro",
-      "importance": 1,
-      "tags": [
-        "travel",
-        "photography"
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2021",
-      "media": [
-        {
-          "caption": "Photos and panoramas of Montenegro by Nikita Savchenko",
-          "src": "/content/img/auto/15a3a322acb0f9a9.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/15a3a322acb0f9a9.thumbnail.jpg",
-          "w": 5464,
-          "h": 3640,
-          "d": 1626891603000
-        },
-        {
-          "caption": "Photos and panoramas of Montenegro by Nikita Savchenko",
-          "src": "/content/img/auto/43580af08fad39f8.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/43580af08fad39f8.thumbnail.jpg",
-          "w": 5464,
-          "h": 3640,
-          "d": 1626891662000
-        },
-        {
-          "caption": "Photos and panoramas of Montenegro by Nikita Savchenko",
-          "src": "/content/img/auto/62097ea8cec0e11b.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/62097ea8cec0e11b.thumbnail.jpg",
-          "w": 21818,
-          "h": 3409,
-          "d": 1627070539000
-        },
-        {
-          "caption": "Photos and panoramas of Montenegro by Nikita Savchenko",
-          "src": "/content/img/auto/9342f0880b40c41b.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/9342f0880b40c41b.thumbnail.jpg",
-          "w": 3640,
-          "h": 5464,
-          "d": 1627070620000
-        }
-      ],
-      "html": "<p>Photos and panoramas of Montenegro by Nikita Savchenko</p>\n"
-    },
-    {
-      "location": {
-        "name": "Croatia",
-        "code": "HR"
-      },
-      "date-start": 1626480000000,
-      "date-end": 1626652800000,
-      "title": "Traveling to Croatia",
-      "importance": 1,
-      "tags": [
-        "travel",
-        "photography"
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2021",
-      "media": [
-        {
-          "caption": "Photos and panoramas of Croatia by Nikita Savchenko",
-          "src": "/content/img/auto/d3d5833ab87bfd53.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/d3d5833ab87bfd53.thumbnail.jpg",
-          "w": 20799,
-          "h": 3392,
-          "d": 1626714351000
-        }
-      ],
-      "html": "<p>Photos and panoramas of Croatia by Nikita Savchenko</p>\n"
-    },
-    {
-      "location": {
-        "name": "Bosnia & Herzegovina",
-        "code": "BA"
-      },
-      "date-start": 1626652800000,
-      "date-end": 1626739200000,
-      "title": "Traveling to Bosnia & Herzegovina",
-      "importance": 1,
-      "tags": [
-        "travel",
-        "photography"
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2021",
-      "media": [
-        {
-          "caption": "Photos and panoramas of Bosnia & Herzegovina by Nikita Savchenko",
-          "src": "/content/img/auto/33244348f3f09b2c.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/33244348f3f09b2c.thumbnail.jpg",
-          "w": 5464,
-          "h": 3640,
-          "d": 1626788402000
-        },
-        {
-          "caption": "Photos and panoramas of Bosnia & Herzegovina by Nikita Savchenko",
-          "src": "/content/img/auto/a014ef4cfbf92c1b.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/a014ef4cfbf92c1b.thumbnail.jpg",
-          "w": 5464,
-          "h": 3640,
-          "d": 1626872662000
-        }
-      ],
-      "html": "<p>Photos and panoramas of Bosnia &amp; Herzegovina by Nikita Savchenko</p>\n"
-    },
-    {
-      "location": {
-        "name": "Albania",
-        "code": "AL"
-      },
-      "date-start": 1626998400000,
-      "title": "Traveling to Albania",
-      "importance": 1,
-      "tags": [
-        "travel",
-        "photography"
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2021",
-      "media": [
-        {
-          "caption": "Photos and panoramas of Albania by Nikita Savchenko",
-          "src": "/content/img/auto/d3295f1cc3e9dfe6.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/d3295f1cc3e9dfe6.thumbnail.jpg",
-          "w": 5464,
-          "h": 3640,
-          "d": 1627052719000
-        },
-        {
-          "caption": "Photos and panoramas of Albania by Nikita Savchenko",
-          "src": "/content/img/auto/21735d70074cb0ed.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/21735d70074cb0ed.thumbnail.jpg",
-          "w": 26200,
-          "h": 3384,
-          "d": 1627053352000
-        }
-      ],
-      "html": "<p>Photos and panoramas of Albania by Nikita Savchenko</p>\n"
-    },
-    {
-      "date-start": 1633046400000,
-      "title": "Back to crypto as a CTO and a Technical Product Owner at DeCash",
-      "importance": 4,
-      "tags": [
-        "career"
-      ],
-      "media": [
-        {
-          "caption": "The team",
-          "src": "/content/img/auto/b60a8e03bb50a8bc.png",
-          "type": "image",
-          "thumbnail": "/content/img/auto/b60a8e03bb50a8bc.thumbnail.png",
-          "w": 1626,
-          "h": 2060
-        },
-        {
-          "caption": "Products I am responsible for",
-          "src": "/content/img/auto/b253c0b84568c3ff.png",
-          "type": "image",
-          "thumbnail": "/content/img/auto/b253c0b84568c3ff.thumbnail.png",
-          "w": 1226,
-          "h": 2072
-        }
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2021",
-      "html": "<p>It all began a year ago, when a small crypto company <a target=\"_blank\" href=\"https://decash.com\">DeCash</a> reached out to me with questions\nin regards to my <a target=\"_blank\" href=\"https://github.com/ZitRos/ethereum-delegated-tx-service\">open-sourced solution</a> -\ndelegated transactions for Ethereum. Since then, I started to do consulting for this company in\nmy free time.</p>\n<p>Now I am pleased to announce that I am leading a few powerful technical products with multiple teams at DeCash\nto bring them to a mass market. I truly believe that the technology being built at DeCash will demonstrate how\ncrypto can change the traditional finance. We have a team of influential people, and once other companies start\nadopting our technology, we expect things to explode.</p>\n<p>My responsibilities include ensuring successful development-to-delivery journey and strategic success of DeCash,\nboth from the technical side and the success of products. I am also the one who organized internal processes in\nthis company, created a comfortable workspace for everyone. The key products I am responsible for:</p>\n<ul>\n<li><a target=\"_blank\" href=\"https://docs.decash.com/docs/concepts/delegated-wallets\">DeCash Delegated Wallets</a> - the key technology making our stablecoin easy-to-use comparing to other crypto.</li>\n<li><a target=\"_blank\" href=\"https://send.decash.com\">DeCash Send</a> - the user interface to manage DeCash stablecoins.</li>\n<li><a target=\"_blank\" href=\"https://www.decash.com/solutions#decash-api\">DeCash API</a> - the API allowing anyone to integrate with DeCash stablecoins.</li>\n<li>Other internal or not yet released products.</li>\n</ul>\n<p>TL;DR for any reader: DeCash builds stablecoins, which are drastically easier to own and manage than any other\nstablecoin. We also build tools for our stablecoins, which allows any party (finance, payments etc) to integrate with\nus easily too. Our goal is to replace traditional finance.</p>\n"
-    },
-    {
-      "location": {
-        "name": "Poland",
-        "code": "PL"
-      },
-      "date-start": 1633996800000,
-      "title": "My Carbon Footprint project at Google Cloud Next",
-      "importance": 5,
-      "tags": [
-        "career"
-      ],
-      "media": [
-        {
-          "caption": "The Carbon Footprint Dashboard UI I've built at Google",
-          "src": "/content/img/auto/8e1d885a95e5eb87.png",
-          "type": "image",
-          "thumbnail": "/content/img/auto/8e1d885a95e5eb87.thumbnail.png",
-          "w": 1492,
-          "h": 1134
-        },
-        {
-          "src": "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/co2_est.gif",
-          "caption": "An animation of the Carbon Footprint UI",
-          "type": "image"
-        },
-        {
-          "src": "https://www.youtube-nocookie.com/embed/6QbKkDibKXg",
-          "caption": "Google Cloud Carbon Footprint - Sundar announces the product",
-          "type": "youtube",
-          "thumbnail": "https://img.youtube.com/vi/6QbKkDibKXg/mqdefault.jpg",
-          "link": "https://www.youtube.com/watch?v=6QbKkDibKXg",
-          "w": 320,
-          "h": 180
-        }
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2021",
-      "html": "<p>In the past year at Google I&#39;ve been working on one of the most anticipated Google Cloud\nproducts - the carbon footprint. Specifically, I&#39;ve been leading its UI development. As you\ncan imagine, this product was not only about the UI: we had a team at Google of around 40\namazing people working together to make Carbon Footprint live and announced on October 12.</p>\n<ul>\n<li><em>«It allows companies to measure, track and report on the gross carbon emissions associated with the electricity of your cloud usage, allowing them to disclose their energy-related emissions data for internal carbon inventories and external carbon disclosures. It is available for free to all GCP users now.»</em> (<a target=\"_blank\" href=\"https://www.datacenterdynamics.com/en/news/next-21-google-announces-edge-and-on-premise-cloud-offerings/\">source</a>)</li>\n<li><em>«Customers can monitor their cloud emissions over time by project, by product, and by region, empowering IT teams and developers with metrics that help them reduce their carbon footprint»</em> (<a target=\"_blank\" href=\"https://www.theregister.com/2021/10/12/google_next_roundup/\">source</a>)</li>\n<li><em>«Using Carbon Footprint, you have access to the gross energy-related emissions data you need for internal carbon inventories and external carbon disclosures, with one click.»</em> (<a target=\"_blank\" href=\"https://www.computerweekly.com/news/252508088/Google-Cloud-renews-commitment-to-helping-enterprises-decarbonise-their-IT-infrastructure\">source</a>)</li>\n</ul>\n<p>Here are the top resources and announcements of this new product:</p>\n<ul>\n<li><a target=\"_blank\" href=\"https://youtu.be/6QbKkDibKXg?t=2472\">Sundar&#39;s announcement</a></li>\n<li><a target=\"_blank\" href=\"https://cloud.google.com/blog/topics/sustainability/new-tools-to-measure-and-reduce-your-environmental-impact\">Google&#39;s Blog post</a></li>\n<li><a target=\"_blank\" href=\"https://www.linkedin.com/posts/zitros_googlecloudnext-activity-6853991110709190656-S4Wz\">My LinkedIn post</a></li>\n</ul>\n<p>Press:</p>\n<ul>\n<li>Bloomberg: <a target=\"_blank\" href=\"https://www.bloomberg.com/news/articles/2021-10-12/google-will-show-its-cloud-customers-their-carbon-footprint?sref=CY7BpvSE\">Google Will Show Its Cloud Customers Their Carbon Footprint</a></li>\n<li>CRN: <a target=\"_blank\" href=\"https://www.crn.com/slide-shows/cloud/google-cloud-next-21-the-10-biggest-announcements/8\">Google Cloud Next ’21: The 10 Biggest Announcements</a></li>\n<li>Fast Company: <a target=\"_blank\" href=\"https://www.fastcompany.com/90685146/google-cloud-wants-to-help-your-company-go-green\">Google Cloud wants to help other companies go green</a></li>\n<li>The Register: <a target=\"_blank\" href=\"https://www.theregister.com/2021/10/12/google_next_roundup/\">Google Cloud will let you know how your workloads are damaging the environment</a></li>\n<li>Reuters: <a target=\"_blank\" href=\"https://www.reuters.com/technology/google-cloud-unveils-carbon-footprint-tracker-satellite-imagery-suite-2021-10-12/\">Google Cloud unveils carbon footprint tracker, satellite imagery suite</a></li>\n<li>SDxCentral: <a target=\"_blank\" href=\"https://www.sdxcentral.com/articles/news/google-cloud-targets-customers-carbon-footprints/2021/10/\">Google Cloud Targets Customers&#39; Carbon Footprints</a></li>\n<li>SiliconANGLE: <a target=\"_blank\" href=\"https://siliconangle.com/2021/10/12/googes-carbon-footprint-tool-lets-cloud-customers-track-emissions/\">Google cloud customers can now track their carbon emissions</a></li>\n<li>TechCrunch: <a target=\"_blank\" href=\"https://techcrunch.com/2021/10/12/google-cloud-will-now-show-its-users-their-carbon-footprint-in-the-cloud/\">Google Cloud will now show its users their carbon footprint in the cloud</a></li>\n<li>TechRadar: <a target=\"_blank\" href=\"https://www.techradar.com/news/google-says-it-has-the-industrys-cleanest-cloud\">Google says it has the &#39;industry&#39;s cleanest cloud&#39;</a></li>\n<li>ZDNet: <a target=\"_blank\" href=\"https://www.zdnet.com/article/google-creates-tools-to-track-carbon-footprint-emissions-data/\">Google creates tools to track carbon footprint, emissions data</a></li>\n</ul>\n<p>Some customer&#39;s feedback:</p>\n<ul>\n<li><em>«We are expanding our portfolio of solutions and partnerships to help reduce your carbon footprint»</em> - Sundar Pichai, Google&#39;s CEO</li>\n<li><em>«What we can now do through this tool is see what is happening within our applications within specific types of code or particular toolsets that we are using within our applications on the cloud. It’s that granularity that enables better decision-making.»</em> - Stephen Bayly, the HSBC bank’s CIO for markets and securities services</li>\n<li><em>«Co-designed with customers like HSBC, Atos, Salesforce, and L’Oreal, Google Cloud’s Carbon Footprint product will provide customers with an accurate and actionable repofi of the carbon footprint associated with the Cloud usage.»</em> - Google</li>\n<li><em>«Google is partnering with Salesforce to make its GCP emissions data available in Salesforce&#39;s carbon account platform»</em> - Jen Bennett, technical director in the Office of the CTO at Google Cloud</li>\n</ul>\n"
-    },
-    {
-      "location": {
-        "name": "Moldova",
-        "code": "MD"
-      },
-      "date-start": 1634169600000,
-      "date-end": 1634428800000,
-      "title": "Traveling to Moldova",
-      "importance": 1,
-      "tags": [
-        "travel",
-        "photography"
-      ],
-      "media": [
-        {
-          "src": "https://www.youtube-nocookie.com/embed/WzOpHIaNOvg",
-          "caption": "Somewhere close to Ukraine-Moldova border",
-          "type": "youtube",
-          "thumbnail": "https://img.youtube.com/vi/WzOpHIaNOvg/mqdefault.jpg",
-          "link": "https://www.youtube.com/watch?v=WzOpHIaNOvg",
-          "w": 320,
-          "h": 180
-        }
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2021",
-      "html": "<p>Photos and panoramas of Moldova by Nikita Savchenko</p>\n"
-    },
-    {
-      "date-start": 1638316800000,
-      "title": "My project DataUnlocker crosses 400 clients worldwide",
-      "importance": 5,
-      "tags": [
-        "career"
-      ],
-      "media": [
-        {
-          "caption": "The landing of DataUnlocker",
-          "src": "/content/img/auto/c7bf7ff5609cfd10.png",
-          "type": "image",
-          "thumbnail": "/content/img/auto/c7bf7ff5609cfd10.thumbnail.png",
-          "w": 2278,
-          "h": 1874
-        },
-        {
-          "caption": "Daily traffic that DataUnlocker receives",
-          "src": "/content/img/auto/62ed78e8355862d7.png",
-          "type": "image",
-          "thumbnail": "/content/img/auto/62ed78e8355862d7.thumbnail.png",
-          "w": 1630,
-          "h": 646
-        }
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2021",
-      "html": "<p>My successful side project <a target=\"_blank\" href=\"https://dataunlocker.com\">DataUnlocker</a> now has 400 users worldwide! 🎉</p>\n<p>This project constantly grows, getting new users without any penny spent on marketing.\nMy strategy now is still to validate that ad blocking community is helpless fighting with\nwhat DataUnlocker offers, and prove that it&#39;s reliable long-term before scaling this\nproduct. Even now, we have many happy companies proxying their analytics data.</p>\n"
-    },
-    {
-      "location": {
-        "name": "Hungary",
-        "code": "HU"
-      },
-      "date-start": 1640044800000,
-      "date-end": 1640131200000,
-      "title": "Traveling to Hungary",
-      "importance": 1,
-      "tags": [
-        "travel",
-        "photography"
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2021",
-      "media": [
-        {
-          "caption": "It was just a few days in Hungary with my younger brother.",
-          "src": "/content/img/auto/d446146916245de0.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/d446146916245de0.thumbnail.jpg",
-          "w": 24746,
-          "h": 3437,
-          "d": 1640026766000
-        }
-      ],
-      "html": "<p>It was just a few days in Hungary with my younger brother.</p>\n"
-    },
-    {
-      "location": {
-        "name": "Brazil",
-        "code": "BR"
-      },
-      "date-start": 1642291200000,
-      "date-end": 1643587200000,
-      "title": "Travel to Brazil",
-      "importance": 1,
-      "tags": [
-        "travel",
-        "photography"
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
-      "media": [
-        {
-          "caption": "My friends and I, who are working in IT industry and can afford traveling the world while",
-          "src": "/content/img/auto/ddea1c519dec2dda.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/ddea1c519dec2dda.thumbnail.jpg",
-          "w": 5464,
-          "h": 3640,
-          "d": 1643461894000
-        },
-        {
-          "caption": "My friends and I, who are working in IT industry and can afford traveling the world while",
-          "src": "/content/img/auto/ff4c72da753b1d2b.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/ff4c72da753b1d2b.thumbnail.jpg",
-          "w": 5464,
-          "h": 3640,
-          "d": 1643462326000
-        },
-        {
-          "caption": "My friends and I, who are working in IT industry and can afford traveling the world while",
-          "src": "/content/img/auto/12530e0f4ddc2d32.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/12530e0f4ddc2d32.thumbnail.jpg",
-          "w": 26664,
-          "h": 3338,
-          "d": 1642493820000
-        },
-        {
-          "caption": "My friends and I, who are working in IT industry and can afford traveling the world while",
-          "src": "/content/img/auto/596528693e59fbf5.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/596528693e59fbf5.thumbnail.jpg",
-          "w": 20499,
-          "h": 3419,
-          "d": 1642617176000
-        },
-        {
-          "caption": "My friends and I, who are working in IT industry and can afford traveling the world while",
-          "src": "/content/img/auto/551bfac0e90599cc.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/551bfac0e90599cc.thumbnail.jpg",
-          "w": 5464,
-          "h": 3640,
-          "d": 1642700907000
-        },
-        {
-          "caption": "My friends and I, who are working in IT industry and can afford traveling the world while",
-          "src": "/content/img/auto/ea749eaac78e54c5.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/ea749eaac78e54c5.thumbnail.jpg",
-          "w": 23933,
-          "h": 3329,
-          "d": 1642700980000
-        },
-        {
-          "caption": "My friends and I, who are working in IT industry and can afford traveling the world while",
-          "src": "/content/img/auto/c86b0016554f4a79.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/c86b0016554f4a79.thumbnail.jpg",
-          "w": 24934,
-          "h": 6234,
-          "d": 1643461756000
-        }
-      ],
-      "html": "<p>My friends and I, who are working in IT industry and can afford traveling the world while\nworking remotely, decided to start our work-from-South-America journey. We will try to\nvisit as many countries as possible, given COVID-related restrictions.</p>\n"
-    },
-    {
-      "location": {
-        "name": "Paraguay",
-        "code": "PY"
-      },
-      "date-start": 1643500800000,
-      "title": "Travel to Paraguay",
-      "importance": 1,
-      "tags": [
-        "travel",
-        "photography"
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
-      "media": [
-        {
-          "caption": "It was just 1 day in Paraguay, in its shopping capital, Ciudad del Este.",
-          "src": "/content/img/auto/0aa5c8eb8c4c5821.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/0aa5c8eb8c4c5821.thumbnail.jpg",
-          "w": 26702,
-          "h": 3272,
-          "d": 1643560514000
-        }
-      ],
-      "html": "<p>It was just 1 day in Paraguay, in its shopping capital, Ciudad del Este.</p>\n"
-    },
-    {
-      "location": {
-        "name": "Argentina",
-        "code": "AR"
-      },
-      "date-start": 1643587200000,
-      "date-end": 1644192000000,
-      "title": "Travel to Argentina",
-      "importance": 1,
-      "tags": [
-        "travel",
-        "photography"
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
-      "media": [
-        {
-          "caption": "A week in Argentina! In South America, it was the country I liked the most.",
-          "src": "/content/img/auto/8a0b980e7c3c2b47.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/8a0b980e7c3c2b47.thumbnail.jpg",
-          "w": 5464,
-          "h": 3640,
-          "d": 1643740888000
-        }
-      ],
-      "html": "<p>A week in Argentina! In South America, it was the country I liked the most.</p>\n"
-    },
-    {
-      "location": {
-        "name": "Uruguay",
-        "code": "UY"
-      },
-      "date-start": 1644105600000,
-      "date-end": 1644192000000,
-      "title": "Travel to Uruguay",
-      "importance": 1,
-      "tags": [
-        "travel",
-        "photography"
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
-      "media": [
-        {
-          "caption": "A few days in Uruguay. Cloudy but a very interesting experience.",
-          "src": "/content/img/auto/f14463fcb362844c.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/f14463fcb362844c.thumbnail.jpg",
-          "w": 21290,
-          "h": 3360,
-          "d": 1644140870000
-        }
-      ],
-      "html": "<p>A few days in Uruguay. Cloudy but a very interesting experience.</p>\n"
-    },
-    {
-      "location": {
-        "name": "Peru",
-        "code": "PE"
-      },
-      "date-start": 1644192000000,
-      "date-end": 1645228800000,
-      "title": "Travel to Peru",
-      "importance": 1,
-      "tags": [
-        "travel",
-        "photography"
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
-      "media": [
-        {
-          "caption": "Two weeks in Peru - such a fantastic journey!",
-          "src": "/content/img/auto/83122aee129fe0e0.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/83122aee129fe0e0.thumbnail.jpg",
-          "w": 5464,
-          "h": 3640,
-          "d": 1644326658000
-        },
-        {
-          "caption": "Two weeks in Peru - such a fantastic journey!",
-          "src": "/content/img/auto/7f82dabb1777b7b3.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/7f82dabb1777b7b3.thumbnail.jpg",
-          "w": 5464,
-          "h": 3640,
-          "d": 1644427021000
-        },
-        {
-          "caption": "Two weeks in Peru - such a fantastic journey!",
-          "src": "/content/img/auto/a076f1491e8d1c76.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/a076f1491e8d1c76.thumbnail.jpg",
-          "w": 5464,
-          "h": 3640,
-          "d": 1644488122000
-        },
-        {
-          "caption": "Two weeks in Peru - such a fantastic journey!",
-          "src": "/content/img/auto/0b606dc50047ed33.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/0b606dc50047ed33.thumbnail.jpg",
-          "w": 5464,
-          "h": 3640,
-          "d": 1644489304000
-        },
-        {
-          "caption": "Two weeks in Peru - such a fantastic journey!",
-          "src": "/content/img/auto/2ce05fbd54ccee4b.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/2ce05fbd54ccee4b.thumbnail.jpg",
-          "w": 5464,
-          "h": 3640,
-          "d": 1644748945000
-        },
-        {
-          "caption": "Two weeks in Peru - such a fantastic journey!",
-          "src": "/content/img/auto/7cde2a9a79375547.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/7cde2a9a79375547.thumbnail.jpg",
-          "w": 5464,
-          "h": 3640,
-          "d": 1644749128000
-        }
-      ],
-      "html": "<p>Two weeks in Peru - such a fantastic journey!</p>\n"
-    },
-    {
-      "location": {
-        "name": "Panama",
-        "code": "PA"
-      },
-      "date-start": 1645228800000,
-      "date-end": 1645315200000,
-      "title": "Travel to Panama",
-      "importance": 1,
-      "tags": [
-        "travel",
-        "photography"
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
-      "media": [
-        {
-          "caption": "We had an overnight layover in Panama City. A unique fast-pacing place, while relatively expensive too.",
-          "src": "/content/img/auto/0dfcdfded92bd01e.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/0dfcdfded92bd01e.thumbnail.jpg",
-          "w": 22799,
-          "h": 3301,
-          "d": 1645353394000
-        }
-      ],
-      "html": "<p>We had an overnight layover in Panama City. A unique fast-pacing place, while relatively expensive too.</p>\n"
-    },
-    {
-      "location": {
-        "name": "Colombia",
-        "code": "CO"
-      },
-      "date-start": 1645315200000,
-      "date-end": 1645833600000,
-      "title": "Travel to Colombia",
-      "importance": 1,
-      "tags": [
-        "travel",
-        "photography"
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
-      "html": "<p>That&#39;s the second time I come to Colombia, now in a group of 8 IT specialists.</p>\n<p>Fun fact: there are 2 major cellphone carriers. This time I purchased another carrier\nfrom what it was a year ago. And it turned out that I just wasted my money, because my\nphone turned out to be locked to the previous carrier.</p>\n<p>This is the trip during which we learned about Russian invasion to Ukraine...</p>\n"
-    },
-    {
-      "location": {
-        "name": "Colombia",
-        "code": "CO"
-      },
-      "date-start": 1645660800000,
-      "title": "War in Ukraine",
-      "importance": 5,
-      "tags": [
-        "career",
-        "travel"
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
-      "media": [
-        {
-          "caption": "This is a day when Russia decided to invade my home, Ukraine. Missile strikes all over Ukraine,",
-          "src": "/content/img/auto/d7f26b71c68b5c6f.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/d7f26b71c68b5c6f.thumbnail.jpg",
-          "w": 1024,
-          "h": 683
-        },
-        {
-          "caption": "This is a day when Russia decided to invade my home, Ukraine. Missile strikes all over Ukraine,",
-          "src": "/content/img/auto/770ff8ff0d352e0d.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/770ff8ff0d352e0d.thumbnail.jpg",
-          "w": 1138,
-          "h": 640
-        },
-        {
-          "caption": "This is a day when Russia decided to invade my home, Ukraine. Missile strikes all over Ukraine,",
-          "src": "/content/img/auto/1592c53083d01733.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/1592c53083d01733.thumbnail.jpg",
-          "w": 630,
-          "h": 360
-        },
-        {
-          "caption": "This is a day when Russia decided to invade my home, Ukraine. Missile strikes all over Ukraine,",
-          "src": "/content/img/auto/bc52b49a4dbd4956.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/bc52b49a4dbd4956.thumbnail.jpg",
-          "w": 1138,
-          "h": 640
-        },
-        {
-          "caption": "This is a day when Russia decided to invade my home, Ukraine. Missile strikes all over Ukraine,",
-          "src": "/content/img/auto/638267802477b649.png",
-          "type": "image",
-          "thumbnail": "/content/img/auto/638267802477b649.thumbnail.png",
-          "w": 1132,
-          "h": 707
-        },
-        {
-          "caption": "This is a day when Russia decided to invade my home, Ukraine. Missile strikes all over Ukraine,",
-          "src": "/content/img/auto/704bb504249f2fd6.png",
-          "type": "image",
-          "thumbnail": "/content/img/auto/704bb504249f2fd6.thumbnail.png",
-          "w": 1024,
-          "h": 576
-        },
-        {
-          "caption": "This is a day when Russia decided to invade my home, Ukraine. Missile strikes all over Ukraine,",
-          "src": "/content/img/auto/c23a4e7d92420c98.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/c23a4e7d92420c98.thumbnail.jpg",
-          "w": 1920,
-          "h": 1080
-        },
-        {
-          "caption": "This is a day when Russia decided to invade my home, Ukraine. Missile strikes all over Ukraine,",
-          "src": "/content/img/auto/59e58ea4d43a631a.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/59e58ea4d43a631a.thumbnail.jpg",
-          "w": 1170,
-          "h": 540
-        },
-        {
-          "caption": "This is a day when Russia decided to invade my home, Ukraine. Missile strikes all over Ukraine,",
-          "src": "/content/img/auto/7e75c0d1f53edb1d.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/7e75c0d1f53edb1d.thumbnail.jpg",
-          "w": 1182,
-          "h": 665
-        },
-        {
-          "caption": "This is a day when Russia decided to invade my home, Ukraine. Missile strikes all over Ukraine,",
-          "src": "/content/img/auto/9db01b7e7bae6385.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/9db01b7e7bae6385.thumbnail.jpg",
-          "w": 1182,
-          "h": 665
-        }
-      ],
-      "html": "<p>This is a day when Russia decided to invade my home, Ukraine. Missile strikes all over Ukraine,\nin all cities, Russian troops are attacking all across Eastern Ukrainian land border.</p>\n<p>Russia not being happy with the presence of independent Ukraine is a long story. But long story\nshort, from my point of view, last 2-3 years before the war, with our new president Zelensky were\namazing years for Ukraine. At the time of invasion, just in 2-3 years after Zalensky stepped in:</p>\n<ul>\n<li>We&#39;ve got an absolutely amazing <a target=\"_blank\" href=\"https://diia.gov.ua/\">Diia web portal</a> and a mobile app, which we call &quot;digital government&quot;. Literally your passport, driving license etc is packed in this app, along with hundreds of government services.</li>\n<li><a target=\"_blank\" href=\"https://city.diia.gov.ua/\">Diia city</a>, which is the recently well-worked through tax system for small and big IT companies. 5-9% tax system, many perks etc - all to attract business and make Ukraine the best-in-class IT hub, which it already is for Ukrainians.</li>\n<li>Various infrastructure and people improvements. New things are being built all around the country.</li>\n</ul>\n<p>And exactly at this stage of an amazing growth, Russia decided to grab some Ukrainian territories again,\nassault cities and murder people, kill civilian infrastructure, steal food and lands.</p>\n<p>We will not forget. We will not forgive. We need your help to kick the Putin&#39;s ass off Ukraine faster!</p>\n<ul>\n<li><a target=\"_blank\" href=\"https://uahelp.monobank.ua/\">Easy one-click donations (Google Pay, Apple Pay, bank card)</a></li>\n<li><a target=\"_blank\" href=\"https://u24.gov.ua/\">United24 by President of Ukraine - aid to Ukraine</a></li>\n<li><a target=\"_blank\" href=\"https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi\">Official donations to Ukraine by National Bank</a></li>\n<li><a target=\"_blank\" href=\"https://twitter.com/Ukraine/status/1497594592438497282\">Donate to Ukrainian crypto funds</a></li>\n</ul>\n"
-    },
-    {
-      "location": {
-        "name": "Saudi Arabia",
-        "code": "SA"
-      },
-      "date-start": 1645920000000,
-      "date-end": 1646870400000,
-      "title": "Teaching in Saudi Arabia's hospitals",
-      "importance": 3,
-      "tags": [
-        "travel",
-        "photography",
-        "teaching"
-      ],
-      "media": [
-        {
-          "caption": "Riyadh",
-          "src": "/content/img/auto/8e283c8e6bf862d9.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/8e283c8e6bf862d9.thumbnail.jpg",
-          "w": 18553,
-          "h": 3313,
-          "d": 1646772589000
-        }
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
-      "html": "<p>Saudi Arabia is a very unique country. I was pleased to come here on behalf of <a target=\"_blank\" href=\"https://intersystems.com/\">InterSystems</a>\nto conduct a few courses for local groups at:</p>\n<ul>\n<li><a target=\"_blank\" href=\"https://goo.gl/maps/3Nm7FYvdF1uExFN29\">International Medical Center Hospital, Jeddah</a></li>\n<li><a target=\"_blank\" href=\"https://goo.gl/maps/1mrnMxhdaeTnKDSY6\">Security Forces Hospital, Riyadh</a></li>\n</ul>\n<p>This was a quick course for database-related technology.</p>\n"
-    },
-    {
-      "location": {
-        "name": "Nepal",
-        "code": "NP"
-      },
-      "date-start": 1646870400000,
-      "date-end": 1648857600000,
-      "title": "Travel to Nepal",
-      "importance": 1,
-      "tags": [
-        "travel",
-        "photography"
-      ],
-      "media": [
-        {
-          "caption": "A lake in Pokhara",
-          "src": "/content/img/auto/c1d58d30a02e513c.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/c1d58d30a02e513c.thumbnail.jpg",
-          "w": 23080,
-          "h": 3327,
-          "d": 1647796735000
-        }
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
-      "html": "<p>Nepal is one of the most lovely countries I&#39;ve visited.</p>\n"
-    },
-    {
-      "location": {
-        "name": "India",
-        "code": "IN"
-      },
-      "date-start": 1648857600000,
-      "date-end": 1649116800000,
-      "title": "A weekend in India",
-      "importance": 1,
-      "tags": [
-        "travel",
-        "photography"
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
-      "media": [
-        {
-          "caption": "I visit India for the 2nd time, this time going to Taj Mahal. Unfortunately I was in",
-          "src": "/content/img/auto/54cd5e4b024514f2.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/54cd5e4b024514f2.thumbnail.jpg",
-          "w": 26595,
-          "h": 3388,
-          "d": 1649068190000
-        }
-      ],
-      "html": "<p>I visit India for the 2nd time, this time going to Taj Mahal. Unfortunately I was in\nhurry and made only a panorama of Delhi! :)</p>\n"
-    },
-    {
-      "location": {
-        "name": "Sri Lanka",
-        "code": "LK"
-      },
-      "date-start": 1649116800000,
-      "title": "Travel to Sri Lanka",
-      "importance": 1,
-      "tags": [
-        "travel",
-        "photography"
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
-      "media": [
-        {
-          "caption": "Sri Lanka is lovely. However, we made it to Sri Lanka just when local protests were on fire.",
-          "src": "/content/img/auto/4984d304ce773bd4.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/4984d304ce773bd4.thumbnail.jpg",
-          "w": 2912,
-          "h": 3640,
-          "d": 1649523186000
-        },
-        {
-          "caption": "Sri Lanka is lovely. However, we made it to Sri Lanka just when local protests were on fire.",
-          "src": "/content/img/auto/a116dfd6fa541c8c.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/a116dfd6fa541c8c.thumbnail.jpg",
-          "w": 13944,
-          "h": 3486,
-          "d": 1649523961000
-        }
-      ],
-      "html": "<p>Sri Lanka is lovely. However, we made it to Sri Lanka just when local protests were on fire.\nNo lighting for 8 hours a day, 40% of Sri Lankan currency just lost and so on... Though, it\ndidn&#39;t make much difference as for the tourist, except things being even more cheaper around.</p>\n"
-    },
-    {
-      "location": {
-        "name": "Malaysia",
-        "code": "MY"
-      },
-      "date-start": 1651190400000,
-      "date-end": 1652745600000,
-      "title": "Stay at Malaysia",
-      "importance": 1,
-      "tags": [
-        "travel",
-        "photography"
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
-      "media": [
-        {
-          "caption": "Malaysia, and especially Kuala Lumpur, a city where we decided to stay for almost 2 month",
-          "src": "/content/img/auto/6ad536cfeb0c6bc1.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/6ad536cfeb0c6bc1.thumbnail.jpg",
-          "w": 26417,
-          "h": 3391,
-          "d": 1653065017000
-        },
-        {
-          "caption": "Malaysia, and especially Kuala Lumpur, a city where we decided to stay for almost 2 month",
-          "src": "/content/img/auto/b073f3567803a73e.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/b073f3567803a73e.thumbnail.jpg",
-          "w": 2912,
-          "h": 3640,
-          "d": 1653064897000
-        },
-        {
-          "caption": "Malaysia, and especially Kuala Lumpur, a city where we decided to stay for almost 2 month",
-          "src": "/content/img/auto/c76bb4d9c4d5255c.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/c76bb4d9c4d5255c.thumbnail.jpg",
-          "w": 25234,
-          "h": 3365,
-          "d": 1653758625000
-        },
-        {
-          "caption": "Malaysia, and especially Kuala Lumpur, a city where we decided to stay for almost 2 month",
-          "src": "/content/img/auto/995ae310b334f9fe.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/995ae310b334f9fe.thumbnail.jpg",
-          "w": 2912,
-          "h": 3640,
-          "d": 1654449131000
-        }
-      ],
-      "html": "<p>Malaysia, and especially Kuala Lumpur, a city where we decided to stay for almost 2 month\npersonally impressed me. This is the best life quality/price city I&#39;ve seen in quite a while.</p>\n<p>Imagine living in modern 2-room family apartment in the complex with pools, saunas and gym\nfor just $30/night. It&#39;s real! To add, the city is clean and developing fast. I have an\nimpression that around 30% of buildings around are in construction.</p>\n<p>Moreover, Malaysia has no issues with electronics. Apple, Google - all known brands are here\nand are sold with reasonable prices. Same for food.</p>\n"
-    },
-    {
-      "location": {
-        "name": "Singapore",
-        "code": "SG"
-      },
-      "date-start": 1653091200000,
-      "date-end": 1653264000000,
-      "title": "Travel to Singapore",
-      "importance": 1,
-      "tags": [
-        "travel",
-        "photography"
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
-      "media": [
-        {
-          "caption": "Singapore was an unexpectedly longer stop in our world journey. We planned to go to Indonesia,",
-          "src": "/content/img/auto/6315bad3dbf113ec.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/6315bad3dbf113ec.thumbnail.jpg",
-          "w": 23005,
-          "h": 3414,
-          "d": 1653177220000
-        }
-      ],
-      "html": "<p>Singapore was an unexpectedly longer stop in our world journey. We planned to go to Indonesia,\nbut unfortunately just during our layover in Singapore, it turned our we can&#39;t travel to it and\nwe need a visa. So, we decided to go back to Malaysia instead and complete a bunch of things we\ndidn&#39;t finish there :) A short 2-day layover in Singapore was enough to see the most of it.</p>\n"
-    },
-    {
-      "location": {
-        "name": "Australia",
-        "code": "AU"
-      },
-      "date-start": 1655424000000,
-      "date-end": 1657324800000,
-      "title": "Stay in Australia",
-      "importance": 1,
-      "tags": [
-        "travel",
-        "photography"
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
-      "media": [
-        {
-          "caption": "Australia is big and really cool (and really expensive :P). One of the top countries",
-          "src": "/content/img/auto/54c9da20029878f5.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/54c9da20029878f5.thumbnail.jpg",
-          "w": 14907,
-          "h": 2719,
-          "d": 1655654011000
-        }
-      ],
-      "html": "<p>Australia is big and really cool (and really expensive :P). One of the top countries\nI&#39;ve visited, and definitely one of the greatest places to live in.</p>\n<p>We&#39;re staying by around a week in all 3 major cities:</p>\n<ul>\n<li>Sydney</li>\n<li>Gold Coast</li>\n<li>Melbourne</li>\n</ul>\n"
-    },
-    {
-      "location": {
-        "name": "Thailand",
-        "code": "TH"
-      },
-      "date-start": 1657411200000,
-      "date-end": 1658880000000,
-      "title": "Stay at Phuket, Thailand",
-      "importance": 1,
-      "tags": [
-        "travel",
-        "photography"
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
-      "html": "<p>It&#39;s the second time I come to Thailand, this time exclusively to Phuket.</p>\n"
-    },
-    {
-      "date-start": 1658275200000,
-      "title": "DeCash Send Release - Stablecoins!",
-      "importance": 4,
-      "tags": [
-        "career"
-      ],
-      "media": [
-        {
-          "src": "https://www.youtube-nocookie.com/embed/I6d7idE2zhs",
-          "caption": "StableStake and DeCash Wallet demo",
-          "type": "youtube",
-          "thumbnail": "https://img.youtube.com/vi/I6d7idE2zhs/mqdefault.jpg",
-          "link": "https://www.youtube.com/watch?v=I6d7idE2zhs",
-          "w": 320,
-          "h": 180
-        },
-        {
-          "caption": "As a [CTO](https://decash.com/who-we-are) at [DeCash](https://decash.com), I'm glad to announce we have a release of",
-          "src": "/content/img/auto/6fdc30e8e0766f0a.png",
-          "type": "image",
-          "thumbnail": "/content/img/auto/6fdc30e8e0766f0a.thumbnail.png",
-          "w": 2422,
-          "h": 2082
-        }
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
-      "html": "<p>As a <a target=\"_blank\" href=\"https://decash.com/who-we-are\">CTO</a> at <a target=\"_blank\" href=\"https://decash.com\">DeCash</a>, I&#39;m glad to announce we have a release of\nour own stablecoin and the UI to manage it, <a target=\"_blank\" href=\"https://send.decash.com\">send.decash.com</a>. The technical part of it was\npolished really well and, comparing to other stablecoins, offers:</p>\n<ul>\n<li>Paying fees in the transaction currency. No more &quot;Ether&quot; or any other currency needed except DeCash tokens to manage them.</li>\n<li>Lowest possible fees, just $0.01 per blockchain action.</li>\n<li>Quick finality of the transaction: just 3 seconds on average.</li>\n<li>Full native smart contract language support. Writing smart contracts with TEAL, Algorand&#39;s smart contract language.</li>\n</ul>\n<p>You can actually play yourself with the UI and see how it works, just in a few simple steps:</p>\n<ol>\n<li>Go to <a target=\"_blank\" href=\"https://send.decash.com\">send.decash.com</a>.</li>\n<li>Sign in with any of the suggested methods. The fastest one would be MyAlgoWallet or Pera wallet, if you want a mobile wallet.</li>\n<li>Get some <a target=\"_blank\" href=\"https://send.preprod.decash.com/deposit/free-tokens\">free testnet tokens</a> by clicking &quot;Get&quot; button at the top of the UI.</li>\n<li>You can then send some testnet tokens to your own or other account, like <code>PLD7Y5SMV73434X23Z35JHIYWKOIHNMUAX3B4KE3SCEJN7FB3KT6FZWZGU</code>.</li>\n</ol>\n"
-    },
-    {
-      "location": {
-        "name": "Cambodia",
-        "code": "KH"
-      },
-      "date-start": 1658880000000,
-      "date-end": 1659657600000,
-      "title": "Stay in Cambodia",
-      "importance": 1,
-      "tags": [
-        "travel",
-        "photography"
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
-      "media": [
-        {
-          "caption": "Cambodia isn't that advanced as Dubai, Singapore, Australia... But it has a nice local vibe,",
-          "src": "/content/img/auto/c27e8b1375df2e91.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/c27e8b1375df2e91.thumbnail.jpg",
-          "w": 17936,
-          "h": 3474,
-          "d": 1659186903000
-        }
-      ],
-      "html": "<p>Cambodia isn&#39;t that advanced as Dubai, Singapore, Australia... But it has a nice local vibe,\nand definitely has things to see and do. We came here to see Angkor Wat, the world&#39;s most famous\n&quot;Wat&quot; :)</p>\n<p>This is a cash country, you can be a millionaire here. Prices though are relatively the same as in\nother countries nearby.</p>\n"
-    },
-    {
-      "location": {
-        "name": "Georgia",
-        "code": "GE"
-      },
-      "date-start": 1660003200000,
-      "date-end": 1661472000000,
-      "title": "Stay at Georgia",
-      "importance": 1,
-      "tags": [
-        "travel",
-        "photography"
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
-      "html": "<p>It&#39;s the second time I come to Georgia, this time to Tbilisi and Batumi.</p>\n"
-    },
-    {
-      "location": {
-        "name": "Lithuania",
-        "code": "LT"
-      },
-      "date-start": 1662940800000,
-      "date-end": 1663113600000,
-      "title": "Stay at Kaunas, Lithuania",
-      "importance": 1,
-      "tags": [
-        "travel",
-        "photography"
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
-      "media": [
-        {
-          "caption": "Kaunas is a small city in the central Lithuania. I decided to run through 4 near-Baltic sea",
-          "src": "/content/img/auto/361c6f26c70352aa.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/361c6f26c70352aa.thumbnail.jpg",
-          "w": 16320,
-          "h": 3400,
-          "d": 1663123216000
-        }
-      ],
-      "html": "<p>Kaunas is a small city in the central Lithuania. I decided to run through 4 near-Baltic sea\ncountries before the Winter starts and see how they live.</p>\n<p>Kaunas was neat. Rainy, it didn&#39;t have much people on streets or shops: all were half-to-completely\nempty. In the center, I met maybe 2-3 tourists like myself.</p>\n"
-    },
-    {
-      "location": {
-        "name": "Finland",
-        "code": "FI"
-      },
-      "date-start": 1663113600000,
-      "title": "One day at Helsinki, Finland",
-      "importance": 1,
-      "tags": [
-        "travel",
-        "photography"
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
-      "media": [
-        {
-          "caption": "Helsinki was my quick stopover with the main goal to experience cruise for the first time in",
-          "src": "/content/img/auto/0d61da845cf59184.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/0d61da845cf59184.thumbnail.jpg",
-          "w": 17779,
-          "h": 2700,
-          "d": 1663208248000
-        }
-      ],
-      "html": "<p>Helsinki was my quick stopover with the main goal to experience cruise for the first time in\nmy life. The cruise from Helsinki to Tallin takes just 2.5 hours, however I had an option to\nstay in the cabin over the night.</p>\n<p>Excited!</p>\n"
-    },
-    {
-      "location": {
-        "name": "Estonia",
-        "code": "EE"
-      },
-      "date-start": 1663200000000,
-      "date-end": 1663545600000,
-      "title": "Stay in Tallin, Estonia",
-      "importance": 1,
-      "tags": [
-        "travel",
-        "photography"
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
-      "media": [
-        {
-          "caption": "My first time in Estonia. My very first impression is: central Estonia looks like Prague!",
-          "src": "/content/img/auto/8bb52a7ba0032841.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/8bb52a7ba0032841.thumbnail.jpg",
-          "w": 17691,
-          "h": 2721,
-          "d": 1663468783000
-        }
-      ],
-      "html": "<p>My first time in Estonia. My very first impression is: central Estonia looks like Prague!\nVery populated, active, live and has these old buildings sometimes with red roofs.</p>\n"
-    },
-    {
-      "location": {
-        "name": "Latvia",
-        "code": "LV"
-      },
-      "date-start": 1663545600000,
-      "date-end": 1663804800000,
-      "title": "Stay in Riga, Latvia",
-      "importance": 1,
-      "tags": [
-        "travel",
-        "photography"
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
-      "media": [
-        {
-          "caption": "Neat compact city Riga. It was raining almost all the time during my stay, so I decided to took",
-          "src": "/content/img/auto/435ebb5bb4eb0c2a.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/435ebb5bb4eb0c2a.thumbnail.jpg",
-          "w": 17712,
-          "h": 3448,
-          "d": 1663824671000
-        }
-      ],
-      "html": "<p>Neat compact city Riga. It was raining almost all the time during my stay, so I decided to took\nsome pictures at night :D Actually, very attractive!</p>\n"
-    },
-    {
-      "location": {
-        "name": "United Kingdom",
-        "code": "UK"
-      },
-      "date-start": 1666742400000,
-      "title": "Talk at the University of Surrey",
-      "importance": 4,
-      "tags": [
-        "teaching"
-      ],
-      "media": [
-        {
-          "src": "https://www.youtube-nocookie.com/embed/NRxI2EZkmEE",
-          "caption": "Blockchain talk at University of Surrey - Q&A",
-          "type": "youtube",
-          "thumbnail": "https://img.youtube.com/vi/NRxI2EZkmEE/mqdefault.jpg",
-          "link": "https://www.youtube.com/watch?v=NRxI2EZkmEE",
-          "w": 320,
-          "h": 180
-        },
-        {
-          "caption": "It was a great pleasure to be invited to talk at the University of Surrey, UK. It was a 1,5-hour talk with Q&A for graduating students in crypto.",
-          "src": "/content/img/auto/d7d63075dcae8ec9.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/d7d63075dcae8ec9.thumbnail.jpg",
-          "w": 1987,
-          "h": 1118
-        }
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
-      "html": "<p>It was a great pleasure to be invited to talk at the University of Surrey, UK. It was a 1,5-hour talk with Q&amp;A for graduating students in crypto.</p>\n<p>Unfortunately the presentation itself wasn&#39;t recorded properly and was lost permanently :/ But what wasn&#39;t lost is the Q&amp;A session at the end, which is linked down below :)</p>\n<p>The topic of my presentation was:</p>\n<ul>\n<li>What is it like to be a crypto company?</li>\n</ul>\n<p>I talked through past experiences in multiple crypto companies I worked in, their success and failures, blockchian power and challenges at that time.</p>\n<p>Special thank you to Kirill Shakhnov for inviting me to speak at the University of Surrey (UK) for graduating students of &quot;Blockchain &amp; Cryptocurrencies&quot; course.</p>\n"
-    },
-    {
-      "location": {
-        "name": "Maldives",
-        "code": "MV"
-      },
-      "date-start": 1671926400000,
-      "date-end": 1673654400000,
-      "title": "Maldives",
-      "importance": 1,
-      "tags": [
-        "travel",
-        "photography"
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2022",
-      "media": [
-        {
-          "caption": "Maldives is a very popular honeymoon destination, along with the one having the most",
-          "src": "/content/img/auto/c024f4c36bb2eb1a.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/c024f4c36bb2eb1a.thumbnail.jpg",
-          "w": 1535,
-          "h": 2729,
-          "d": 1672226725000
-        }
-      ],
-      "html": "<p>Maldives is a very popular honeymoon destination, along with the one having the most\nexpensive over-water hotels in the world.</p>\n<p>This is also the first long overseas destination where I didn&#39;t take my drone :)</p>\n"
-    },
-    {
-      "location": {
-        "name": "Germany",
-        "code": "DE"
-      },
-      "date-start": 1675382400000,
-      "date-end": 1675641600000,
-      "title": "Weekend in Germany",
-      "importance": 1,
-      "tags": [
-        "travel",
-        "photography"
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2023",
-      "media": [
-        {
-          "caption": "A quick weekend in Germany visiting our relatives - Ukrainian refugees.",
-          "src": "/content/img/auto/803c5aa40aba87ee.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/803c5aa40aba87ee.thumbnail.jpg",
-          "w": 2272,
-          "h": 2841,
-          "d": 1675553289000
-        },
-        {
-          "caption": "A quick weekend in Germany visiting our relatives - Ukrainian refugees.",
-          "src": "/content/img/auto/f893d9861c1df4aa.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/f893d9861c1df4aa.thumbnail.jpg",
-          "w": 12087,
-          "h": 2519,
-          "d": 1675557346000
-        },
-        {
-          "caption": "A quick weekend in Germany visiting our relatives - Ukrainian refugees.",
-          "src": "/content/img/auto/7bd9a8a978041394.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/7bd9a8a978041394.thumbnail.jpg",
-          "w": 3024,
-          "h": 4032,
-          "d": 1675658732000
-        },
-        {
-          "caption": "A quick weekend in Germany visiting our relatives - Ukrainian refugees.",
-          "src": "/content/img/auto/0c18095940792964.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/0c18095940792964.thumbnail.jpg",
-          "w": 17692,
-          "h": 3424,
-          "d": 1675659200000
-        }
-      ],
-      "html": "<p>A quick weekend in Germany visiting our relatives - Ukrainian refugees.</p>\n"
     }
   ],
-  "lastUpdateAt": 1677018617811
+  "lastUpdateAt": 1677019487781
 }
