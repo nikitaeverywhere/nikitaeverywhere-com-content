@@ -117,7 +117,7 @@
     {
       "icon": "solidity",
       "caption": "Blockchain",
-      "description": "Architecture and consulting for Ethereum and other decentralized platforms"
+      "description": "System design & consulting for Ethereum, EVM and other decentralized platforms"
     },
     {
       "icon": "gcloud",
@@ -133,6 +133,11 @@
       "icon": "git",
       "caption": "Full stack software development",
       "description": "Full stack web, desktop or mobile development"
+    },
+    {
+      "icon": "pen",
+      "caption": "Product Ownership or Technical Ownership",
+      "description": "Helping in ramping up or leading great technical products and teams"
     },
     {
       "icon": "teacher",
