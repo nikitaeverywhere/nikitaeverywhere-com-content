@@ -3,3 +3,4 @@
 /ops/env/local.env
 /build
 node_modules
+.DS_Store
