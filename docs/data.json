@@ -588,6 +588,10 @@
       "name": "Italy"
     },
     {
+      "name": "Jordan",
+      "code": "JO"
+    },
+    {
       "name": "Latvia",
       "code": "LV"
     },
@@ -2425,60 +2429,6 @@
         }
       ],
       "html": "<p>Maldives is a very popular honeymoon destination, along with the one having the most\nexpensive over-water hotels in the world.</p>\n<p>This is also the first long overseas destination where I didn&#39;t take my drone :)</p>\n"
-    },
-    {
-      "location": {
-        "name": "Germany",
-        "code": "DE"
-      },
-      "date-start": 1675382400000,
-      "date-end": 1675641600000,
-      "title": "Weekend in Germany",
-      "importance": 1,
-      "tags": [
-        "travel",
-        "photography"
-      ],
-      "fromRepo": "ZitRos/nikita-tk-timeline-2023",
-      "media": [
-        {
-          "caption": "A quick weekend in Germany visiting our relatives - Ukrainian refugees.",
-          "src": "/content/img/auto/803c5aa40aba87ee.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/803c5aa40aba87ee.thumbnail.jpg",
-          "w": 2272,
-          "h": 2841,
-          "d": 1675553289000
-        },
-        {
-          "caption": "A quick weekend in Germany visiting our relatives - Ukrainian refugees.",
-          "src": "/content/img/auto/f893d9861c1df4aa.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/f893d9861c1df4aa.thumbnail.jpg",
-          "w": 12087,
-          "h": 2519,
-          "d": 1675557346000
-        },
-        {
-          "caption": "A quick weekend in Germany visiting our relatives - Ukrainian refugees.",
-          "src": "/content/img/auto/7bd9a8a978041394.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/7bd9a8a978041394.thumbnail.jpg",
-          "w": 3024,
-          "h": 4032,
-          "d": 1675658732000
-        },
-        {
-          "caption": "A quick weekend in Germany visiting our relatives - Ukrainian refugees.",
-          "src": "/content/img/auto/0c18095940792964.jpg",
-          "type": "image",
-          "thumbnail": "/content/img/auto/0c18095940792964.thumbnail.jpg",
-          "w": 17692,
-          "h": 3424,
-          "d": 1675659200000
-        }
-      ],
-      "html": "<p>A quick weekend in Germany visiting our relatives - Ukrainian refugees.</p>\n"
     },
     {
       "date-start": 1054252800000,
@@ -7894,7 +7844,88 @@
       ],
       "fromRepo": "ZitRos/nikita-tk-timeline-2020",
       "html": "<p>Photos, panoramas and videos taken in Ukraine by Nikita Savchenko</p>\n"
+    },
+    {
+      "location": {
+        "name": "Germany",
+        "code": "DE"
+      },
+      "date-start": 1675382400000,
+      "date-end": 1675641600000,
+      "title": "Weekend in Germany",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2023",
+      "media": [
+        {
+          "caption": "A quick weekend in Germany visiting our relatives - Ukrainian refugees.",
+          "src": "/content/img/auto/803c5aa40aba87ee.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/803c5aa40aba87ee.thumbnail.jpg",
+          "w": 2272,
+          "h": 2841,
+          "d": 1675553289000
+        },
+        {
+          "caption": "A quick weekend in Germany visiting our relatives - Ukrainian refugees.",
+          "src": "/content/img/auto/f893d9861c1df4aa.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/f893d9861c1df4aa.thumbnail.jpg",
+          "w": 12087,
+          "h": 2519,
+          "d": 1675557346000
+        },
+        {
+          "caption": "A quick weekend in Germany visiting our relatives - Ukrainian refugees.",
+          "src": "/content/img/auto/7bd9a8a978041394.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/7bd9a8a978041394.thumbnail.jpg",
+          "w": 3024,
+          "h": 4032,
+          "d": 1675658732000
+        },
+        {
+          "caption": "A quick weekend in Germany visiting our relatives - Ukrainian refugees.",
+          "src": "/content/img/auto/0c18095940792964.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/0c18095940792964.thumbnail.jpg",
+          "w": 17692,
+          "h": 3424,
+          "d": 1675659200000
+        }
+      ],
+      "html": "<p>A quick weekend in Germany visiting our relatives - Ukrainian refugees.</p>\n"
+    },
+    {
+      "location": {
+        "name": "Jordan",
+        "code": "JO"
+      },
+      "date-start": 1678147200000,
+      "date-end": 1678492800000,
+      "title": "A week in Jordan",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "ZitRos/nikita-tk-timeline-2023",
+      "media": [
+        {
+          "caption": "Jordan was a great destination for our 4-day trip. Route:",
+          "src": "/content/img/auto/0cfa33306c0593cf.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/0cfa33306c0593cf.thumbnail.jpg",
+          "w": 11995,
+          "h": 3749,
+          "d": 1678397748000
+        }
+      ],
+      "html": "<p>Jordan was a great destination for our 4-day trip. Route:</p>\n<ol>\n<li>Start at Amman.</li>\n<li>Next day, fully-day visit to Petra, including Petra by Night show.</li>\n<li>Then move to Wadi Rum sands and spend a night there in a cave :)</li>\n<li>Then dive at Aqaba.</li>\n<li>At the evening, watch sunsets at the Dead Sea.</li>\n<li>Next day, depart from Amman.</li>\n</ol>\n"
     }
   ],
-  "lastUpdateAt": 1677768782093
+  "lastUpdateAt": 1678639860412
 }
