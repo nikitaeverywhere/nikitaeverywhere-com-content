@@ -7922,10 +7922,28 @@
           "w": 11995,
           "h": 3749,
           "d": 1678397748000
+        },
+        {
+          "caption": "Jordan was a great destination for our 4-day trip. Route:",
+          "src": "/content/img/auto/736c61e738ad63f9.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/736c61e738ad63f9.thumbnail.jpg",
+          "w": 17770,
+          "h": 3389,
+          "d": 1678415413000
+        },
+        {
+          "caption": "Jordan was a great destination for our 4-day trip. Route:",
+          "src": "/content/img/auto/ab3621893abf4378.jpg",
+          "type": "image",
+          "thumbnail": "/content/img/auto/ab3621893abf4378.thumbnail.jpg",
+          "w": 16724,
+          "h": 2543,
+          "d": 1678487329000
         }
       ],
       "html": "<p>Jordan was a great destination for our 4-day trip. Route:</p>\n<ol>\n<li>Start at Amman.</li>\n<li>Next day, fully-day visit to Petra, including Petra by Night show.</li>\n<li>Then move to Wadi Rum sands and spend a night there in a cave :)</li>\n<li>Then dive at Aqaba.</li>\n<li>At the evening, watch sunsets at the Dead Sea.</li>\n<li>Next day, depart from Amman.</li>\n</ol>\n"
     }
   ],
-  "lastUpdateAt": 1678639860412
+  "lastUpdateAt": 1679244768096
 }
