@@ -82,7 +82,9 @@ export async function updateSocialNetworksState(data) {
   // GitHub
   if (data.socialNetworkAccounts && data.socialNetworkAccounts.github) {
     try {
-      const result = await fetch(`https://api.github.com/users/zitros`);
+      const result = await fetch(
+        `https://api.github.com/users/nikitaeverywhere`
+      );
       const resultJson = await result.json();
       if (resultJson && resultJson.followers) {
         data.socialNetworks = Object.assign({}, data.socialNetworks, {

@@ -1,5 +1,5 @@
 {
-  "name": "nikita-tk-timeline",
+  "name": "nikitaeverywhere-com-content",
   "version": "1.0.0",
   "description": "Compressed timeline",
   "main": "scripts/build.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ZitRos/nikita-tk-timeline.git"
+    "url": "git+https://github.com/nikitaeverywhere/nikitaeverywhere-com-content.git"
   },
   "keywords": [
     "timeline"
@@ -17,9 +17,9 @@
   "author": "ZitRo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ZitRos/nikita-tk-timeline/issues"
+    "url": "https://github.com/nikitaeverywhere/nikitaeverywhere-com-content/issues"
   },
-  "homepage": "https://github.com/ZitRos/nikita-tk-timeline#readme",
+  "homepage": "https://github.com/nikitaeverywhere/nikitaeverywhere-com-content#readme",
   "dependencies": {
     "esm": "^3.2.25",
     "execa": "^5.1.1",

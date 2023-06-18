@@ -1,3 +1,3 @@
-# [nikita.tk](https://nikita.tk) timeline
+# [nikitaeverywhere.com](https://nikitaeverywhere.com) timeline
 
-An automatic timeline builder for [nikita.tk](https://nikita.tk).
+An automatic timeline builder for [nikitaeverywhere.com](https://nikitaeverywhere.com).

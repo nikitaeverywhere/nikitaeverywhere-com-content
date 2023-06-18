@@ -11,7 +11,6 @@ env:
   ENV: prod
 
 jobs:
-
   build:
     name: Build
     runs-on: ubuntu-latest
@@ -24,18 +23,18 @@ jobs:
           persist-credentials: false
       - uses: actions/setup-node@v1
         with:
-          node-version: '16.x'
+          node-version: "16.x"
       - run: npm install
       - run: npm run build
 
       - name: Configure git
         run: |
-          git remote set-url origin https://${{ env.GIT_USERNAME }}:${{ env.GIT_TOKEN }}@github.com/ZitRos/nikita-tk-timeline.git
+          git remote set-url origin https://${{ env.GIT_USERNAME }}:${{ env.GIT_TOKEN }}@github.com/nikitaeverywhere/nikitaeverywhere-com-content.git
           git config user.name "${{ env.GIT_USERNAME }}"
           git config user.email "${{ env.GIT_USERNAME }}@users.noreply.github.com"
       - name: Update docs
         uses: EndBug/add-and-commit@v9
         with:
-          add: 'docs'
+          add: "docs"
           committer_name: ${{ env.GIT_USERNAME }}
-          message: 'Update static content'
+          message: "Update static content"

@@ -8,7 +8,7 @@ import { writeFile, readFile, readdir, remove } from "fs-extra";
 
 const GIT_USERNAME = process.env.GIT_USERNAME || "zitros-bot";
 const DEST_DIR = "docs";
-const URL_CONTENT_PREFIX = "/content"; // Prefix relative to /docs that is prepended client-side.
+const URL_CONTENT_PREFIX = "/nikitaeverywhere-com-content"; // Prefix relative to /docs that is prepended client-side.
 const TEMP_DIR = "temp";
 const DEST_DIR_IMG = `${DEST_DIR}/img/auto`;
 const REFS_DIR = `${DEST_DIR}/refs`;
@@ -249,5 +249,5 @@ const getGitHubRepos = async () => {
 
   return data
     .map((d) => d.clone_url)
-    .filter((u) => u.includes("nikita-tk-timeline-"));
+    .filter((u) => u.includes("nikitaeverywhere-com-content-"));
 };
