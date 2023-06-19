@@ -1,6 +1,6 @@
 {
   "name": "nikitaeverywhere-com-content",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Compressed timeline",
   "main": "scripts/build.js",
   "scripts": {
