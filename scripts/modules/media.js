@@ -297,7 +297,17 @@ export const processMedia = async ({
                           Math.floor(height / 2 - watermarkHeight / 2)
                         ),
                       });
-                      await image.composite(composite).toFile(imageDestination);
+                      try {
+                        await image
+                          .composite(composite)
+                          .toFile(imageDestination);
+                      } catch (e) {
+                        console.error(
+                          `Error when compositing ${imageDestination}; writing original image...`,
+                          e
+                        );
+                        await image.toFile(imageDestination);
+                      }
                     }
                   } else if (/youtu(?:be\.com|\.be)\//.test(data.src)) {
                     // Process YouTube media
