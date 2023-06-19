@@ -299,6 +299,7 @@ export const processMedia = async ({
                       });
                       try {
                         await image
+                          .clone()
                           .composite(composite)
                           .toFile(imageDestination);
                       } catch (e) {
@@ -307,6 +308,7 @@ export const processMedia = async ({
                           e
                         );
                         await image.toFile(imageDestination);
+                        console.log(">>", imageDestination);
                       }
                     }
                   } else if (/youtu(?:be\.com|\.be)\//.test(data.src)) {
