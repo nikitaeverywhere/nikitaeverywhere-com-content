@@ -59,7 +59,7 @@
     "facebook": 409,
     "twitter": 116,
     "linkedin": 449,
-    "github": 128,
+    "github": 130,
     "youtube": 140,
     "tiktok": 216,
     "stackoverflow": 1133,
@@ -580,6 +580,10 @@
       "code": "HU"
     },
     {
+      "name": "Iceland",
+      "code": "IS"
+    },
+    {
       "code": "IN",
       "name": "India"
     },
@@ -638,6 +642,10 @@
     {
       "name": "Nepal",
       "code": "NP"
+    },
+    {
+      "name": "Norway",
+      "code": "NO"
     },
     {
       "code": "OM",
@@ -1700,114 +1708,6 @@
         }
       ],
       "html": "<p>Maldives is a very popular honeymoon destination, along with the one having the most\nexpensive over-water hotels in the world.</p>\n<p>This is also the first long overseas destination where I didn&#39;t take my drone :)</p>\n"
-    },
-    {
-      "location": {
-        "name": "Germany",
-        "code": "DE"
-      },
-      "date-start": 1675382400000,
-      "date-end": 1675641600000,
-      "title": "Weekend in Germany",
-      "importance": 1,
-      "tags": [
-        "travel",
-        "photography"
-      ],
-      "fromRepo": "nikitaeverywhere/nikitaeverywhere-com-content-2023",
-      "media": [
-        {
-          "caption": "A quick weekend in Germany visiting our relatives - Ukrainian refugees.",
-          "src": "/nikitaeverywhere-com-content/img/auto/803c5aa40aba87ee.jpg",
-          "type": "image",
-          "thumbnail": "/nikitaeverywhere-com-content/img/auto/803c5aa40aba87ee.thumbnail.jpg",
-          "w": 2272,
-          "h": 2841,
-          "d": 1675553289000
-        },
-        {
-          "caption": "A quick weekend in Germany visiting our relatives - Ukrainian refugees.",
-          "src": "/nikitaeverywhere-com-content/img/auto/f893d9861c1df4aa.jpg",
-          "type": "image",
-          "thumbnail": "/nikitaeverywhere-com-content/img/auto/f893d9861c1df4aa.thumbnail.jpg",
-          "w": 12087,
-          "h": 2519,
-          "d": 1675557346000
-        },
-        {
-          "caption": "A quick weekend in Germany visiting our relatives - Ukrainian refugees.",
-          "src": "/nikitaeverywhere-com-content/img/auto/7bd9a8a978041394.jpg",
-          "type": "image",
-          "thumbnail": "/nikitaeverywhere-com-content/img/auto/7bd9a8a978041394.thumbnail.jpg",
-          "w": 3024,
-          "h": 4032,
-          "d": 1675658732000
-        },
-        {
-          "caption": "A quick weekend in Germany visiting our relatives - Ukrainian refugees.",
-          "src": "/nikitaeverywhere-com-content/img/auto/0c18095940792964.jpg",
-          "type": "image",
-          "thumbnail": "/nikitaeverywhere-com-content/img/auto/0c18095940792964.thumbnail.jpg",
-          "w": 17692,
-          "h": 3424,
-          "d": 1675659200000
-        }
-      ],
-      "html": "<p>A quick weekend in Germany visiting our relatives - Ukrainian refugees.</p>\n"
-    },
-    {
-      "location": {
-        "name": "Jordan",
-        "code": "JO"
-      },
-      "date-start": 1678147200000,
-      "date-end": 1678492800000,
-      "title": "A week in Jordan",
-      "importance": 1,
-      "tags": [
-        "travel",
-        "photography"
-      ],
-      "fromRepo": "nikitaeverywhere/nikitaeverywhere-com-content-2023",
-      "media": [
-        {
-          "caption": "Jordan was a great destination for our 4-day trip. Route:",
-          "src": "/nikitaeverywhere-com-content/img/auto/0cfa33306c0593cf.jpg",
-          "type": "image",
-          "thumbnail": "/nikitaeverywhere-com-content/img/auto/0cfa33306c0593cf.thumbnail.jpg",
-          "w": 11995,
-          "h": 3749,
-          "d": 1678397748000
-        },
-        {
-          "caption": "Jordan was a great destination for our 4-day trip. Route:",
-          "src": "/nikitaeverywhere-com-content/img/auto/736c61e738ad63f9.jpg",
-          "type": "image",
-          "thumbnail": "/nikitaeverywhere-com-content/img/auto/736c61e738ad63f9.thumbnail.jpg",
-          "w": 17770,
-          "h": 3389,
-          "d": 1678415413000
-        },
-        {
-          "caption": "Jordan was a great destination for our 4-day trip. Route:",
-          "src": "/nikitaeverywhere-com-content/img/auto/ab3621893abf4378.jpg",
-          "type": "image",
-          "thumbnail": "/nikitaeverywhere-com-content/img/auto/ab3621893abf4378.thumbnail.jpg",
-          "w": 16724,
-          "h": 2543,
-          "d": 1678487329000
-        },
-        {
-          "caption": "Jordan was a great destination for our 4-day trip. Route:",
-          "src": "/nikitaeverywhere-com-content/img/auto/01c336228f3fdcba.jpg",
-          "type": "image",
-          "thumbnail": "/nikitaeverywhere-com-content/img/auto/01c336228f3fdcba.thumbnail.jpg",
-          "w": 12278,
-          "h": 3377,
-          "d": 1678502288000
-        }
-      ],
-      "html": "<p>Jordan was a great destination for our 4-day trip. Route:</p>\n<ol>\n<li>Start at Amman.</li>\n<li>Next day, fully-day visit to Petra, including Petra by Night show.</li>\n<li>Then move to Wadi Rum sands and spend a night there in a cave :)</li>\n<li>Then dive at Aqaba.</li>\n<li>At the evening, watch sunsets at the Dead Sea.</li>\n<li>Next day, depart from Amman.</li>\n</ol>\n"
     },
     {
       "date-start": 1054252800000,
@@ -7964,7 +7864,223 @@
         }
       ],
       "html": "<p>It was just a few days in Hungary with my younger brother.</p>\n"
+    },
+    {
+      "location": {
+        "name": "Germany",
+        "code": "DE"
+      },
+      "date-start": 1675382400000,
+      "date-end": 1675641600000,
+      "title": "Weekend in Germany",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "nikitaeverywhere/nikitaeverywhere-com-content-2023",
+      "media": [
+        {
+          "caption": "A quick weekend in Germany visiting our relatives - Ukrainian refugees.",
+          "src": "/nikitaeverywhere-com-content/img/auto/803c5aa40aba87ee.jpg",
+          "type": "image",
+          "thumbnail": "/nikitaeverywhere-com-content/img/auto/803c5aa40aba87ee.thumbnail.jpg",
+          "w": 2272,
+          "h": 2841,
+          "d": 1675553289000
+        },
+        {
+          "caption": "A quick weekend in Germany visiting our relatives - Ukrainian refugees.",
+          "src": "/nikitaeverywhere-com-content/img/auto/f893d9861c1df4aa.jpg",
+          "type": "image",
+          "thumbnail": "/nikitaeverywhere-com-content/img/auto/f893d9861c1df4aa.thumbnail.jpg",
+          "w": 12087,
+          "h": 2519,
+          "d": 1675557346000
+        },
+        {
+          "caption": "A quick weekend in Germany visiting our relatives - Ukrainian refugees.",
+          "src": "/nikitaeverywhere-com-content/img/auto/7bd9a8a978041394.jpg",
+          "type": "image",
+          "thumbnail": "/nikitaeverywhere-com-content/img/auto/7bd9a8a978041394.thumbnail.jpg",
+          "w": 3024,
+          "h": 4032,
+          "d": 1675658732000
+        },
+        {
+          "caption": "A quick weekend in Germany visiting our relatives - Ukrainian refugees.",
+          "src": "/nikitaeverywhere-com-content/img/auto/0c18095940792964.jpg",
+          "type": "image",
+          "thumbnail": "/nikitaeverywhere-com-content/img/auto/0c18095940792964.thumbnail.jpg",
+          "w": 17692,
+          "h": 3424,
+          "d": 1675659200000
+        }
+      ],
+      "html": "<p>A quick weekend in Germany visiting our relatives - Ukrainian refugees.</p>\n"
+    },
+    {
+      "location": {
+        "name": "Jordan",
+        "code": "JO"
+      },
+      "date-start": 1678147200000,
+      "date-end": 1678492800000,
+      "title": "A week in Jordan",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "nikitaeverywhere/nikitaeverywhere-com-content-2023",
+      "media": [
+        {
+          "caption": "Jordan was a great destination for our 4-day trip. Route:",
+          "src": "/nikitaeverywhere-com-content/img/auto/0cfa33306c0593cf.jpg",
+          "type": "image",
+          "thumbnail": "/nikitaeverywhere-com-content/img/auto/0cfa33306c0593cf.thumbnail.jpg",
+          "w": 11995,
+          "h": 3749,
+          "d": 1678397748000
+        },
+        {
+          "caption": "Jordan was a great destination for our 4-day trip. Route:",
+          "src": "/nikitaeverywhere-com-content/img/auto/736c61e738ad63f9.jpg",
+          "type": "image",
+          "thumbnail": "/nikitaeverywhere-com-content/img/auto/736c61e738ad63f9.thumbnail.jpg",
+          "w": 17770,
+          "h": 3389,
+          "d": 1678415413000
+        },
+        {
+          "caption": "Jordan was a great destination for our 4-day trip. Route:",
+          "src": "/nikitaeverywhere-com-content/img/auto/ab3621893abf4378.jpg",
+          "type": "image",
+          "thumbnail": "/nikitaeverywhere-com-content/img/auto/ab3621893abf4378.thumbnail.jpg",
+          "w": 16724,
+          "h": 2543,
+          "d": 1678487329000
+        },
+        {
+          "caption": "Jordan was a great destination for our 4-day trip. Route:",
+          "src": "/nikitaeverywhere-com-content/img/auto/01c336228f3fdcba.jpg",
+          "type": "image",
+          "thumbnail": "/nikitaeverywhere-com-content/img/auto/01c336228f3fdcba.thumbnail.jpg",
+          "w": 12278,
+          "h": 3377,
+          "d": 1678502288000
+        }
+      ],
+      "html": "<p>Jordan was a great destination for our 4-day trip. Route:</p>\n<ol>\n<li>Start at Amman.</li>\n<li>Next day, fully-day visit to Petra, including Petra by Night show.</li>\n<li>Then move to Wadi Rum sands and spend a night there in a cave :)</li>\n<li>Then dive at Aqaba.</li>\n<li>At the evening, watch sunsets at the Dead Sea.</li>\n<li>Next day, depart from Amman.</li>\n</ol>\n"
+    },
+    {
+      "location": {
+        "name": "Norway",
+        "code": "NO"
+      },
+      "date-start": 1692748800000,
+      "title": "A day in Oslo, Norway",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "nikitaeverywhere/nikitaeverywhere-com-content-2023",
+      "media": [
+        {
+          "caption": "I've got a day-long layover in Oslo, Norway. A very busy day of exploring the city!",
+          "src": "/nikitaeverywhere-com-content/img/auto/83b570125e2d0ef8.jpg",
+          "type": "image",
+          "thumbnail": "/nikitaeverywhere-com-content/img/auto/83b570125e2d0ef8.thumbnail.jpg",
+          "w": 17706,
+          "h": 3374,
+          "d": 1692840221000
+        },
+        {
+          "caption": "I've got a day-long layover in Oslo, Norway. A very busy day of exploring the city!",
+          "src": "/nikitaeverywhere-com-content/img/auto/b31f676316aa9d87.jpg",
+          "type": "image",
+          "thumbnail": "/nikitaeverywhere-com-content/img/auto/b31f676316aa9d87.thumbnail.jpg",
+          "w": 17821,
+          "h": 3473,
+          "d": 1692853115000
+        }
+      ],
+      "html": "<p>I&#39;ve got a day-long layover in Oslo, Norway. A very busy day of exploring the city!</p>\n"
+    },
+    {
+      "location": {
+        "name": "Iceland",
+        "code": "IS"
+      },
+      "date-start": 1692835200000,
+      "date-end": 1693180800000,
+      "title": "Trip to Iceland",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "media": [
+        {
+          "caption": "Northern Lights!",
+          "src": "/nikitaeverywhere-com-content/img/auto/ba95cadbf00139ee.jpg",
+          "rating": 0.95,
+          "type": "image",
+          "thumbnail": "/nikitaeverywhere-com-content/img/auto/ba95cadbf00139ee.thumbnail.jpg",
+          "w": 9520,
+          "h": 6336,
+          "d": 1693099868000
+        },
+        {
+          "caption": "One of the most wanted destinations is done! That was a huge experience.",
+          "src": "/nikitaeverywhere-com-content/img/auto/5e6917e4b31df903.jpg",
+          "type": "image",
+          "thumbnail": "/nikitaeverywhere-com-content/img/auto/5e6917e4b31df903.thumbnail.jpg",
+          "w": 17716,
+          "h": 3407,
+          "d": 1692942881000
+        },
+        {
+          "caption": "One of the most wanted destinations is done! That was a huge experience.",
+          "src": "/nikitaeverywhere-com-content/img/auto/31fa023ff833c527.jpg",
+          "type": "image",
+          "thumbnail": "/nikitaeverywhere-com-content/img/auto/31fa023ff833c527.thumbnail.jpg",
+          "w": 17744,
+          "h": 3398,
+          "d": 1692948657000
+        },
+        {
+          "caption": "One of the most wanted destinations is done! That was a huge experience.",
+          "src": "/nikitaeverywhere-com-content/img/auto/aba0497d7e7e5c51.jpg",
+          "type": "image",
+          "thumbnail": "/nikitaeverywhere-com-content/img/auto/aba0497d7e7e5c51.thumbnail.jpg",
+          "w": 9520,
+          "h": 6336,
+          "d": 1693100641000
+        },
+        {
+          "caption": "One of the most wanted destinations is done! That was a huge experience.",
+          "src": "/nikitaeverywhere-com-content/img/auto/7a5d501eaa4beabd.jpg",
+          "type": "image",
+          "thumbnail": "/nikitaeverywhere-com-content/img/auto/7a5d501eaa4beabd.thumbnail.jpg",
+          "w": 9520,
+          "h": 6336,
+          "d": 1693103193000
+        },
+        {
+          "caption": "One of the most wanted destinations is done! That was a huge experience.",
+          "src": "/nikitaeverywhere-com-content/img/auto/51d7024f820a1615.jpg",
+          "type": "image",
+          "thumbnail": "/nikitaeverywhere-com-content/img/auto/51d7024f820a1615.thumbnail.jpg",
+          "w": 9520,
+          "h": 6336,
+          "d": 1693103202000
+        }
+      ],
+      "fromRepo": "nikitaeverywhere/nikitaeverywhere-com-content-2023",
+      "html": "<p>One of the most wanted destinations is done! That was a huge experience.</p>\n<ul>\n<li>We enjoyed a night with Northern Lights while we didn&#39;t expect it at all. This is an amazing experience.</li>\n<li>Amazing nature views &amp; off-road adventures.</li>\n<li>Hot volcanic springs, for sure.</li>\n<li>Geysers!</li>\n<li>Experienced an off-road car crash with the group (but all turned to be good, it was just about the car which has flipped over).</li>\n<li>Black beaches and Puffins, while they should not technically be there at this time!</li>\n<li>10 hours of driving to see the glacier! 🧊</li>\n</ul>\n"
     }
   ],
-  "lastUpdateAt": 1687176518230
+  "lastUpdateAt": 1693308449970
 }
