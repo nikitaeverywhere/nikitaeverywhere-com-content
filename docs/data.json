@@ -592,6 +592,10 @@
       "name": "Indonesia"
     },
     {
+      "name": "Ireland",
+      "code": "IE"
+    },
+    {
       "code": "IT",
       "name": "Italy"
     },
@@ -638,6 +642,10 @@
     {
       "code": "ME",
       "name": "Montenegro"
+    },
+    {
+      "name": "Morocco",
+      "code": "MA"
     },
     {
       "name": "Nepal",
@@ -8080,7 +8088,97 @@
       ],
       "fromRepo": "nikitaeverywhere/nikitaeverywhere-com-content-2023",
       "html": "<p>One of the most wanted destinations is done! That was a huge experience.</p>\n<ul>\n<li>We enjoyed a night with Northern Lights while we didn&#39;t expect it at all. This is an amazing experience.</li>\n<li>Amazing nature views &amp; off-road adventures.</li>\n<li>Hot volcanic springs, for sure.</li>\n<li>Geysers!</li>\n<li>Experienced an off-road car crash with the group (but all turned to be good, it was just about the car which has flipped over).</li>\n<li>Black beaches and Puffins, while they should not technically be there at this time!</li>\n<li>10 hours of driving to see the glacier! 🧊</li>\n</ul>\n"
+    },
+    {
+      "location": {
+        "name": "Morocco",
+        "code": "MA"
+      },
+      "date-start": 1700956800000,
+      "date-end": 1701129600000,
+      "title": "Trip to Morocco",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "nikitaeverywhere/nikitaeverywhere-com-content-2023",
+      "media": [
+        {
+          "caption": "A few days spent in Morocco. Wonderful and warm country! It was just $100 round-trip from Katowice, Poland during the Winter. Turns out,",
+          "src": "/nikitaeverywhere-com-content/img/auto/851a3f011277ad83.jpg",
+          "type": "image",
+          "thumbnail": "/nikitaeverywhere-com-content/img/auto/851a3f011277ad83.thumbnail.jpg",
+          "w": 4032,
+          "h": 3024,
+          "d": 1701095074000
+        },
+        {
+          "caption": "A few days spent in Morocco. Wonderful and warm country! It was just $100 round-trip from Katowice, Poland during the Winter. Turns out,",
+          "src": "/nikitaeverywhere-com-content/img/auto/560c5a0dc0a4006c.jpg",
+          "type": "image",
+          "thumbnail": "/nikitaeverywhere-com-content/img/auto/560c5a0dc0a4006c.thumbnail.jpg",
+          "w": 3024,
+          "h": 4032,
+          "d": 1701098945000
+        },
+        {
+          "caption": "A few days spent in Morocco. Wonderful and warm country! It was just $100 round-trip from Katowice, Poland during the Winter. Turns out,",
+          "src": "/nikitaeverywhere-com-content/img/auto/d0e45bfb3b31834c.jpg",
+          "type": "image",
+          "thumbnail": "/nikitaeverywhere-com-content/img/auto/d0e45bfb3b31834c.thumbnail.jpg",
+          "w": 3088,
+          "h": 2316,
+          "d": 1701102556000
+        },
+        {
+          "caption": "A few days spent in Morocco. Wonderful and warm country! It was just $100 round-trip from Katowice, Poland during the Winter. Turns out,",
+          "src": "/nikitaeverywhere-com-content/img/auto/6c4e08575d582101.jpg",
+          "type": "image",
+          "thumbnail": "/nikitaeverywhere-com-content/img/auto/6c4e08575d582101.thumbnail.jpg",
+          "w": 4032,
+          "h": 3024,
+          "d": 1701117601000
+        }
+      ],
+      "html": "<p>A few days spent in Morocco. Wonderful and warm country! It was just $100 round-trip from Katowice, Poland during the Winter. Turns out,\nMorocco is great for surfing. Next time surfing is going to be included!</p>\n<p>Guess what was the main thing to see here? Goats on trees! 🤩</p>\n"
+    },
+    {
+      "location": {
+        "name": "Ireland",
+        "code": "IE"
+      },
+      "date-start": 1701388800000,
+      "date-end": 1701648000000,
+      "title": "Trip to Ireland",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "nikitaeverywhere/nikitaeverywhere-com-content-2023",
+      "media": [
+        {
+          "caption": "A short 4-day trip to Ireland with my friends.",
+          "src": "/nikitaeverywhere-com-content/img/auto/ce66c3acd3dc08bb.jpg",
+          "type": "image",
+          "thumbnail": "/nikitaeverywhere-com-content/img/auto/ce66c3acd3dc08bb.thumbnail.jpg",
+          "w": 11841,
+          "h": 2960,
+          "d": 1701488945000
+        },
+        {
+          "caption": "A short 4-day trip to Ireland with my friends.",
+          "src": "/nikitaeverywhere-com-content/img/auto/59f0b53f6859501f.jpg",
+          "type": "image",
+          "thumbnail": "/nikitaeverywhere-com-content/img/auto/59f0b53f6859501f.thumbnail.jpg",
+          "w": 15479,
+          "h": 2764,
+          "d": 1701550067000
+        }
+      ],
+      "html": "<p>A short 4-day trip to Ireland with my friends.</p>\n"
     }
   ],
-  "lastUpdateAt": 1693308449970
+  "lastUpdateAt": 1704658561353
 }
