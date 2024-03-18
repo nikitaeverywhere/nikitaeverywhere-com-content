@@ -8178,7 +8178,34 @@
         }
       ],
       "html": "<p>A short 4-day trip to Ireland with my friends.</p>\n"
+    },
+    {
+      "location": {
+        "name": "Albania",
+        "code": "AL"
+      },
+      "date-start": 1706400000000,
+      "date-end": 1706572800000,
+      "title": "A few days in Albania",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "nikitaeverywhere/nikitaeverywhere-com-content-2024",
+      "media": [
+        {
+          "caption": "It was off-season in Albania. Just for the sake of visiting mountains, we went for a short trip to Kruje - a nice mountainous city.",
+          "src": "/nikitaeverywhere-com-content/img/auto/0f9f2915a2db05dc.jpg",
+          "type": "image",
+          "thumbnail": "/nikitaeverywhere-com-content/img/auto/0f9f2915a2db05dc.thumbnail.jpg",
+          "w": 17791,
+          "h": 3399,
+          "d": 1706667222000
+        }
+      ],
+      "html": "<p>It was off-season in Albania. Just for the sake of visiting mountains, we went for a short trip to Kruje - a nice mountainous city.</p>\n<p>We were almost the only tourists there, but local shops, restaurants and souvenir bazaar was fully operational. Cool!</p>\n"
     }
   ],
-  "lastUpdateAt": 1704658561353
+  "lastUpdateAt": 1710753357652
 }
