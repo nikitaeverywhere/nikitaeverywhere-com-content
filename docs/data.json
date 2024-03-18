@@ -507,6 +507,10 @@
       "name": "Belarus"
     },
     {
+      "name": "Belgium",
+      "code": "BE"
+    },
+    {
       "code": "BA",
       "name": "Bosnia & Herzegovina"
     },
@@ -616,6 +620,10 @@
       "code": "LT"
     },
     {
+      "name": "Luxembourg",
+      "code": "LU"
+    },
+    {
       "code": "MY",
       "name": "Malaysia"
     },
@@ -650,6 +658,10 @@
     {
       "name": "Nepal",
       "code": "NP"
+    },
+    {
+      "name": "Netherlands",
+      "code": "NL"
     },
     {
       "name": "Norway",
@@ -761,6 +773,58 @@
     }
   ],
   "timeline": [
+    {
+      "location": {
+        "name": "Luxembourg",
+        "code": "LU"
+      },
+      "date": 1709596800000,
+      "title": "A day in Luxembourg",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "nikitaeverywhere/nikitaeverywhere-com-content-2024",
+      "media": [
+        {
+          "caption": "Luxembourg city was very gray on the day of my visit, but it made a good impression. Very scenic!",
+          "src": "/nikitaeverywhere-com-content/img/auto/6657f97592165a9e.jpg",
+          "type": "image",
+          "thumbnail": "/nikitaeverywhere-com-content/img/auto/6657f97592165a9e.thumbnail.jpg",
+          "w": 17688,
+          "h": 3159,
+          "d": 1709770032000
+        }
+      ],
+      "html": "<p>Luxembourg city was very gray on the day of my visit, but it made a good impression. Very scenic!</p>\n<p>We also visited popular &quot;caves&quot; titled &quot;Casemates&quot; next to the Luxembourg center, which was quite a unique thing to see.</p>\n"
+    },
+    {
+      "location": {
+        "name": "Netherlands",
+        "code": "NL"
+      },
+      "date": 1709596800000,
+      "title": "Maastricht, Netherlands",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "nikitaeverywhere/nikitaeverywhere-com-content-2024",
+      "media": [
+        {
+          "caption": "Just 1/2 day in Maastricht made me love Netherlands for just one thing I love too: bicycling. It's literally everywhere,",
+          "src": "/nikitaeverywhere-com-content/img/auto/2da8b8b7aaf380a0.jpg",
+          "type": "image",
+          "thumbnail": "/nikitaeverywhere-com-content/img/auto/2da8b8b7aaf380a0.thumbnail.jpg",
+          "w": 17725,
+          "h": 3444,
+          "d": 1709784015000
+        }
+      ],
+      "html": "<p>Just 1/2 day in Maastricht made me love Netherlands for just one thing I love too: bicycling. It&#39;s literally everywhere,\nand the city has the most advanced biking infrastructure I&#39;ve ever seen.</p>\n"
+    },
     {
       "date": 1578355200000,
       "title": "Starting Career at Google",
@@ -8205,7 +8269,34 @@
         }
       ],
       "html": "<p>It was off-season in Albania. Just for the sake of visiting mountains, we went for a short trip to Kruje - a nice mountainous city.</p>\n<p>We were almost the only tourists there, but local shops, restaurants and souvenir bazaar was fully operational. Cool!</p>\n"
+    },
+    {
+      "location": {
+        "name": "Belgium",
+        "code": "BE"
+      },
+      "date-start": 1709510400000,
+      "date-end": 1709683200000,
+      "title": "Quick trip to Belgium",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "nikitaeverywhere/nikitaeverywhere-com-content-2024",
+      "media": [
+        {
+          "caption": "Short weekend-style trips are my favorites when it comes to Europe.",
+          "src": "/nikitaeverywhere-com-content/img/auto/aa409b451cab9096.jpg",
+          "type": "image",
+          "thumbnail": "/nikitaeverywhere-com-content/img/auto/aa409b451cab9096.thumbnail.jpg",
+          "w": 17736,
+          "h": 3435,
+          "d": 1709696994000
+        }
+      ],
+      "html": "<p>Short weekend-style trips are my favorites when it comes to Europe.</p>\n<p>Belgium, and more specifically Brussels, made an impression of the city living its full life. Very live, active, popular.</p>\n<p>Belgium speaks 3 languages!</p>\n"
     }
   ],
-  "lastUpdateAt": 1710753357652
+  "lastUpdateAt": 1710761057160
 }
