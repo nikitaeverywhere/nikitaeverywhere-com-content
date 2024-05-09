@@ -59,7 +59,7 @@
     "facebook": 409,
     "twitter": 116,
     "linkedin": 449,
-    "github": 130,
+    "github": 129,
     "youtube": 140,
     "tiktok": 216,
     "stackoverflow": 1133,
@@ -8296,7 +8296,56 @@
         }
       ],
       "html": "<p>Short weekend-style trips are my favorites when it comes to Europe.</p>\n<p>Belgium, and more specifically Brussels, made an impression of the city living its full life. Very live, active, popular.</p>\n<p>Belgium speaks 3 languages!</p>\n"
+    },
+    {
+      "date-start": 1703289600000,
+      "date-end": 1711929600000,
+      "title": "Level up in finance: completing an advanced trading course",
+      "importance": 3,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "nikitaeverywhere/nikitaeverywhere-com-content-2024",
+      "media": [
+        {
+          "caption": "So I decided to get a deep understanding of a few things:",
+          "src": "/nikitaeverywhere-com-content/img/auto/f37d874ca21cfcea.png",
+          "type": "image",
+          "thumbnail": "/nikitaeverywhere-com-content/img/auto/f37d874ca21cfcea.thumbnail.png",
+          "w": 1268,
+          "h": 1794
+        }
+      ],
+      "html": "<p>So I decided to get a deep understanding of a few things:</p>\n<ul>\n<li>How markets work (all 3: Crypto, Forex and Indexes)</li>\n<li>How traders live and whether the life of a trader is indeed a breeze</li>\n<li>How to perform analysis of markets and what to watch for</li>\n<li>Success and failure stories</li>\n<li>Merciless market rules</li>\n</ul>\n<p>I&#39;ve got all the answers by passing the most fully-packed &quot;Supercharged&quot; course by <a target=\"_blank\" href=\"https://cryptology.school/\">Cryptology</a> - an awesome Ukrainian growing crypto community.</p>\n<p>Trading is definitely not for everyone, and my practice shows that it&#39;s rather a full-time job where you need to be extra patient. However once your net worth builds up, I think having at least basic markets knowledge is a must.</p>\n<p>I practice some trading but continue with my project DataUnlocker as my primary focus. Now I definitely know what needs to be built next! (all existing tools for trading are like from 19s!)</p>\n"
+    },
+    {
+      "location": {
+        "name": "Malta",
+        "code": "MT"
+      },
+      "date-start": 1713657600000,
+      "date-end": 1714348800000,
+      "title": "It's Malta time",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "nikitaeverywhere/nikitaeverywhere-com-content-2024",
+      "media": [
+        {
+          "caption": "A week in Malta for my friend's wedding! This is my second time visiting Malta.",
+          "src": "/nikitaeverywhere-com-content/img/auto/a568b6a7430971a9.jpg",
+          "type": "image",
+          "thumbnail": "/nikitaeverywhere-com-content/img/auto/a568b6a7430971a9.thumbnail.jpg",
+          "w": 17745,
+          "h": 2650,
+          "d": 1714007617000
+        }
+      ],
+      "html": "<p>A week in Malta for my friend&#39;s wedding! This is my second time visiting Malta.</p>\n"
     }
   ],
-  "lastUpdateAt": 1710761057160
+  "lastUpdateAt": 1715282309948
 }
