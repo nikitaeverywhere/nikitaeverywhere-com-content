@@ -59,7 +59,7 @@
     "facebook": 409,
     "twitter": 116,
     "linkedin": 449,
-    "github": 129,
+    "github": 130,
     "youtube": 140,
     "tiktok": 216,
     "stackoverflow": 1133,
@@ -698,6 +698,10 @@
     {
       "code": "RU",
       "name": "Russia"
+    },
+    {
+      "name": "San Marino",
+      "code": "SM"
     },
     {
       "name": "Saudi Arabia",
@@ -8345,7 +8349,34 @@
         }
       ],
       "html": "<p>A week in Malta for my friend&#39;s wedding! This is my second time visiting Malta.</p>\n"
+    },
+    {
+      "location": {
+        "name": "San Marino",
+        "code": "SM"
+      },
+      "date-start": 1715299200000,
+      "date-end": 1715299200000,
+      "title": "A lovely evening at San Marino",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "nikitaeverywhere/nikitaeverywhere-com-content-2024",
+      "media": [
+        {
+          "caption": "San Marino, one of the world's smallest countries, turned to be a country on the mountain with its very top being the old fortress. Gorgeous views form there!",
+          "src": "/nikitaeverywhere-com-content/img/auto/90020fd8119b3395.jpg",
+          "type": "image",
+          "thumbnail": "/nikitaeverywhere-com-content/img/auto/90020fd8119b3395.thumbnail.jpg",
+          "w": 13693,
+          "h": 2739,
+          "d": 1715398677000
+        }
+      ],
+      "html": "<p>San Marino, one of the world&#39;s smallest countries, turned to be a country on the mountain with its very top being the old fortress. Gorgeous views form there!</p>\n"
     }
   ],
-  "lastUpdateAt": 1715282743113
+  "lastUpdateAt": 1715704635475
 }
