@@ -59,7 +59,7 @@
     "facebook": 409,
     "twitter": 116,
     "linkedin": 449,
-    "github": 130,
+    "github": 129,
     "youtube": 140,
     "tiktok": 216,
     "stackoverflow": 1133,
@@ -718,6 +718,10 @@
     {
       "code": "SK",
       "name": "Slovakia"
+    },
+    {
+      "name": "Slovenia",
+      "code": "SI"
     },
     {
       "code": "ZA",
@@ -8376,7 +8380,34 @@
         }
       ],
       "html": "<p>San Marino, one of the world&#39;s smallest countries, turned to be a country on the mountain with its very top being the old fortress. Gorgeous views form there!</p>\n"
+    },
+    {
+      "location": {
+        "name": "Slovenia",
+        "code": "SI"
+      },
+      "date-start": 1715472000000,
+      "date-end": 1715644800000,
+      "title": "Car trip to Slovenia",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "nikitaeverywhere/nikitaeverywhere-com-content-2024",
+      "media": [
+        {
+          "caption": "Slovenia is a very lovely country. We drove it back & forth, I personally loved everything - the nature is great and it is backed up by a solid infrastructure. Such a touristy view, but still.",
+          "src": "/nikitaeverywhere-com-content/img/auto/c9386c5589340446.jpg",
+          "type": "image",
+          "thumbnail": "/nikitaeverywhere-com-content/img/auto/c9386c5589340446.thumbnail.jpg",
+          "w": 13684,
+          "h": 3421,
+          "d": 1715575292000
+        }
+      ],
+      "html": "<p>Slovenia is a very lovely country. We drove it back &amp; forth, I personally loved everything - the nature is great and it is backed up by a solid infrastructure. Such a touristy view, but still.</p>\n"
     }
   ],
-  "lastUpdateAt": 1715704635475
+  "lastUpdateAt": 1719778082196
 }
