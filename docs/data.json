@@ -59,7 +59,7 @@
     "facebook": 409,
     "twitter": 116,
     "linkedin": 449,
-    "github": 129,
+    "github": 133,
     "youtube": 140,
     "tiktok": 216,
     "stackoverflow": 1133,
@@ -694,6 +694,10 @@
     {
       "code": "QA",
       "name": "Qatar"
+    },
+    {
+      "name": "Romania",
+      "code": "RO"
     },
     {
       "code": "RU",
@@ -8407,7 +8411,87 @@
         }
       ],
       "html": "<p>Slovenia is a very lovely country. We drove it back &amp; forth, I personally loved everything - the nature is great and it is backed up by a solid infrastructure. Such a touristy view, but still.</p>\n"
+    },
+    {
+      "location": {
+        "name": "Romania",
+        "code": "RO"
+      },
+      "date-start": 1727222400000,
+      "date-end": 1727654400000,
+      "title": "Trip to Romania",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "nikitaeverywhere/nikitaeverywhere-com-content-2024",
+      "media": [
+        {
+          "caption": "Romania, the country of Dracula, famous Transfăgărășan (the \"most beautiful road in the world\"), outstanding mountains and nice nature overall.",
+          "src": "/nikitaeverywhere-com-content/img/auto/f969326f1afd8926.jpg",
+          "type": "image",
+          "thumbnail": "/nikitaeverywhere-com-content/img/auto/f969326f1afd8926.thumbnail.jpg",
+          "w": 4032,
+          "h": 3024,
+          "d": 1727289783000
+        },
+        {
+          "caption": "Romania, the country of Dracula, famous Transfăgărășan (the \"most beautiful road in the world\"), outstanding mountains and nice nature overall.",
+          "src": "/nikitaeverywhere-com-content/img/auto/d8c7a53192340937.jpg",
+          "type": "image",
+          "thumbnail": "/nikitaeverywhere-com-content/img/auto/d8c7a53192340937.thumbnail.jpg",
+          "w": 4032,
+          "h": 3024,
+          "d": 1727376577000
+        },
+        {
+          "caption": "Romania, the country of Dracula, famous Transfăgărășan (the \"most beautiful road in the world\"), outstanding mountains and nice nature overall.",
+          "src": "/nikitaeverywhere-com-content/img/auto/c2af931095d1c6b6.jpg",
+          "type": "image",
+          "thumbnail": "/nikitaeverywhere-com-content/img/auto/c2af931095d1c6b6.thumbnail.jpg",
+          "w": 3024,
+          "h": 4032,
+          "d": 1727545876000
+        },
+        {
+          "caption": "Romania, the country of Dracula, famous Transfăgărășan (the \"most beautiful road in the world\"), outstanding mountains and nice nature overall.",
+          "src": "/nikitaeverywhere-com-content/img/auto/5746d0b486db8371.jpg",
+          "type": "image",
+          "thumbnail": "/nikitaeverywhere-com-content/img/auto/5746d0b486db8371.thumbnail.jpg",
+          "w": 3024,
+          "h": 4032,
+          "d": 1727634636000
+        }
+      ],
+      "html": "<p>Romania, the country of Dracula, famous Transfăgărășan (the &quot;most beautiful road in the world&quot;), outstanding mountains and nice nature overall.</p>\n<p>This car trip was full of surprises, and my goal to see the bear was still left intact :)</p>\n"
+    },
+    {
+      "location": {
+        "name": "Ukraine",
+        "code": "UA"
+      },
+      "date-start": 1730246400000,
+      "title": "Dr. Nikita Savchenko – Officially a PhD!",
+      "importance": 5,
+      "tags": [
+        "teaching",
+        "study"
+      ],
+      "media": [
+        {
+          "src": "https://www.youtube-nocookie.com/embed/fNT1gMa_BqY",
+          "caption": "Defense recording",
+          "type": "youtube",
+          "thumbnail": "https://img.youtube.com/vi/fNT1gMa_BqY/mqdefault.jpg",
+          "link": "https://www.youtube.com/watch?v=fNT1gMa_BqY",
+          "w": 320,
+          "h": 180
+        }
+      ],
+      "fromRepo": "nikitaeverywhere/nikitaeverywhere-com-content-2024",
+      "html": "<p>On October 30, 2024, I defended my PhD work at the Institute for Information Recording of the National Academy of Sciences of Ukraine. This milestone marked the culmination of years of research and dedication to the field of Information Technology, specifically within Computer Science.</p>\n<p>My thesis, titled &quot;A Method of Decentralizing Knowledge Bases for Decision Support Systems,&quot; explored innovative ways to ease blockchain applications adoption and in particular bring decentralization to knowledge management within decision support systems (DSS). In a world where secure, transparent, and efficient data management is increasingly crucial, my research aimed to contribute scalable, cost-effective solutions that enhance the reliability and transparency of DSS through partial and full decentralization methods.</p>\n<p>I am deeply grateful to my mentors, colleagues, and the academic community who supported me throughout this journey. Completing this work in Ukraine, especially given the current challenges, has made this achievement even more meaningful. I look forward to applying these findings in practical and impactful ways, advancing the field of decentralized technology in real-world applications.</p>\n<p>Thank you to everyone who believed in and supported this journey!</p>\n<p>A few of public artifacts of this research are:</p>\n<ul>\n<li><a target=\"_blank\" href=\"https://github.com/nikitaeverywhere/ethereum-delegated-tx-service\">Transaction delegation service and widget</a></li>\n<li><a target=\"_blank\" href=\"https://www.decash.com/send\">DeCash Send - a platform to send stablecoins without classic network fees</a></li>\n</ul>\n"
     }
   ],
-  "lastUpdateAt": 1719778082196
+  "lastUpdateAt": 1730496639814
 }
