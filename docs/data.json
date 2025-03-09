@@ -507,6 +507,10 @@
       "name": "Austria"
     },
     {
+      "name": "Barbados",
+      "code": "BB"
+    },
+    {
       "code": "BY",
       "name": "Belarus"
     },
@@ -8530,7 +8534,52 @@
         }
       ],
       "html": "<p>Andorra is well-known for shopping and its large high ski area. Just enough for a weekend!</p>\n"
+    },
+    {
+      "location": {
+        "name": "Barbados",
+        "code": "BB"
+      },
+      "date-start": 1739232000000,
+      "date-end": 1739836800000,
+      "title": "A week in Barbados",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "nikitaeverywhere/nikitaeverywhere-com-content-2025",
+      "media": [
+        {
+          "caption": "Who in Europe even thinks of Barbados as a destination?",
+          "src": "/nikitaeverywhere-com-content/img/auto/8ca346e98dece864.jpg",
+          "type": "image",
+          "thumbnail": "/nikitaeverywhere-com-content/img/auto/8ca346e98dece864.thumbnail.jpg",
+          "w": 14000,
+          "h": 4375,
+          "d": 1739486557000
+        },
+        {
+          "caption": "Who in Europe even thinks of Barbados as a destination?",
+          "src": "/nikitaeverywhere-com-content/img/auto/db52f4f53d59cc81.jpg",
+          "type": "image",
+          "thumbnail": "/nikitaeverywhere-com-content/img/auto/db52f4f53d59cc81.thumbnail.jpg",
+          "w": 21811,
+          "h": 6619,
+          "d": 1739568721000
+        },
+        {
+          "caption": "Who in Europe even thinks of Barbados as a destination?",
+          "src": "/nikitaeverywhere-com-content/img/auto/ca113c9d62caa0fc.jpg",
+          "type": "image",
+          "thumbnail": "/nikitaeverywhere-com-content/img/auto/ca113c9d62caa0fc.thumbnail.jpg",
+          "w": 20000,
+          "h": 5000,
+          "d": 1739746206000
+        }
+      ],
+      "html": "<p>Who in Europe even thinks of Barbados as a destination?</p>\n<p>Barbados was a result of the spontaneous decision to go somewhere &quot;very far&quot; from Poland. Indeed, it was over 14 hours of flights and 3 layovers!</p>\n<p>The island was nice, nice nature. Having monkeys just at your villa are so wonderful. Some nature sights and beaches are also worth it all.</p>\n<p>Two things I didn&#39;t like about Barbados is food and the stylishness of places on it. Food (especially vegetables) feels like a typical american low-quality one.\nAnd under stylishness I mean this: when browsing AirBnb to find an apartment in the &quot;medium-to-high&quot; price range, there were pretty no options that I liked. All of them were missing one typical to European thing: the style. All apartments had things caught by your eye to say &quot;nah, who even thinks about the design here&quot;.</p>\n<p>Apart from these issues and quite a high price for all of this (Americas...), the trip was enjoyable.</p>\n"
     }
   ],
-  "lastUpdateAt": 1737831803825
+  "lastUpdateAt": 1741562898288
 }
