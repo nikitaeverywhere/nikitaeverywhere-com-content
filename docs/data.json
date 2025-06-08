@@ -59,7 +59,7 @@
     "facebook": 409,
     "twitter": 116,
     "linkedin": 449,
-    "github": 135,
+    "github": 136,
     "youtube": 140,
     "tiktok": 216,
     "stackoverflow": 1133,
@@ -620,6 +620,10 @@
       "code": "JO"
     },
     {
+      "name": "Kosovo",
+      "code": "XK"
+    },
+    {
       "name": "Latvia",
       "code": "LV"
     },
@@ -676,6 +680,10 @@
       "code": "NL"
     },
     {
+      "name": "North Macedonia",
+      "code": "MK"
+    },
+    {
       "name": "Norway",
       "code": "NO"
     },
@@ -722,6 +730,10 @@
     {
       "name": "Saudi Arabia",
       "code": "SA"
+    },
+    {
+      "name": "Serbia",
+      "code": "RS"
     },
     {
       "code": "SC",
@@ -3090,78 +3102,6 @@
       ],
       "fromRepo": "nikitaeverywhere/nikitaeverywhere-com-content-2024",
       "html": "<p>On October 30, 2024, I defended my PhD work at the Institute for Information Recording of the National Academy of Sciences of Ukraine. This milestone marked the culmination of years of research and dedication to the field of Information Technology, specifically within Computer Science.</p>\n<p>My thesis, titled &quot;A Method of Decentralizing Knowledge Bases for Decision Support Systems&quot;, explored innovative ways to ease blockchain applications adoption and in particular bring decentralization to knowledge management within decision support systems (DSS). In a world where secure, transparent, and efficient data management is increasingly crucial, my research aimed to contribute scalable, cost-effective solutions that enhance the reliability and transparency of DSS through partial and full decentralization methods.</p>\n<p>I am deeply grateful to my mentors, colleagues, and the academic community who supported me throughout this journey. Completing this work in Ukraine, especially given the current challenges, has made this achievement even more meaningful. I look forward to applying these findings in practical and impactful ways, advancing the field of decentralized technology in real-world applications.</p>\n<p>Thank you to everyone who believed in and supported this journey!</p>\n<ul>\n<li><a target=\"_blank\" href=\"https://www.ipri.kiev.ua/events/vidbuvsya-zahist-disertaciyi-savchenka-mikiti-mikolayovicha\">Official news post on my defense</a></li>\n</ul>\n<p>A few of public artifacts of this research are:</p>\n<ul>\n<li><a target=\"_blank\" href=\"https://github.com/nikitaeverywhere/ethereum-delegated-tx-service\">Transaction delegation service and widget</a></li>\n<li><a target=\"_blank\" href=\"https://www.decash.com/send\">DeCash Send - a platform to send stablecoins without classic network fees</a></li>\n</ul>\n"
-    },
-    {
-      "location": {
-        "name": "Andorra",
-        "code": "AD"
-      },
-      "date-start": 1736553600000,
-      "date-end": 1736726400000,
-      "title": "A few days in Andorra",
-      "importance": 1,
-      "tags": [
-        "travel",
-        "photography"
-      ],
-      "fromRepo": "nikitaeverywhere/nikitaeverywhere-com-content-2025",
-      "media": [
-        {
-          "caption": "Andorra is well-known for shopping and its large high ski area. Just enough for a weekend!",
-          "src": "/nikitaeverywhere-com-content/img/auto/90718d8c324a01be.jpg",
-          "type": "image",
-          "thumbnail": "/nikitaeverywhere-com-content/img/auto/90718d8c324a01be.thumbnail.jpg",
-          "w": 20000,
-          "h": 3572,
-          "d": 1736696366000
-        }
-      ],
-      "html": "<p>Andorra is well-known for shopping and its large high ski area. Just enough for a weekend!</p>\n"
-    },
-    {
-      "location": {
-        "name": "Barbados",
-        "code": "BB"
-      },
-      "date-start": 1739232000000,
-      "date-end": 1739836800000,
-      "title": "A week in Barbados",
-      "importance": 1,
-      "tags": [
-        "travel",
-        "photography"
-      ],
-      "fromRepo": "nikitaeverywhere/nikitaeverywhere-com-content-2025",
-      "media": [
-        {
-          "caption": "Who in Europe even thinks of Barbados as a destination?",
-          "src": "/nikitaeverywhere-com-content/img/auto/8ca346e98dece864.jpg",
-          "type": "image",
-          "thumbnail": "/nikitaeverywhere-com-content/img/auto/8ca346e98dece864.thumbnail.jpg",
-          "w": 14000,
-          "h": 4375,
-          "d": 1739486557000
-        },
-        {
-          "caption": "Who in Europe even thinks of Barbados as a destination?",
-          "src": "/nikitaeverywhere-com-content/img/auto/db52f4f53d59cc81.jpg",
-          "type": "image",
-          "thumbnail": "/nikitaeverywhere-com-content/img/auto/db52f4f53d59cc81.thumbnail.jpg",
-          "w": 21811,
-          "h": 6619,
-          "d": 1739568721000
-        },
-        {
-          "caption": "Who in Europe even thinks of Barbados as a destination?",
-          "src": "/nikitaeverywhere-com-content/img/auto/ca113c9d62caa0fc.jpg",
-          "type": "image",
-          "thumbnail": "/nikitaeverywhere-com-content/img/auto/ca113c9d62caa0fc.thumbnail.jpg",
-          "w": 20000,
-          "h": 5000,
-          "d": 1739746206000
-        }
-      ],
-      "html": "<p>Who in Europe even thinks of Barbados as a destination?</p>\n<p>Barbados was a result of the spontaneous decision to go somewhere &quot;very far&quot; from Poland. Indeed, it was over 14 hours of flights and 3 layovers!</p>\n<p>The island was nice, nice nature. Having monkeys just at your villa are so wonderful. Some nature sights and beaches are also worth it all.</p>\n<p>Two things I didn&#39;t like about Barbados is food and the stylishness of places on it. Food (especially vegetables) feels like a typical american low-quality one.\nAnd under stylishness I mean this: when browsing AirBnb to find an apartment in the &quot;medium-to-high&quot; price range, there were pretty no options that I liked. All of them were missing one typical to European thing: the style. All apartments had things caught by your eye to say &quot;nah, who even thinks about the design here&quot;.</p>\n<p>Apart from these issues and quite a high price for all of this (Americas...), the trip was enjoyable.</p>\n"
     },
     {
       "location": {
@@ -8593,7 +8533,204 @@
       ],
       "fromRepo": "nikitaeverywhere/nikitaeverywhere-com-content-2020",
       "html": "<p>Photos, panoramas and videos taken in Ukraine by Nikita Savchenko</p>\n"
+    },
+    {
+      "location": {
+        "name": "Andorra",
+        "code": "AD"
+      },
+      "date-start": 1736553600000,
+      "date-end": 1736726400000,
+      "title": "A few days in Andorra",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "nikitaeverywhere/nikitaeverywhere-com-content-2025",
+      "media": [
+        {
+          "caption": "Andorra is well-known for shopping and its large high ski area. Just enough for a weekend!",
+          "src": "/nikitaeverywhere-com-content/img/auto/90718d8c324a01be.jpg",
+          "type": "image",
+          "thumbnail": "/nikitaeverywhere-com-content/img/auto/90718d8c324a01be.thumbnail.jpg",
+          "w": 20000,
+          "h": 3572,
+          "d": 1736696366000
+        }
+      ],
+      "html": "<p>Andorra is well-known for shopping and its large high ski area. Just enough for a weekend!</p>\n"
+    },
+    {
+      "location": {
+        "name": "Barbados",
+        "code": "BB"
+      },
+      "date-start": 1739232000000,
+      "date-end": 1739836800000,
+      "title": "A week in Barbados",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "nikitaeverywhere/nikitaeverywhere-com-content-2025",
+      "media": [
+        {
+          "caption": "Who in Europe even thinks of Barbados as a destination?",
+          "src": "/nikitaeverywhere-com-content/img/auto/8ca346e98dece864.jpg",
+          "type": "image",
+          "thumbnail": "/nikitaeverywhere-com-content/img/auto/8ca346e98dece864.thumbnail.jpg",
+          "w": 14000,
+          "h": 4375,
+          "d": 1739486557000
+        },
+        {
+          "caption": "Who in Europe even thinks of Barbados as a destination?",
+          "src": "/nikitaeverywhere-com-content/img/auto/db52f4f53d59cc81.jpg",
+          "type": "image",
+          "thumbnail": "/nikitaeverywhere-com-content/img/auto/db52f4f53d59cc81.thumbnail.jpg",
+          "w": 21811,
+          "h": 6619,
+          "d": 1739568721000
+        },
+        {
+          "caption": "Who in Europe even thinks of Barbados as a destination?",
+          "src": "/nikitaeverywhere-com-content/img/auto/ca113c9d62caa0fc.jpg",
+          "type": "image",
+          "thumbnail": "/nikitaeverywhere-com-content/img/auto/ca113c9d62caa0fc.thumbnail.jpg",
+          "w": 20000,
+          "h": 5000,
+          "d": 1739746206000
+        }
+      ],
+      "html": "<p>Who in Europe even thinks of Barbados as a destination?</p>\n<p>Barbados was a result of the spontaneous decision to go somewhere &quot;very far&quot; from Poland. Indeed, it was over 14 hours of flights and 3 layovers!</p>\n<p>The island was nice, nice nature. Having monkeys just at your villa are so wonderful. Some nature sights and beaches are also worth it all.</p>\n<p>Two things I didn&#39;t like about Barbados is food and the stylishness of places on it. Food (especially vegetables) feels like a typical american low-quality one.\nAnd under stylishness I mean this: when browsing AirBnb to find an apartment in the &quot;medium-to-high&quot; price range, there were pretty no options that I liked. All of them were missing one typical to European thing: the style. All apartments had things caught by your eye to say &quot;nah, who even thinks about the design here&quot;.</p>\n<p>Apart from these issues and quite a high price for all of this (Americas...), the trip was enjoyable.</p>\n"
+    },
+    {
+      "location": {
+        "name": "Serbia",
+        "code": "RS"
+      },
+      "date-start": 1745625600000,
+      "date-end": 1745712000000,
+      "title": "A weekend in Belgrade, Serbia",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "nikitaeverywhere/nikitaeverywhere-com-content-2025",
+      "media": [
+        {
+          "caption": "Visiting Serbia was part of my ongoing journey to visit every country in Europe—after this trip, only North Macedonia and Kosovo remain on my list. My time in Belgrade was short, but it left a strong impression. The city itself is quite compact compared to other European capitals; you can easily walk across the center in under an hour.",
+          "src": "/nikitaeverywhere-com-content/img/auto/0901e8a31c474574.jpg",
+          "type": "image",
+          "thumbnail": "/nikitaeverywhere-com-content/img/auto/0901e8a31c474574.thumbnail.jpg",
+          "w": 30225,
+          "h": 5155,
+          "d": 1745692835000
+        }
+      ],
+      "html": "<p>Visiting Serbia was part of my ongoing journey to visit every country in Europe—after this trip, only North Macedonia and Kosovo remain on my list. My time in Belgrade was short, but it left a strong impression. The city itself is quite compact compared to other European capitals; you can easily walk across the center in under an hour.</p>\n<p>During my stay, I noticed groups of people regularly crossing one of the main bridges—a routine that started with anti-corruption protests back in November 2024. The atmosphere felt lively and engaged, and people! So focused!</p>\n<p>I was surprised to discover that, contrary to my expectations, Serbian is very much its own language and not mutually intelligible with Russian.</p>\n<p>Throughout the city, I saw many signs and artifacts referencing Kosovo and calling for its &quot;return home,&quot; reflecting ongoing local sentiments.</p>\n<p>One unusual sight: I encountered a man in a balaclava waiting by a doorway in broad daylight—something I hadn’t seen elsewhere. Despite this, Belgrade felt generally friendly and welcoming.</p>\n<p>Overall, Serbia offered a unique and memorable experience on my European journey.</p>\n"
+    },
+    {
+      "location": {
+        "name": "North Macedonia",
+        "code": "MK"
+      },
+      "date-start": 1745712000000,
+      "date-end": 1745884800000,
+      "title": "A few days in North Macedonia",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "nikitaeverywhere/nikitaeverywhere-com-content-2025",
+      "media": [
+        {
+          "caption": "North Macedonia! If you want to name one country that renamed itself in the past years, that's North Macedonia.",
+          "src": "/nikitaeverywhere-com-content/img/auto/920fd95031d545b8.jpg",
+          "type": "image",
+          "thumbnail": "/nikitaeverywhere-com-content/img/auto/920fd95031d545b8.thumbnail.jpg",
+          "w": 20000,
+          "h": 4528,
+          "d": 1745782630000
+        },
+        {
+          "caption": "North Macedonia! If you want to name one country that renamed itself in the past years, that's North Macedonia.",
+          "src": "/nikitaeverywhere-com-content/img/auto/7f88cf91c3cf8b16.jpg",
+          "type": "image",
+          "thumbnail": "/nikitaeverywhere-com-content/img/auto/7f88cf91c3cf8b16.thumbnail.jpg",
+          "w": 3503,
+          "h": 4378,
+          "d": 1745782915000
+        },
+        {
+          "caption": "North Macedonia! If you want to name one country that renamed itself in the past years, that's North Macedonia.",
+          "src": "/nikitaeverywhere-com-content/img/auto/5aa06717f8d6cbc9.jpg",
+          "type": "image",
+          "thumbnail": "/nikitaeverywhere-com-content/img/auto/5aa06717f8d6cbc9.thumbnail.jpg",
+          "w": 20000,
+          "h": 5278,
+          "d": 1745787181000
+        },
+        {
+          "caption": "North Macedonia! If you want to name one country that renamed itself in the past years, that's North Macedonia.",
+          "src": "/nikitaeverywhere-com-content/img/auto/9a1c2c87cb4820b1.jpg",
+          "type": "image",
+          "thumbnail": "/nikitaeverywhere-com-content/img/auto/9a1c2c87cb4820b1.thumbnail.jpg",
+          "w": 30000,
+          "h": 6086,
+          "d": 1745866654000
+        },
+        {
+          "caption": "North Macedonia! If you want to name one country that renamed itself in the past years, that's North Macedonia.",
+          "src": "/nikitaeverywhere-com-content/img/auto/abea3f530a4036da.jpg",
+          "type": "image",
+          "thumbnail": "/nikitaeverywhere-com-content/img/auto/abea3f530a4036da.thumbnail.jpg",
+          "w": 5920,
+          "h": 7400,
+          "d": 1745866962000
+        }
+      ],
+      "html": "<p>North Macedonia! If you want to name one country that renamed itself in the past years, that&#39;s North Macedonia.</p>\n<p>After the visit I continued my journey to Greek&#39;s Macedonia - the reason of the change. Both Greece and North Macedonia\nwanted to claim the name &quot;Macedonia&quot; - and in February 2019 it was renamed to &quot;North&quot;.</p>\n<p>The country itself feels like a peaceful piece of land to live in, with its own language, style and governance.\nMountains and lakes around Skopje make it a really beautiful destination.</p>\n<p>From Skopje, I&#39;ve made a 1-day trip to see Pristina, which is a few hours away from Skopje.</p>\n<p>And... Spent almost entire day hiking the mountain, as you can&#39;t go there by car and need to walk for around 1 or 1.5 hours,\nas the cable car was closed on Monday. It&#39;s worth it, but perhaps not something to do on every weekend!</p>\n"
+    },
+    {
+      "location": {
+        "name": "Kosovo",
+        "code": "XK"
+      },
+      "date-start": 1745798400000,
+      "title": "A day in Kosovo",
+      "importance": 1,
+      "tags": [
+        "travel",
+        "photography"
+      ],
+      "fromRepo": "nikitaeverywhere/nikitaeverywhere-com-content-2025",
+      "media": [
+        {
+          "caption": "Kosovo is one of the \"youngest\" countries in Europe, having declared its independence in 2008 (fact: Ukraine has not recognized Kosovo's independence).",
+          "src": "/nikitaeverywhere-com-content/img/auto/f22588438a92a1f9.jpg",
+          "type": "image",
+          "thumbnail": "/nikitaeverywhere-com-content/img/auto/f22588438a92a1f9.thumbnail.jpg",
+          "w": 5862,
+          "h": 7816,
+          "d": 1745849035000
+        },
+        {
+          "caption": "Kosovo is one of the \"youngest\" countries in Europe, having declared its independence in 2008 (fact: Ukraine has not recognized Kosovo's independence).",
+          "src": "/nikitaeverywhere-com-content/img/auto/c3d44dd96ab7755d.jpg",
+          "type": "image",
+          "thumbnail": "/nikitaeverywhere-com-content/img/auto/c3d44dd96ab7755d.thumbnail.jpg",
+          "w": 30000,
+          "h": 5517,
+          "d": 1745849549000
+        }
+      ],
+      "html": "<p>Kosovo is one of the &quot;youngest&quot; countries in Europe, having declared its independence in 2008 (fact: Ukraine has not recognized Kosovo&#39;s independence).</p>\n<p>Its capital, Pristina, is known for its vibrant street life and unique blend of cultures. I was especially impressed to see a very big Ukrainian flag displayed on the central square, a symbol of solidarity that stood out during my visit.</p>\n<p>The main reason for my trip was to see the National Library of Kosovo, famous for its striking and unconventional architecture—it&#39;s truly one of the most scenic libraries I&#39;ve ever visited.</p>\n"
     }
   ],
-  "lastUpdateAt": 1744041760878
+  "lastUpdateAt": 1749387459395
 }
